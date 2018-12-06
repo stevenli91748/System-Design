@@ -28,7 +28,7 @@
      * [4.8.3.  Write behind]
      * [4.8.4.  Refresh ahead]
 
-# 5  Web server
+# 5  反向代理
 
 # 6  Interface API
 
