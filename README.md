@@ -34,4 +34,23 @@
   * [7.1.  Microservice]
   * [7.2.  Service Discovery]
 
-# 8  
+# 8  Database
+  * [8.1. SQL--Relational database management system(RDBMS)]
+     * [8.1.1.  Master slave replication]
+     * [8.1.2.  Master master replication]
+     * [8.1.3.  Federation]
+     * [8.1.4.  Sharding]
+     * [8.1.5.  Denormalization]
+     * [8.1.6.  SQL tuning]
+  * [8.2.  NoSQL]
+     * [8.2.1.  key-value store]
+     * [8.2.2.  Document store]
+     * [8.2.3.  Wide column store ]
+     * [8.2.4.  Graph database]
+# 9  Asynchronism
+
+# 10 Communication
+
+# 11 Security
+
+
