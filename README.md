@@ -10,6 +10,9 @@
    
 # 3  Load Balancer
 
+   * [3.5.  Layer 4 load balancing]
+   * [3.6.  Layer 7 load balancing]
+
 # 4  Cache
 
   * [4.1.  Client caching]
@@ -53,7 +56,11 @@
      * [8.2.3.  Wide column store ]
      * [8.2.4.  Graph database]
      
-# 9  Asynchronism
+# 9  异步
+
+    * [9.1.  消息队列]
+    * [9.2.  任务队列]
+    * [9.3.  背压机制]
 
 # 10 Communication
 
