@@ -5,6 +5,9 @@
 
 # 2  CDN (Content Delivery Network)
 
+   * [2.1.  Push CDNs]
+   * [2.2.  Pull CDNs]
+   
 # 3  Load Balancer
 
 # 4  Cache
@@ -31,10 +34,12 @@
   * [6.3.  Searching API]
   
 # 7  Application Layer
+
   * [7.1.  Microservice]
   * [7.2.  Service Discovery]
 
 # 8  Database
+
   * [8.1. SQL--Relational database management system(RDBMS)]
      * [8.1.1.  Master slave replication]
      * [8.1.2.  Master master replication]
@@ -47,6 +52,7 @@
      * [8.2.2.  Document store]
      * [8.2.3.  Wide column store ]
      * [8.2.4.  Graph database]
+     
 # 9  Asynchronism
 
 # 10 Communication
