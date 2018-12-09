@@ -35,6 +35,11 @@
 
 ## 4  Cache
 
+<p align="center">
+  <img src="http://i.imgur.com/jj3A5N8.png">
+  <br/>
+</p>
+
   * [4.1.  Client caching]
   * [4.2.  HTTP  Caching]  
   * [4.3.  CDN caching]
