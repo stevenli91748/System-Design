@@ -20,6 +20,11 @@
 
 # 4.  系统架构层次结构
 
+<p align="center">
+  <img src="http://i.imgur.com/jj3A5N8.png">
+  <br/>
+</p>
+
 ## 1  DNS (Domain Name System)  
 
 
@@ -34,11 +39,6 @@
    * [3.6.  Layer 7 load balancing]
 
 ## 4  Cache
-
-<p align="center">
-  <img src="http://i.imgur.com/jj3A5N8.png">
-  <br/>
-</p>
 
   * [4.1.  Client caching]
   * [4.2.  HTTP  Caching]  
