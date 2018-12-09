@@ -36,18 +36,19 @@
 ## 4  Cache
 
   * [4.1.  Client caching]
-  * [4.2.  CDN caching]
-  * [4.3.  Web server caching ]
-  * [4.4.  Database caching]
-  * [4.5.  Application caching]
-  * [4.6.  Caching at database query level]
-  * [4.7.  Caching at object level]
-  * [4.8.  When to update the cache]
-     * [4.8.1.  Cache aside]
-     * [4.8.2.  Write through]
-     * [4.8.3.  Write behind]
-     * [4.8.4.  Refresh ahead]
-  * [4.9.  HTTP  Caching]
+  * [4.2.  HTTP  Caching]  
+  * [4.3.  CDN caching]
+  * [4.4.  Web server caching ]
+  * [4.5.  Database caching]
+  * [4.6.  Application caching]
+  * [4.7.  Caching at database query level]
+  * [4.8.  Caching at object level]
+  * [4.9.  When to update the cache]
+     * [4.9.1.  Cache aside]
+     * [4.9.2.  Write through]
+     * [4.9.3.  Write behind]
+     * [4.9.4.  Refresh ahead]
+  
 
 ## 5  反向代理
 
