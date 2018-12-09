@@ -20,14 +20,14 @@
 
 # 4.  系统架构层次结构
 
-采用RESTful API 技术
+## 采用RESTful API 技术
 <p align="center">
   <img src="http://i.imgur.com/jj3A5N8.png">
   <br/>
 </p>
 
 ---
-采用微服务技术 + RESTful API 技术
+## 采用微服务技术 + RESTful API 技术
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
