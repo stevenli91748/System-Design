@@ -1,19 +1,21 @@
-# System-Design
+# 1.  System-Design
 
-# 1  DNS (Domain Name System)  
+# 2.  系统架构层次结构
+
+## 1  DNS (Domain Name System)  
 
 
-# 2  CDN (Content Delivery Network)
+## 2  CDN (Content Delivery Network)
 
    * [2.1.  Push CDNs]
    * [2.2.  Pull CDNs]
    
-# 3  Load Balancer
+## 3  Load Balancer
 
    * [3.5.  Layer 4 load balancing]
    * [3.6.  Layer 7 load balancing]
 
-# 4  Cache
+## 4  Cache
 
   * [4.1.  Client caching]
   * [4.2.  CDN caching]
@@ -28,20 +30,20 @@
      * [4.8.3.  Write behind]
      * [4.8.4.  Refresh ahead]
 
-# 5  反向代理
+## 5  反向代理
 
-# 6  Interface API
+## 6  Interface API
 
   * [6.1.  Writing API]
   * [6.2.  Reading API]
   * [6.3.  Searching API]
   
-# 7  Application Layer
+## 7  Application Layer
 
   * [7.1.  Microservice]
   * [7.2.  Service Discovery]
 
-# 8  Database
+## 8  Database
 
   * [8.1. SQL--Relational database management system(RDBMS)]
      * [8.1.1.  Master slave replication]
@@ -56,13 +58,13 @@
      * [8.2.3.  Wide column store ]
      * [8.2.4.  Graph database]
      
-# 9  异步
+## 9  异步
 
   * [9.1.  消息队列]
   * [9.2.  任务队列]
   * [9.3.  背压机制]
 
-# 10 通信
+## 10 通信
 
   * [10.1.  传输控制协议（TCP）]
   * [10.2.  用户数据报协议（UDP）]
@@ -70,6 +72,6 @@
   * [10.4.  表述性状态转移（REST]
     
 
-# 11 Security
+## 11 Security
 
 
