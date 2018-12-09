@@ -47,6 +47,7 @@
      * [4.8.2.  Write through]
      * [4.8.3.  Write behind]
      * [4.8.4.  Refresh ahead]
+  * [4.9.  HTTP  Caching]
 
 ## 5  反向代理
 
