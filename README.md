@@ -25,6 +25,10 @@
   <br/>
 </p>
 
+---
+
+![Imgur](http://i.imgur.com/jrUBAF7.png)
+
 ## 1  DNS (Domain Name System)  
 
 
