@@ -38,6 +38,14 @@
 ## 1  DNS (Domain Name System)  
 
 
+
+
+
+
+# 有用的参考
+
+  * [Java系统的高并发解决方法详解](https://www.jb51.net/article/124145.htm)
+
 ## 2  CDN (Content Delivery Network)
 
    * [2.1.  Push CDNs]
