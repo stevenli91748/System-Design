@@ -114,3 +114,4 @@
 # 有用的参考
 
   * [Java系统的高并发解决方法详解](https://www.jb51.net/article/124145.htm)
+  * [Java使用代码模拟高并发操作的示例](https://www.jb51.net/article/139429.htm)
