@@ -118,3 +118,4 @@
   * [什么是高并发 ，详细讲解](https://blog.csdn.net/DreamWeaver_zhou/article/details/78587580)
   * [9种高性能高可用高并发的技术架构](https://blog.csdn.net/guolong1983811/article/details/78604814)
   * [高并发、高性能 Web 架构](https://blog.csdn.net/qq_26562641/article/details/58597154)
+  * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
