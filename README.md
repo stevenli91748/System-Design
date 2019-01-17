@@ -120,3 +120,4 @@
   * [高并发、高性能 Web 架构](https://blog.csdn.net/qq_26562641/article/details/58597154)
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
   * [石杉的架构笔记](https://juejin.im/user/5be0588ae51d452b0255727d)
+  * [软件开发工作过程中的一些总结](http://www.youmeek.com/java-sofaware-engineer/)
