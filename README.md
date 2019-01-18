@@ -130,3 +130,4 @@
   * [电商系统学习笔记之一系统架构](https://blog.csdn.net/hanruikai/article/details/79928211)
   * [百万级别网站架构思路](https://blog.csdn.net/ahjxhy2010/article/details/79854980)
   * [大型电商网站千万级别架构案例和技术架构【推荐】](https://blog.csdn.net/jianai0602/article/details/80346837)
+  * [结合实例谈项目架构设计](https://blog.csdn.net/javayujiafeng/article/details/79086710)
