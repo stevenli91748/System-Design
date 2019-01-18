@@ -121,6 +121,7 @@
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
   * [石杉的架构笔记](https://juejin.im/user/5be0588ae51d452b0255727d)
   * [软件开发工作过程中的一些总结](http://www.youmeek.com/java-sofaware-engineer/)
+  * [Java构建高并发高可用的电商平台架构实践](https://blog.csdn.net/lsm135/article/details/50920483)
   * [大型分布式电商系统架构是如何从0开始演进的？](https://blog.csdn.net/jianai0602/article/details/80346837)
   * [电商系统学习笔记之一系统架构](https://blog.csdn.net/hanruikai/article/details/79928211)
   * [百万级别网站架构思路](https://blog.csdn.net/ahjxhy2010/article/details/79854980)
