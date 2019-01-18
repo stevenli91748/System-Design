@@ -121,6 +121,10 @@
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
   * [石杉的架构笔记](https://juejin.im/user/5be0588ae51d452b0255727d)
   * [软件开发工作过程中的一些总结](http://www.youmeek.com/java-sofaware-engineer/)
+  
+ ### 大型网站架构 
+  * [从 0 到 1，Java Web 网站架构搭建的技术演进](https://blog.csdn.net/qq_40267706/article/details/78628352)
+  * [1千用户与1千万用户的网站系统架构区别？](https://blog.csdn.net/zqftisson/article/details/51777042)
   * [Java构建高并发高可用的电商平台架构实践](https://blog.csdn.net/lsm135/article/details/50920483)
   * [大型分布式电商系统架构是如何从0开始演进的？](https://blog.csdn.net/jianai0602/article/details/80346837)
   * [电商系统学习笔记之一系统架构](https://blog.csdn.net/hanruikai/article/details/79928211)
