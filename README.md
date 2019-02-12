@@ -123,6 +123,7 @@
   * [软件开发工作过程中的一些总结](http://www.youmeek.com/java-sofaware-engineer/)
   * [架构设计和技术选型的思路总结](https://blog.csdn.net/yl2isoft/article/details/53217833)
   * [后台服务程序框架技术选型方案](https://blog.csdn.net/coloriy/article/details/66969756)
+  * [组件化、模块化、集中式、分布式、服务化、面向服务的架构、微服务架构](https://blog.csdn.net/AlbenXie/article/details/73478162)
   
  ### 大型网站架构 
   * [从 0 到 1，Java Web 网站架构搭建的技术演进](https://blog.csdn.net/qq_40267706/article/details/78628352)
