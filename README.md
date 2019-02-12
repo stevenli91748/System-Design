@@ -121,6 +121,7 @@
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
   * [石杉的架构笔记](https://juejin.im/user/5be0588ae51d452b0255727d)
   * [软件开发工作过程中的一些总结](http://www.youmeek.com/java-sofaware-engineer/)
+  * [架构设计和技术选型的思路总结](https://blog.csdn.net/yl2isoft/article/details/53217833)
   
  ### 大型网站架构 
   * [从 0 到 1，Java Web 网站架构搭建的技术演进](https://blog.csdn.net/qq_40267706/article/details/78628352)
@@ -131,3 +132,4 @@
   * [百万级别网站架构思路](https://blog.csdn.net/ahjxhy2010/article/details/79854980)
   * [大型电商网站千万级别架构案例和技术架构【推荐】](https://blog.csdn.net/jianai0602/article/details/80346837)
   * [结合实例谈项目架构设计](https://blog.csdn.net/javayujiafeng/article/details/79086710)
+  
