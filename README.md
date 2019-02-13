@@ -127,6 +127,7 @@
   * [web前端技术框架选型参考](https://blog.csdn.net/aaa333qwe/article/details/78416211)
   * [几种后端开发技术的选型调研](https://blog.csdn.net/dipolar/article/details/51804192)
   * [后台服务程序框架技术选型方案](https://blog.csdn.net/coloriy/article/details/66969756)
+  * [传统架构到分布式架构](https://blog.csdn.net/samjustin1/article/details/81073845)
   
  ### 大型网站架构 
   * [从 0 到 1，Java Web 网站架构搭建的技术演进](https://blog.csdn.net/qq_40267706/article/details/78628352)
