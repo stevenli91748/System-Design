@@ -128,6 +128,7 @@
   * [几种后端开发技术的选型调研](https://blog.csdn.net/dipolar/article/details/51804192)
   * [后台服务程序框架技术选型方案](https://blog.csdn.net/coloriy/article/details/66969756)
   * [传统架构到分布式架构](https://blog.csdn.net/samjustin1/article/details/81073845)
+  * [个人开发web应用，从需求设计，界面设计，数据库设计，API设计等，好的开发流程是怎么样的？](https://www.zhihu.com/question/24976128)
   
  ### 大型网站架构 
   * [从 0 到 1，Java Web 网站架构搭建的技术演进](https://blog.csdn.net/qq_40267706/article/details/78628352)
