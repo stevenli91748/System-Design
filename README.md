@@ -6,7 +6,7 @@
 # 1.  System-Design
  # 1.1  系统设计流程
  
- ![Imgur](https://ibb.co/LCrmHH2)        
+ ![Imgur](https://i.ibb.co/qRCKVVP/1.jpg)        
  
  需求设计
         
