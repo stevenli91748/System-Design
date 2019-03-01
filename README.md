@@ -67,11 +67,8 @@
    * [2.2.  Pull CDNs]
    
 ## 3. [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
-   
 
-
-
-   * [浅谈微服务中的 API 网关（API Gateway）](https://zhuanlan.zhihu.com/p/31786017)
+  
 ## 4  Load Balancer
 
    * [4.1.  Layer 4 load balancing]
