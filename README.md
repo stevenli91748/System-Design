@@ -66,71 +66,73 @@
    * [2.1.  Push CDNs]
    * [2.2.  Pull CDNs]
    
-## 3  Load Balancer
+## 3. API Gateway
 
-   * [3.5.  Layer 4 load balancing]
-   * [3.6.  Layer 7 load balancing]
+## 4  Load Balancer
 
-## 4  Cache
+   * [4.1.  Layer 4 load balancing]
+   * [4.2.  Layer 7 load balancing]
 
-  * [4.1.  Client caching]
-  * [4.2.  HTTP  Caching]  
-  * [4.3.  CDN caching]
-  * [4.4.  Web server caching ]
-  * [4.5.  Database caching]
-  * [4.6.  Application caching]
-  * [4.7.  Caching at database query level]
-  * [4.8.  Caching at object level]
-  * [4.9.  When to update the cache]
-     * [4.9.1.  Cache aside]
-     * [4.9.2.  Write through]
-     * [4.9.3.  Write behind]
-     * [4.9.4.  Refresh ahead]
+## 5  Cache
+
+  * [5.1.  Client caching]
+  * [5.2.  HTTP  Caching]  
+  * [5.3.  CDN caching]
+  * [5.4.  Web server caching ]
+  * [5.5.  Database caching]
+  * [5.6.  Application caching]
+  * [5.7.  Caching at database query level]
+  * [5.8.  Caching at object level]
+  * [5.9.  When to update the cache]
+     * [5.9.1.  Cache aside]
+     * [5.9.2.  Write through]
+     * [5.9.3.  Write behind]
+     * [5.9.4.  Refresh ahead]
   
 
-## 5  反向代理
+## 6  反向代理
 
-## 6  Interface API
+## 7  Interface API
 
-  * [6.1.  Writing API]
-  * [6.2.  Reading API]
-  * [6.3.  Searching API]
+  * [7.1.  Writing API]
+  * [7.2.  Reading API]
+  * [7.3.  Searching API]
   
-## 7  Application Layer
+## 8  Application Layer
 
-  * [7.1.  Microservice]
-  * [7.2.  Service Discovery]
+  * [8.1.  Microservice]
+  * [8.2.  Service Discovery]
 
-## 8  Database
+## 9  Database
 
-  * [8.1. SQL--Relational database management system(RDBMS)]
-     * [8.1.1.  Master slave replication]
-     * [8.1.2.  Master master replication]
-     * [8.1.3.  Federation]
-     * [8.1.4.  Sharding]
-     * [8.1.5.  Denormalization]
-     * [8.1.6.  SQL tuning]
-  * [8.2.  NoSQL]
-     * [8.2.1.  key-value store]
-     * [8.2.2.  Document store]
-     * [8.2.3.  Wide column store ]
-     * [8.2.4.  Graph database]
+  * [9.1. SQL--Relational database management system(RDBMS)]
+     * [9.1.1.  Master slave replication]
+     * [9.1.2.  Master master replication]
+     * [9.1.3.  Federation]
+     * [9.1.4.  Sharding]
+     * [9.1.5.  Denormalization]
+     * [9.1.6.  SQL tuning]
+  * [9.2.  NoSQL]
+     * [9.2.1.  key-value store]
+     * [9.2.2.  Document store]
+     * [9.2.3.  Wide column store ]
+     * [9.2.4.  Graph database]
      
-## 9  异步
+## 10  异步
 
-  * [9.1.  消息队列]
-  * [9.2.  任务队列]
-  * [9.3.  背压机制]
+  * [10.1.  消息队列]
+  * [10.2.  任务队列]
+  * [10.3.  背压机制]
 
-## 10 通信
+## 11 通信
 
-  * [10.1.  传输控制协议（TCP）]
-  * [10.2.  用户数据报协议（UDP）]
-  * [10.3.  远程过程调用协议（RPC]
-  * [10.4.  表述性状态转移（REST]
+  * [11.1.  传输控制协议（TCP）]
+  * [11.2.  用户数据报协议（UDP）]
+  * [11.3.  远程过程调用协议（RPC]
+  * [11.4.  表述性状态转移（REST]
     
 
-## 11 Security
+## 12 Security
 
 
 # 内容
