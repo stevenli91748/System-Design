@@ -42,4 +42,5 @@
  * [web项目前后端开发过程和体会](https://blog.csdn.net/gu_ude_god/article/details/81570544)
  * [构建SpringMVCRestful前后端分离项目实例](https://blog.csdn.net/songxinjianqwe/article/details/54976251)
  * [Docker 对前后端分离项目的部署和运维（详述）](https://blog.csdn.net/qq_35394891/article/details/83027804)
+ * [API网关 Zuul1.0 和 2.0 我们该如何选择？](https://mp.weixin.qq.com/s/WlDCpdh3_ygCCd63Gsth6Q)
  
