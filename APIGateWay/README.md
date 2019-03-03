@@ -5,6 +5,7 @@
 
 
 # 有用的参考
+ * [自建API网关-架构设计篇](http://blog.didispace.com/自建API网关-架构设计篇/)
  * [浅谈微服务中的 API 网关（API Gateway）](https://zhuanlan.zhihu.com/p/31786017)
  * [一个简单可参考的 API 网关架构设计](https://www.infoq.cn/article/api-gateway-architecture-design)
  * [有赞API网关实践](https://tech.youzan.com/api-gateway-in-practice/)
