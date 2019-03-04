@@ -5,6 +5,7 @@
 
 
 # 有用的参考
+ * [百亿流量 API 网关设计与实践](https://gitbook.cn/books/5bbb3d2a61d11c2d996be26b/index.html)
  * [API网关的作用、方案以及如何选择](http://blog.didispace.com/API网关的作用、方案以及如何选择/)
  * [自建API网关-架构设计篇](http://blog.didispace.com/自建API网关-架构设计篇/)
  * [浅谈微服务中的 API 网关（API Gateway）](https://zhuanlan.zhihu.com/p/31786017)
