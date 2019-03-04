@@ -193,4 +193,5 @@
   * [结合实例谈项目架构设计](https://blog.csdn.net/javayujiafeng/article/details/79086710)
   * [吃透这套架构演化图，从零搭建Web网站也不难！](https://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650763749&idx=1&sn=74b4fea08061fde4e5cee4dca47246ce&chksm=f3f9c470c48e4d665e15ee6e156ca2a42d18a71cacefd0d07acba4e85259b65b34631a641628&scene=21#wechat_redirect)
   * [3分钟读懂何为分布式、微服务和集群](https://juejin.im/entry/59fa91225188255851320783)
+  * [消息中间件如何实现每秒几十万的高并发写入？](https://juejin.im/post/5c7bd09b6fb9a049ba424c15)
   
