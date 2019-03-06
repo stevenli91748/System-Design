@@ -46,4 +46,5 @@
  * [Docker 对前后端分离项目的部署和运维（详述）](https://blog.csdn.net/qq_35394891/article/details/83027804)
  * [API网关 Zuul1.0 和 2.0 我们该如何选择？](https://mp.weixin.qq.com/s/WlDCpdh3_ygCCd63Gsth6Q)
  * [微网关与服务啮合](http://blog.didispace.com/microgateway-and-service-mesh/)
+ * [聊聊 API Gateway 和 Netflix Zuul](http://www.scienjus.com/api-gateway-and-netflix-zuul/)
  
