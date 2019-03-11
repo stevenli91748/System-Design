@@ -35,7 +35,7 @@
  
  系统非功能性设计的6个方向
       
-  * 1.1.  高性能架构
+  * 1.1.  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
   * 1.2.  高可用性架构
   * 1.3.  高伸缩性架构
   * 1.4.  高櫎展性架构
