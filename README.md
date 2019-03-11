@@ -40,7 +40,7 @@
   * 1.3.  高伸缩性架构
   * 1.4.  高櫎展性架构
   * 1.5.  高安全性架构
-  * 1.6.  高并发架构
+  * 1.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
 
 # [2.  分布式系统](https://github.com/stevenli91748/Distributed-System)
 
