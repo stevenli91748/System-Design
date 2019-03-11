@@ -162,11 +162,6 @@
  
 # 有用的参考
 
-  * [Java系统的高并发解决方法详解](https://www.jb51.net/article/124145.htm)
-  * [Java使用代码模拟高并发操作的示例](https://www.jb51.net/article/139429.htm)
-  * [什么是高并发 ，详细讲解](https://blog.csdn.net/DreamWeaver_zhou/article/details/78587580)
-  * [9种高性能高可用高并发的技术架构](https://blog.csdn.net/guolong1983811/article/details/78604814)
-  * [高并发、高性能 Web 架构](https://blog.csdn.net/qq_26562641/article/details/58597154)
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
   * [石杉的架构笔记](https://juejin.im/user/5be0588ae51d452b0255727d)
   * [软件开发工作过程中的一些总结](http://www.youmeek.com/java-sofaware-engineer/)
@@ -182,7 +177,6 @@
  ### 大型网站架构 
   * [从 0 到 1，Java Web 网站架构搭建的技术演进](https://blog.csdn.net/qq_40267706/article/details/78628352)
   * [1千用户与1千万用户的网站系统架构区别？](https://blog.csdn.net/zqftisson/article/details/51777042)
-  * [Java构建高并发高可用的电商平台架构实践](https://blog.csdn.net/lsm135/article/details/50920483)
   * [大型分布式电商系统架构是如何从0开始演进的？](https://blog.csdn.net/jianai0602/article/details/80346837)
   * [电商系统学习笔记之一系统架构](https://blog.csdn.net/hanruikai/article/details/79928211)
   * [百万级别网站架构思路](https://blog.csdn.net/ahjxhy2010/article/details/79854980)
