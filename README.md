@@ -69,7 +69,7 @@
 ## 3. [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
 
   
-## 4  Load Balancer
+## 4  负载均衡
 
    * [4.1.  Layer 4 load balancing]
    * [4.2.  Layer 7 load balancing]
