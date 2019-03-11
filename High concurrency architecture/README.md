@@ -11,3 +11,5 @@
 * [电商那些年，我摸爬打滚出的高并发架构实战精髓（二）](https://blog.csdn.net/weixin_37288522/article/details/79624228)
 * [电商那些年，我摸爬打滚出的高并发架构实战精髓(续)](https://blog.csdn.net/wulantian/article/details/66967807)
 * [高并发高可用服务设计思路](https://blog.csdn.net/u013322876/article/details/80605183)
+* [关于java高并发设计整合-分布式事务(转发)](https://blog.csdn.net/rainyear/article/details/81294959)
+
