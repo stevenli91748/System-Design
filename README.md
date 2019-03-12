@@ -186,3 +186,7 @@
   * [3分钟读懂何为分布式、微服务和集群](https://juejin.im/entry/59fa91225188255851320783)
   * [消息中间件如何实现每秒几十万的高并发写入？](https://juejin.im/post/5c7bd09b6fb9a049ba424c15)
   
+### 亿级流量系统架构
+
+* [亿级流量系统架构之如何支撑百亿级数据的存储与计算](https://juejin.im/post/5bfab59fe51d4551584c7bcf)
+* [亿级流量系统架构之如何设计高容错分布式计算系统](https://juejin.im/post/5bfbeeb9f265da61407e9679)
