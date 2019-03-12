@@ -18,5 +18,6 @@
 * [9种高性能高可用高并发的技术架构](https://blog.csdn.net/guolong1983811/article/details/78604814)
 * [高并发、高性能 Web 架构](https://blog.csdn.net/qq_26562641/article/details/58597154)
 * [Java构建高并发高可用的电商平台架构实践](https://blog.csdn.net/lsm135/article/details/50920483)
+* [生产实践总结】支撑百万连接的系统应该如何设计其高并发架构？](https://juejin.im/post/5c7fcf1be51d457d0353d5ea)
 
 
