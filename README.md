@@ -159,7 +159,7 @@
  * 大型网站技术核心原理与案例分析
  * 架构解密.从分布式到微服务
  * 亿级流量网站架构核心技术+跟开涛学搭建高可用高并发系统
- 
+ * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
 # 有用的参考
 
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
