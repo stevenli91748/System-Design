@@ -61,7 +61,7 @@
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
-## 1  DNS (Domain Name System)  
+## 1  [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
 
 ## 2  CDN (Content Delivery Network)
 
