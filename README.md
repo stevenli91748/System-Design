@@ -165,6 +165,7 @@
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
 # 有用的参考
 
+ * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
   * [石杉的架构笔记](https://juejin.im/user/5be0588ae51d452b0255727d)
   * [软件开发工作过程中的一些总结](http://www.youmeek.com/java-sofaware-engineer/)
