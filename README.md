@@ -125,12 +125,12 @@
   * [10.2.  任务队列]
   * [10.3.  背压机制]
 
-## 11 通信
+## [11 网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
 
-  * [11.1.  传输控制协议（TCP）]
-  * [11.2.  用户数据报协议（UDP）]
-  * [11.3.  远程过程调用协议（RPC]
-  * [11.4.  表述性状态转移（REST]
+## 12 数据交互
+  * json
+  * XML
+  * Google Protocol Buffer
 
 ## 12 分布式存储系统
 
