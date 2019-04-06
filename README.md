@@ -179,6 +179,7 @@
   * [个人开发web应用，从需求设计，界面设计，数据库设计，API设计等，好的开发流程是怎么样的？](https://www.zhihu.com/question/24976128)
   * [一个比较不错的大型分布式网站架构技术总结，可做参考](https://blog.csdn.net/hjm4702192/article/details/79612611)
   * [大型分布式网站架构实战项目分析](https://blog.csdn.net/yunzhaji3762/article/details/80113693)
+  * [大型网站架构演化](https://www.jianshu.com/p/526df44a11f1)
   
  ### 大型网站架构 
   * [从 0 到 1，Java Web 网站架构搭建的技术演进](https://blog.csdn.net/qq_40267706/article/details/78628352)
