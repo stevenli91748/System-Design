@@ -8,6 +8,7 @@
  ![Imgur](https://i.ibb.co/qRCKVVP/1.jpg)        
 
 # 1.0 软件开发文档模板
+  *   SVN+Axure合作开发原型图
 
 # 1.1  系统设计流程
   * 人员安排
