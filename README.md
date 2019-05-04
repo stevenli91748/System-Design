@@ -195,6 +195,7 @@
   * [消息中间件如何实现每秒几十万的高并发写入？](https://juejin.im/post/5c7bd09b6fb9a049ba424c15)
   * [线上服务宕机时，如何保证数据100%不丢失](https://juejin.im/post/5c190f02518825046c2f6a5c)
   * [阿里 P9 级面试官是如何 360° 无死角考察候选人的？](https://blog.csdn.net/csdnnews/article/details/89702195)
+  * [设计扛住千万级流量架构](https://blog.csdn.net/qq_35394891/article/details/80992999)
   
 ### 亿级流量系统架构
 
