@@ -215,6 +215,8 @@
 
 # 项目实战
 
+<a href="https://ibb.co/yfFwVxw"><img src="https://i.ibb.co/znVyNty/along.jpg" alt="along" border="0"></a>
+
 * [项目实战1—LNMP的搭建、nginx的ssl加密、身份验证的实现](https://www.cnblogs.com/along21/p/7822228.html)
 * [项目详解2—LVS负载均衡详解](https://www.cnblogs.com/along21/p/7784394.html)
 * [项目实战2—实现基于LVS负载均衡集群的电商网站架构](https://www.cnblogs.com/along21/p/7833261.html)
