@@ -213,6 +213,37 @@
 * [亿级流量系统架构之如何保证百亿流量下的数据一致性（下）](https://juejin.im/post/5c34a74be51d4557db5a03fc)
 
 
+# 项目实战
+
+* [项目实战1—LNMP的搭建、nginx的ssl加密、身份验证的实现](https://www.cnblogs.com/along21/p/7822228.html)
+* [项目详解2—LVS负载均衡详解](https://www.cnblogs.com/along21/p/7784394.html)
+* [项目实战2—实现基于LVS负载均衡集群的电商网站架构](https://www.cnblogs.com/along21/p/7833261.html)
+* [项目实战2.1—nginx 反向代理负载均衡、动静分离和缓存的实现](https://www.cnblogs.com/along21/p/7842729.html)
+* [项目实战3—实现基于Keepalived+LVS的高可用集群网站架构](https://www.cnblogs.com/along21/p/7841132.html)
+* [项目实战4—HAProxy实现高级负载均衡实战和ACL控制](https://www.cnblogs.com/along21/p/7873998.html)
+* [项目详解4—haproxy 反向代理负载均衡](https://www.cnblogs.com/along21/p/7899771.html)
+* [项目实战5—企业级缓存系统varnish应用与实战](https://www.cnblogs.com/along21/p/7911628.html)
+* [项目实战6—Mysql实现企业级日志管理、备份与恢复实战](https://www.cnblogs.com/along21/p/8005775.html)
+* [项目实战7—Mysql实现企业级数据库主从复制架构实战](https://www.cnblogs.com/along21/p/8011596.html)
+* [项目实战8—tomcat企业级Web应用服务器配置与会话保持](https://www.cnblogs.com/along21/p/8024719.html)
+* [项目实战8.1-Linux下Tomcat开启查看GC信息](https://www.cnblogs.com/along21/p/9177578.html)
+* [项目实战9—企业级分布式存储应用与实战MogileFS、FastDFS](https://www.cnblogs.com/along21/p/7911676.html)
+* [项目实战10.1—企业级自动化运维工具应用实战-ansible](https://www.cnblogs.com/along21/p/8241542.html)
+* [项目实战10.2--企业级自动化运维工具---puppet详解](https://www.cnblogs.com/along21/p/10369858.html)
+* []()
+* [项目实战11—企业级nosql数据库应用与实战-redis的主从和集群](https://www.cnblogs.com/along21/p/8027206.html)
+* [项目实战12.1—企业级监控工具应用实战-zabbix安装与基础操作](https://www.cnblogs.com/along21/p/8118609.html)
+* [项目实战12.2—企业级监控工具应用实战-zabbix操作进阶](https://www.cnblogs.com/along21/p/8119088.html)
+* [项目实战13—企业级虚拟化Virtualization - KVM技术](https://www.cnblogs.com/along21/p/8116509.html)
+* [项目实战14.1—ELK 企业内部日志分析系统](https://www.cnblogs.com/along21/p/8509123.html)
+* [项目实战14.2--ELK 经典用法—企业自定义日志收集切割和mysql模块](https://www.cnblogs.com/along21/p/8513420.html)
+* [项目实战14.3--ELK重难点总结和整体优化配置](https://www.cnblogs.com/along21/p/8613115.html)
+* [项目实战15.1—企业级堡垒机 jumpserver一步一步搭建](https://www.cnblogs.com/along21/p/8795907.html)
+* [项目实战15.2—企业级堡垒机 jumpserver快速入门](https://www.cnblogs.com/along21/p/8965968.html)
+* [项目实战16.1--Jenkins持续集成01—Jenkins服务搭建和部署](https://www.cnblogs.com/along21/p/9724036.html)
+* [项目实战16.2--Jenkins+Maven+Gitlab+Tomcat 自动化构建打包、部署](https://www.cnblogs.com/along21/p/10172855.html)
+* [项目实战17--超详细“零”基础kafka入门篇](https://www.cnblogs.com/along21/p/10278100.html)
+* [项目实战18--Hadoop+Hbase分布式集群架构“完全篇”](https://www.cnblogs.com/along21/p/10496468.html)
 
 
 
