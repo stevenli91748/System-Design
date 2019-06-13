@@ -167,6 +167,7 @@
 # 有用的参考
 
  * [一个程序员如何能成为一名资深阿里P7架构师？](https://yq.aliyun.com/articles/660334)
+ * [IT技术精华网关注搜索、分布式系统、云计算、系统架构设计、性能调优、Web开发、数据挖掘、推荐系统](http://www.chepoo.com)
  * [你是主流架构师吗](http://www.10tiao.com/html/158/201903/2649826500/1.html)
  * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
