@@ -210,6 +210,7 @@
   * [大型网站架构演化](https://www.jianshu.com/p/526df44a11f1)
   
  ### 大型网站架构 
+  * [LMAX架构](http://ifeve.com/lmax/)
   * [从 0 到 1，Java Web 网站架构搭建的技术演进](https://blog.csdn.net/qq_40267706/article/details/78628352)
   * [1千用户与1千万用户的网站系统架构区别？](https://blog.csdn.net/zqftisson/article/details/51777042)
   * [大型分布式电商系统架构是如何从0开始演进的？](https://blog.csdn.net/jianai0602/article/details/80346837)
