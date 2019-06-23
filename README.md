@@ -189,6 +189,7 @@
  * 亿级流量网站架构核心技术+跟开涛学搭建高可用高并发系统
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
 # 有用的参考
+ * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
  * [分享一篇牛人的工作总结,让大家感受一下什么叫优秀的架构师](https://blog.csdn.net/smooth00/article/details/92803798)
  * [一个程序员如何能成为一名资深阿里P7架构师？](https://yq.aliyun.com/articles/660334)
  * [IT技术精华网关注搜索、分布式系统、云计算、系统架构设计、性能调优、Web开发、数据挖掘、推荐系统](http://www.chepoo.com)
