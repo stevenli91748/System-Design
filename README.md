@@ -209,6 +209,7 @@
   * [一个比较不错的大型分布式网站架构技术总结，可做参考](https://blog.csdn.net/hjm4702192/article/details/79612611)
   * [大型分布式网站架构实战项目分析](https://blog.csdn.net/yunzhaji3762/article/details/80113693)
   * [大型网站架构演化](https://www.jianshu.com/p/526df44a11f1)
+  * [技术方案设计](https://blog.csdn.net/my201110lc/article/details/82229611#_Toc512435238)
   
  ### 大型网站架构 
   * [LMAX架构](http://ifeve.com/lmax/)
