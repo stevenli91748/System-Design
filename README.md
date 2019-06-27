@@ -243,6 +243,10 @@
 * [亿级流量系统架构之如何保证百亿流量下的数据一致性（下）](https://juejin.im/post/5c34a74be51d4557db5a03fc)
 
 
+### 项目经验
+ * [一个经典面试题：如何保证缓存与数据库的双写一致性？](https://blog.csdn.net/devcloud/article/details/90440921)
+
+
 # 项目实战
 
 <a href="https://ibb.co/yfFwVxw"><img src="https://i.ibb.co/znVyNty/along.jpg" alt="along" border="0"></a>
