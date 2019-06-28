@@ -100,6 +100,9 @@
   * 1 开发框架
   * 2 页面渲染--API Gateway
       * [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
+      * [Writing API]
+      * [Reading API]
+      * [Searching API]
   * 3 [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
   * 4 Session管理
   * 5 动态页面静态化
@@ -107,6 +110,9 @@
   * 7 虚拟化服务器
 # 3 服务层架构
   * 分布式消息
+    * 消息队列
+    * 任务队列
+    * 背压机制  
   * 分布式缓存
     * [缓存系统](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md)
       * [Client caching]
@@ -123,14 +129,28 @@
         * [Write through]
         * [Write behind]
         * [Refresh ahead]
+  * [分布式session](https://github.com/stevenli91748/System-Design/blob/master/Session/README.md)
   * 分布式服务
+    * [Microservice]
+    * [Service Discovery]
   * 分布式配置
 # 4 存储层架构
   * 分布式文件
-  * 关系数据库
+  * [关系数据库](https://github.com/stevenli91748/Database/blob/master/README.md)
+    * [Master slave replication]
+    * [Master master replication]
+    * [Federation]
+    * [Sharding]
+    * [Denormalization]
+    * [SQL tuning]
   * 非关系数据库
+    * [key-value store]
+    * [Document store]
+    * [Wide column store ]
+    * [Graph database]
   * 数据同步
 # 5 网络层架构
+  * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
 # 6 后台架构
   * 搜索引擎
   * 推荐系统
@@ -142,78 +162,6 @@
   * 系统报警
 # 8 数据中心架构
 # 9 安全架构
-
-
-
-   
-
-
-  
-  
-
-
-
-## 7  Interface API
-
-  * [7.1.  Writing API]
-  * [7.2.  Reading API]
-  * [7.3.  Searching API]
-  
-## 8  Application Layer
-
-  * [8.1.  Microservice]
-  * [8.2.  Service Discovery]
-
-## 9  [数据库集群系统](https://github.com/stevenli91748/Database/blob/master/README.md)
-
-  * [9.1. SQL--Relational database management system(RDBMS)]
-     * [9.1.1.  Master slave replication]
-     * [9.1.2.  Master master replication]
-     * [9.1.3.  Federation]
-     * [9.1.4.  Sharding]
-     * [9.1.5.  Denormalization]
-     * [9.1.6.  SQL tuning]
-  * [9.2.  NoSQL]
-     * [9.2.1.  key-value store]
-     * [9.2.2.  Document store]
-     * [9.2.3.  Wide column store ]
-     * [9.2.4.  Graph database]
-     
-## 10  异步计算策略
-
-  * [10.1.  消息队列]
-  * [10.2.  任务队列]
-  * [10.3.  背压机制]
-
-## [11 网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
-
-## 12 数据交互
-  * json
-  * XML
-  * Google Protocol Buffer
-
-## 12 分布式存储系统
-
-## 13 Security
-
-## 14 系统集群
-
-集群主要分成三大类( 高可用集群， 负载均衡集群，科学计算集群)
-
-* [高可用集群]()
-  
-* [负载均衡集群]()
-  * [DNS负载均衡]()
-  * 四层负载均衡(F5、LVS)工作在TCP协议下
-  * 七层负载均衡(Nginx、haproxy)工作在Http协议下
-  
-* [科学计算集群]()
-
-## [15 分布式session](https://github.com/stevenli91748/System-Design/blob/master/Session/README.md)
-
-
-
-# 内容
 
 
 # 参考书籍
