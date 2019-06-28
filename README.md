@@ -212,6 +212,7 @@
   * [技术方案设计](https://blog.csdn.net/my201110lc/article/details/82229611#_Toc512435238)
   
  ### 大型网站架构 
+  * [深入解析java应用程序的一般架构（好文）](https://blog.csdn.net/hliq5399/article/details/51584622)
   * [LMAX架构](http://ifeve.com/lmax/)
   * [从 0 到 1，Java Web 网站架构搭建的技术演进](https://blog.csdn.net/qq_40267706/article/details/78628352)
   * [1千用户与1千万用户的网站系统架构区别？](https://blog.csdn.net/zqftisson/article/details/51777042)
