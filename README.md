@@ -88,15 +88,15 @@
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
-# 1) 前端架构
-  * 1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
-  * 2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
-      * [2.1.  Push CDNs]
-      * [2.2.  Pull CDNs]
+# 1 前端架构
+    * 1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+    * 2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
+        * [2.1.  Push CDNs]
+        * [2.2.  Pull CDNs]
   * 3 动静分离--静态资源独立部署
   * 4 图片服务
   * 5 反向代理
-# 2) 应用层架构---框架太多，ssh,ssm,jfinal等等，选择适合项目团队的框架；UI界面，h5很美观，但对于浏览器的兼容就把开发人员搞哭了，可以选择成熟
+# 2 应用层架构---框架太多，ssh,ssm,jfinal等等，选择适合项目团队的框架；UI界面，h5很美观，但对于浏览器的兼容就把开发人员搞哭了，可以选择成熟
                  的ext或者easyui
   * 1 开发框架
   * 2 页面渲染--API Gateway
@@ -105,14 +105,14 @@
   * 5 动态页面静态化
   * 6 业务拆分
   * 7 虚拟化服务器
-# 3）服务层架构
+# 3 服务层架构
   * 
-# 4）存储层架构
-# 5）网络层架构
-# 6）后台架构
-# 7）数据中心架构
-# 8）安全架构
-# 9）数据采集与监控架构
+# 4 存储层架构
+# 5 网络层架构
+# 6 后台架构
+# 7 数据中心架构
+# 8 安全架构
+# 9 数据采集与监控架构
 
 
 
