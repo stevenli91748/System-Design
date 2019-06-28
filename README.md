@@ -33,12 +33,14 @@
 
 **依次是开源框架解析专题---架构师筑基专题----高性能架构专题----微服务架构专题----团队协作开发专题----B2C商城实战专题**
 
-# 1.0 软件开发文档模板
-  *   [SVN+Axure合作开发原型图](https://blog.csdn.net/weienjun/article/details/77922136)
 
-# 1.1  系统设计流程
+# 需求
+
+  * 软件开发文档模板
+    *  [SVN+Axure合作开发原型图](https://blog.csdn.net/weienjun/article/details/77922136)
+
+## 1.1  系统设计流程
   * 人员安排
-      
     * 前端UI效果设计
     * 前端程序员
     * 后端程序员
@@ -57,19 +59,17 @@
     * 前端和后端各自局部架构
     * 技术关键点
     * 人员安排和时间点
-        
- # 1.2  功能性设计
  
- # 1.3  非功能性设计
- 
- 系统非功能性设计的6个方向
-      
-  * 1.1.  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
-  * 1.2.  [高可用性架构](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)
-  * 1.3.  [高伸缩性架构](https://github.com/stevenli91748/System-Design/blob/master/Highly%20scalable%20architecture/README.md)
-  * 1.4.  高櫎展性架构
-  * 1.5.  高安全性架构
-  * 1.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
+# 设计
+  * 功能性设计
+  * 非功能性设计
+    系统非功能性设计的6个方向
+    * 1.1.  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
+    * 1.2.  [高可用性架构](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)
+    * 1.3.  [高伸缩性架构](https://github.com/stevenli91748/System-Design/blob/master/Highly%20scalable%20architecture/README.md)
+    * 1.4.  高櫎展性架构
+    * 1.5.  高安全性架构
+    * 1.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
 
 # [2.  分布式系统](https://github.com/stevenli91748/Distributed-System)
 
