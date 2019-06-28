@@ -11,6 +11,8 @@
  
  一个能担负起企业级应用的架构师，脑海里常出现的词会是这些：负载均衡、集群、分布式、高并发、高可用、易管理等等，粗略说来，应具备以下知识技能：
 
+
+
 （1）数据层：重点在于集群方案的选择，比如MySQL集群，集群方案很多，需要选择符合业务的方案，比如多主，主备，读写分离等等，是否还需要做高可用，是用lvs，还是zookeeper，是否需要例如mycat类中间件来管理数据库或者做数据分片等等。
 
 （2）服务层：时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis。
@@ -86,12 +88,29 @@
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
-## 1  [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+# 1) 前端架构
+  * 1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+  * 2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
+      * [2.1.  Push CDNs]
+      * [2.2.  Pull CDNs]
+  * 3 动静分离--静态资源独立部署
+  * 4 图片服务
+  * 5 反向代理
+# 2) 应用层架构
+  * 1 开发框架
+  * 2 页面渲染--
 
-## 2  [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
+# 3）服务层架构
+# 4）存储层架构
+# 5）网络层架构
+# 6）后台架构
+# 7）数据中心架构
+# 8）安全架构
+# 9）数据采集与监控架构
 
-   * [2.1.  Push CDNs]
-   * [2.2.  Pull CDNs]
+
+
+
    
 ## 3. [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
 
