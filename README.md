@@ -95,10 +95,11 @@
       * [2.2.  Pull CDNs]
   * 3 动静分离--静态资源独立部署
   * 4 图片服务
-  * 5 反向代理
+  * 5 [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
 # 2 应用层架构
   * 1 开发框架
   * 2 页面渲染--API Gateway
+      * [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
   * 3 [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
   * 4 Session管理
   * 5 动态页面静态化
@@ -107,6 +108,21 @@
 # 3 服务层架构
   * 分布式消息
   * 分布式缓存
+    * [缓存系统](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md)
+      * [Client caching]
+      * [HTTP  Caching]  
+        * [HTTP----HTTP缓存机制](https://juejin.im/post/5a1d4e546fb9a0450f21af23)
+      * [CDN caching]
+      * [Web server caching ]
+      * [Database caching]
+      * [Application caching]
+      * [Caching at database query level]
+      * [Caching at object level]
+      * [When to update the cache]
+        * [Cache aside]
+        * [Write through]
+        * [Write behind]
+        * [Refresh ahead]
   * 分布式服务
   * 分布式配置
 # 4 存储层架构
@@ -118,38 +134,24 @@
 # 6 后台架构
   * 搜索引擎
   * 推荐系统
-# 7 数据中心架构
-# 8 安全架构
-# 9 数据采集与监控架构
-
+# 7 数据采集与监控架构
+  * 浏览器数据采集
+  * 服务器业务数据采集
+  * 服务器性能数据采集
+  * 系统监控
+  * 系统报警
+# 8 数据中心架构
+# 9 安全架构
 
 
 
    
-## 3. [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
+
 
   
-## 4  
-
-## 5  [缓存系统](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md)
-
-  * [5.1.  Client caching]
-  * [5.2.  HTTP  Caching]  
-    * [HTTP----HTTP缓存机制](https://juejin.im/post/5a1d4e546fb9a0450f21af23)
-  * [5.3.  CDN caching]
-  * [5.4.  Web server caching ]
-  * [5.5.  Database caching]
-  * [5.6.  Application caching]
-  * [5.7.  Caching at database query level]
-  * [5.8.  Caching at object level]
-  * [5.9.  When to update the cache]
-     * [5.9.1.  Cache aside]
-     * [5.9.2.  Write through]
-     * [5.9.3.  Write behind]
-     * [5.9.4.  Refresh ahead]
   
 
-## 6  [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
+
 
 ## 7  Interface API
 
