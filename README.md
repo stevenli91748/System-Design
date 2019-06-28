@@ -96,11 +96,17 @@
   * 3 动静分离--静态资源独立部署
   * 4 图片服务
   * 5 反向代理
-# 2) 应用层架构
+# 2) 应用层架构---框架太多，ssh,ssm,jfinal等等，选择适合项目团队的框架；UI界面，h5很美观，但对于浏览器的兼容就把开发人员搞哭了，可以选择成熟
+                 的ext或者easyui
   * 1 开发框架
-  * 2 页面渲染--
-
+  * 2 页面渲染--API Gateway
+  * 3 [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
+  * 4 Session管理
+  * 5 动态页面静态化
+  * 6 业务拆分
+  * 7 虚拟化服务器
 # 3）服务层架构
+  * 
 # 4）存储层架构
 # 5）网络层架构
 # 6）后台架构
@@ -115,7 +121,7 @@
 ## 3. [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
 
   
-## 4  [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
+## 4  
 
 ## 5  [缓存系统](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md)
 
