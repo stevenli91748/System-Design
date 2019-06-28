@@ -89,15 +89,14 @@
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
 # 1 前端架构
-    * 1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
-    * 2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
-        * [2.1.  Push CDNs]
-        * [2.2.  Pull CDNs]
+  * 1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+  * 2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
+      * [2.1.  Push CDNs]
+      * [2.2.  Pull CDNs]
   * 3 动静分离--静态资源独立部署
   * 4 图片服务
   * 5 反向代理
-# 2 应用层架构---框架太多，ssh,ssm,jfinal等等，选择适合项目团队的框架；UI界面，h5很美观，但对于浏览器的兼容就把开发人员搞哭了，可以选择成熟
-                 的ext或者easyui
+# 2 应用层架构
   * 1 开发框架
   * 2 页面渲染--API Gateway
   * 3 [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
