@@ -3,7 +3,7 @@
 
 # 目录
 
-# 1.  System-Design
+#  System-Design
 
  ![Imgur](https://i.ibb.co/qRCKVVP/1.jpg)       
  
@@ -34,9 +34,9 @@
 **依次是开源框架解析专题---架构师筑基专题----高性能架构专题----微服务架构专题----团队协作开发专题----B2C商城实战专题**
 
 
-# 需求
+# 1. 需求
 
-### 需求分析
+### 1.1 需求分析
 
   * 软件开发文档模板
     *  [SVN+Axure合作开发原型图](https://blog.csdn.net/weienjun/article/details/77922136)
@@ -45,10 +45,10 @@
   * 需求分析
   * 文档设计
   
-### 需求设计
+### 1.2 需求设计
 
  
-# 设计
+# 2. 设计
   * 功能性设计
   * 非功能性设计
     系统非功能性设计的6个方向
@@ -73,27 +73,27 @@
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
-### 1 前端架构
-   * 1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
-   * 2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
-      * [2.1.  Push CDNs]
-      * [2.2.  Pull CDNs]
-   * 3 动静分离--静态资源独立部署
-   * 4 图片服务
-   * 5 [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
-### 2 应用层架构
-   * 1 开发框架
-   * 2 页面渲染--API Gateway
+### 2.1 前端架构
+   * 2.1.1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+   * 2.1.2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
+      * [2.1.2.1.  Push CDNs]
+      * [2.1.2.2.  Pull CDNs]
+   * 2.1.3 动静分离--静态资源独立部署
+   * 2.1.4 图片服务
+   * 2.1.5 [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
+### 2.2 应用层架构
+   * 2.2.1 开发框架
+   * 2.2.2 页面渲染--API Gateway
        * [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
        * [Writing API]
        * [Reading API]
        * [Searching API]
-   * 3 [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
-   * 4 Session管理
-   * 5 动态页面静态化
-   * 6 业务拆分
-   * 7 虚拟化服务器
-#### 3 服务层架构
+   * 2.2.3 [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
+   * 2.2.4 Session管理
+   * 2.2.5 动态页面静态化
+   * 2.2.6 业务拆分
+   * 2.2.7 虚拟化服务器
+#### 2.3 服务层架构
    * 分布式消息
      * 消息队列
      * 任务队列
@@ -119,7 +119,7 @@
      * [Microservice](https://github.com/stevenli91748/MicroService)
      * [Service Discovery]
    * 分布式配置
-### 4 存储层架构
+### 2.4 存储层架构
    * 分布式文件
    * [关系数据库](https://github.com/stevenli91748/Database/blob/master/README.md)
      * [Master slave replication]
@@ -134,26 +134,30 @@
      * [Wide column store ]
      * [Graph database]
    * 数据同步
-### 5 网络层架构
+### 2.5 网络层架构
    * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
-### 6 后台架构
+### 2.6 后台架构
    * 搜索引擎
    * 推荐系统
-### 7 数据采集与监控架构
+### 2.7 数据采集与监控架构
    * 浏览器数据采集
    * 服务器业务数据采集
    * 服务器性能数据采集
    * 系统监控
    * 系统报警
-### 8 数据中心架构
-### 9 安全架构
+### 2.8 数据中心架构
+### 2.9 安全架构
 
-# 代码
+# 3. 代码
 
-# 部署
-# 服务器
-# 运维
-# 调优
+# 4. 部署
+
+# 5. 服务器
+
+# 6. 运维
+
+# 7. 调优
+
 # 参考书籍
 
  * 人人都是架构师  分布式系统架构落地与瓶颈突破
