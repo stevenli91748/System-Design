@@ -49,9 +49,12 @@
 
  
 # 2. 设计
-  * 功能性设计
-  * 非功能性设计
+  * 2.1 功能性设计
+  
+  * 2.2 非功能性设计
+  
     系统非功能性设计的6个方向
+    
     * 1.1.  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
     * 1.2.  [高可用性架构](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)
     * 1.3.  [高伸缩性架构](https://github.com/stevenli91748/System-Design/blob/master/Highly%20scalable%20architecture/README.md)
@@ -59,7 +62,7 @@
     * 1.5.  高安全性架构
     * 1.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
 
-### 系统架构层次结构
+  *  2.3 系统架构层次结构
 
 ### 采用RESTful API 技术
 <p align="center">
@@ -73,27 +76,27 @@
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
-### 2.1 前端架构
-   * 2.1.1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
-   * 2.1.2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
-      * [2.1.2.1.  Push CDNs]
-      * [2.1.2.2.  Pull CDNs]
-   * 2.1.3 动静分离--静态资源独立部署
-   * 2.1.4 图片服务
-   * 2.1.5 [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
-### 2.2 应用层架构
-   * 2.2.1 开发框架
-   * 2.2.2 页面渲染--API Gateway
+### 2.3.1 前端架构
+   * [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+   * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
+      * [Push CDNs]
+      * [Pull CDNs]
+   * 动静分离--静态资源独立部署
+   * 图片服务
+   * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
+### 2.3.2 应用层架构
+   * 开发框架
+   * 页面渲染--API Gateway
        * [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
        * [Writing API]
        * [Reading API]
        * [Searching API]
-   * 2.2.3 [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
-   * 2.2.4 Session管理
-   * 2.2.5 动态页面静态化
-   * 2.2.6 业务拆分
-   * 2.2.7 虚拟化服务器
-#### 2.3 [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
+   * [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
+   * Session管理
+   * 动态页面静态化
+   * 业务拆分
+   * 虚拟化服务器
+#### 2.3.3 [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
    * 分布式消息
      * 消息队列
      * 任务队列
@@ -119,7 +122,7 @@
      * [Microservice](https://github.com/stevenli91748/MicroService)
      * [Service Discovery]
    * 分布式配置
-### 2.4 存储层架构
+### 2.3.4 存储层架构
    * 分布式文件
    * [关系数据库](https://github.com/stevenli91748/Database/blob/master/README.md)
      * [Master slave replication]
@@ -134,19 +137,19 @@
      * [Wide column store ]
      * [Graph database]
    * 数据同步
-### 2.5 网络层架构
+### 2.3.5 网络层架构
    * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
-### 2.6 后台架构
+### 2.3.6 后台架构
    * 搜索引擎
    * 推荐系统
-### 2.7 数据采集与监控架构
+### 2.3.7 数据采集与监控架构
    * 浏览器数据采集
    * 服务器业务数据采集
    * 服务器性能数据采集
    * 系统监控
    * 系统报警
-### 2.8 数据中心架构
-### 2.9 安全架构
+### 2.3.8 数据中心架构
+### 2.3.9 安全架构
 
 # 3. 代码
 
