@@ -36,29 +36,17 @@
 
 # 需求
 
+### 需求分析
+
   * 软件开发文档模板
     *  [SVN+Axure合作开发原型图](https://blog.csdn.net/weienjun/article/details/77922136)
-
-## 1.1  系统设计流程
-  * 人员安排
-    * 前端UI效果设计
-    * 前端程序员
-    * 后端程序员
-    * 项目经理
-    * 部们经理
-      
   * 了解需求
     * 在软件需求了解中的 5W2H 问题
   * 需求分析
   * 文档设计
-  * 项目设计
-    * 业务流程
-    * 前端
-    * 数据库
-    * 开发总体架构
-    * 前端和后端各自局部架构
-    * 技术关键点
-    * 人员安排和时间点
+  
+### 需求设计
+
  
 # 设计
   * 功能性设计
@@ -71,99 +59,101 @@
     * 1.5.  高安全性架构
     * 1.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
 
-# [2.  分布式系统](https://github.com/stevenli91748/Distributed-System)
+### 系统架构层次结构
 
-# [3.  微服务系统](https://github.com/stevenli91748/MicroService)
-
-# 4.  系统架构层次结构
-
-## 采用RESTful API 技术
+### 采用RESTful API 技术
 <p align="center">
   <img src="http://i.imgur.com/jj3A5N8.png">
   <br/>
 </p>
 
 ---
-## 采用微服务技术 + RESTful API 技术
+
+### 采用微服务技术 + RESTful API 技术
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
-# 1 前端架构
-  * 1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
-  * 2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
+### 1 前端架构
+   * 1 [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+   * 2 [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
       * [2.1.  Push CDNs]
       * [2.2.  Pull CDNs]
-  * 3 动静分离--静态资源独立部署
-  * 4 图片服务
-  * 5 [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
-# 2 应用层架构
-  * 1 开发框架
-  * 2 页面渲染--API Gateway
-      * [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
-      * [Writing API]
-      * [Reading API]
-      * [Searching API]
-  * 3 [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
-  * 4 Session管理
-  * 5 动态页面静态化
-  * 6 业务拆分
-  * 7 虚拟化服务器
-# 3 服务层架构
-  * 分布式消息
-    * 消息队列
-    * 任务队列
-    * 背压机制  
-  * 分布式缓存
-    * [缓存系统](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md)
-      * [Client caching]
-      * [HTTP  Caching]  
-        * [HTTP----HTTP缓存机制](https://juejin.im/post/5a1d4e546fb9a0450f21af23)
-      * [CDN caching]
-      * [Web server caching ]
-      * [Database caching]
-      * [Application caching]
-      * [Caching at database query level]
-      * [Caching at object level]
-      * [When to update the cache]
-        * [Cache aside]
-        * [Write through]
-        * [Write behind]
-        * [Refresh ahead]
-  * [分布式session](https://github.com/stevenli91748/System-Design/blob/master/Session/README.md)
-  * 分布式服务
-    * [Microservice]
-    * [Service Discovery]
-  * 分布式配置
-# 4 存储层架构
-  * 分布式文件
-  * [关系数据库](https://github.com/stevenli91748/Database/blob/master/README.md)
-    * [Master slave replication]
-    * [Master master replication]
-    * [Federation]
-    * [Sharding]
-    * [Denormalization]
-    * [SQL tuning]
-  * 非关系数据库
-    * [key-value store]
-    * [Document store]
-    * [Wide column store ]
-    * [Graph database]
-  * 数据同步
-# 5 网络层架构
-  * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
-# 6 后台架构
-  * 搜索引擎
-  * 推荐系统
-# 7 数据采集与监控架构
-  * 浏览器数据采集
-  * 服务器业务数据采集
-  * 服务器性能数据采集
-  * 系统监控
-  * 系统报警
-# 8 数据中心架构
-# 9 安全架构
+   * 3 动静分离--静态资源独立部署
+   * 4 图片服务
+   * 5 [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
+### 2 应用层架构
+   * 1 开发框架
+   * 2 页面渲染--API Gateway
+       * [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
+       * [Writing API]
+       * [Reading API]
+       * [Searching API]
+   * 3 [负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
+   * 4 Session管理
+   * 5 动态页面静态化
+   * 6 业务拆分
+   * 7 虚拟化服务器
+#### 3 服务层架构
+   * 分布式消息
+     * 消息队列
+     * 任务队列
+     * 背压机制  
+   * 分布式缓存
+     * [缓存系统](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md)
+       * [Client caching]
+       * [HTTP  Caching]  
+         * [HTTP----HTTP缓存机制](https://juejin.im/post/5a1d4e546fb9a0450f21af23)
+       * [CDN caching]
+       * [Web server caching ]
+       * [Database caching]
+       * [Application caching]
+       * [Caching at database query level]
+       * [Caching at object level]
+       * [When to update the cache]
+         * [Cache aside]
+         * [Write through]
+         * [Write behind]
+         * [Refresh ahead]
+   * [分布式session](https://github.com/stevenli91748/System-Design/blob/master/Session/README.md)
+   * [分布式服务](https://github.com/stevenli91748/Distributed-System)
+     * [Microservice](https://github.com/stevenli91748/MicroService)
+     * [Service Discovery]
+   * 分布式配置
+### 4 存储层架构
+   * 分布式文件
+   * [关系数据库](https://github.com/stevenli91748/Database/blob/master/README.md)
+     * [Master slave replication]
+     * [Master master replication]
+     * [Federation]
+     * [Sharding]
+     * [Denormalization]
+     * [SQL tuning]
+   * 非关系数据库
+     * [key-value store]
+     * [Document store]
+     * [Wide column store ]
+     * [Graph database]
+   * 数据同步
+### 5 网络层架构
+   * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
+### 6 后台架构
+   * 搜索引擎
+   * 推荐系统
+### 7 数据采集与监控架构
+   * 浏览器数据采集
+   * 服务器业务数据采集
+   * 服务器性能数据采集
+   * 系统监控
+   * 系统报警
+### 8 数据中心架构
+### 9 安全架构
 
+# 代码
 
+# 部署
+# 服务器
+# 运维
+# 调优
 # 参考书籍
 
  * 人人都是架构师  分布式系统架构落地与瓶颈突破
