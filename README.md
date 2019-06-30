@@ -180,6 +180,7 @@
  * 亿级流量网站架构核心技术+跟开涛学搭建高可用高并发系统
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
 # 有用的参考
+ * [打造互联网企业架构相关技术（实战干货）](https://blog.csdn.net/qq_27384769/article/details/79439922)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
  * [近二十年技术发展：从集中式架构到云原生架构](https://blog.csdn.net/weixin_44326589/article/details/93894615)
  * [分享一篇牛人的工作总结,让大家感受一下什么叫优秀的架构师](https://blog.csdn.net/smooth00/article/details/92803798)
