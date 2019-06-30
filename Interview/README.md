@@ -1,1 +1,35 @@
+<details>
+<summary>单体架构</summary>
+  
+* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
+
+</details>  
+
+<details>
+<summary>SOA架构</summary>
+  
+* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
+
+</details>  
+
+<details>
+<summary>微服务架构</summary>
+  
+* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
+
+</details>  
+
+<details>
+<summary>分布式架构</summary>
+  
+* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
+
+</details>  
+
+<details>
+<summary>集群架构</summary>
+  
+* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
+
+</details>  
 
