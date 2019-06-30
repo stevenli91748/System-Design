@@ -22,3 +22,8 @@
 NoSQL：redis、memcache
 
 使用缓存还应该使缓存命中率更高。
+
+
+# 有用的参考
+
+* [架构真经 | 缓存为王](https://blog.csdn.net/qq_35246620/article/details/70234185)
