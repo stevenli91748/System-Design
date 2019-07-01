@@ -46,20 +46,13 @@
 
 # 1. 需求
 
-### 1.1 软件需求规划
-
-  * 软件开发文档模板
-    *  [SVN+Axure合作开发原型图](https://blog.csdn.net/weienjun/article/details/77922136)
-  * 了解需求
-    * 在软件需求了解中的 5W2H 问题
-  * 需求分析
-  * 文档设计
+### [1.1 软件需求规划](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/软件需求规划/README.md)
   
-### 1.2 软件需求开发
+### [1.2 软件需求开发](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/软件需求开发/README.md)
 
-### 1.3 邻域建模
+### [1.3 邻域建模](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/邻域建模/README.md)
 
-### 1.4 确定关键需求
+### [1.4 确定关键需求](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/确定关键需求/README.md)
 
  
 # 2. 设计
