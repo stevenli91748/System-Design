@@ -10,8 +10,11 @@
  <a href="https://ibb.co/M53YF64"><img src="https://i.ibb.co/DgSx0py/6ee62597-6d98-4af5-93b4-bc54f97c7936.png" alt="6ee62597-6d98-4af5-93b4-bc54f97c7936" border="0"></a>
  
 * [集中式架构与分布式架构比较](https://blog.csdn.net/qq_27384769/article/details/80223473) 
-* [单体式架构和分布式架构有什么区别？](https://blog.csdn.net/weixin_43941991/article/details/86519491)   
- 
+* [单体式架构和分布式架构有什么区别？](https://blog.csdn.net/weixin_43941991/article/details/86519491)
+* [服务器虚拟化技术简介](https://www.cnblogs.com/yogurtwu/p/9989200.html)
+* [Docker容器化组件架构](https://www.jdon.com/artichect/docker-containerization.html)
+* [云原生技术和架构概述](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/86326182)
+
 --- 
  
  没有设计的思想，你就不能成为一名架构师。架构师是一个能撸的了一手好代码，画的了一个漂亮的UML/原型，写的了一篇技术文档，更加能解决好项目关键技术的综合人才。架构师=前端工程师+后端程序员+系统分析师+关键技术解决+各种技术搭配+设计模式+部署调优+其他，可见架构师是多面手，在项目当中起到连接管理与项目成员的重要角色。因此，在通往大神级的架构师的道路上，**你需要懂需求、设计、代码、部署、架构、服务器、运维、调优等等。**
