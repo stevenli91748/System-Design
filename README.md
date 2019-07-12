@@ -74,7 +74,7 @@
 
 ## [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/README.md)
 
-  *  2.3 系统架构层次结构
+## 系统架构层次结构
 
 
 ### 采用RESTful API 技术
