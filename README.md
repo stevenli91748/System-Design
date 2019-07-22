@@ -195,6 +195,7 @@
  * 架构真经-互联网技术架构的设计原则.pdf
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
 # 有用的参考
+ * [服务端-高并发高可用设计原则/分布式架构演进过程](https://blog.csdn.net/hemin1003/article/details/95163321)
  * [打造互联网企业架构相关技术（实战干货）](https://blog.csdn.net/qq_27384769/article/details/79439922)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
  * [近二十年技术发展：从集中式架构到云原生架构](https://blog.csdn.net/weixin_44326589/article/details/93894615)
