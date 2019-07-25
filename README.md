@@ -74,8 +74,9 @@
 
 ## [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/README.md)
 
-## 系统架构层次结构
+## 互联网系统架构模板
 
+<a href="https://ibb.co/RCmqnhQ"><img src="https://i.ibb.co/XzgqByF/1-2.png" alt="1-2" border="0"></a>
 
 ### 采用RESTful API 技术
 <p align="center">
@@ -91,9 +92,6 @@
 
 ### 2.3.1 前端架构
    * [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
-   * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
-      * [Push CDNs]
-      * [Pull CDNs]
    * 动静分离--静态资源独立部署
    * 图片服务
    * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
@@ -110,6 +108,7 @@
    * 业务拆分
    * 虚拟化服务器
 #### 2.3.3 [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
+
    * 分布式消息
      * 消息队列
      * 任务队列
@@ -134,7 +133,9 @@
    * [分布式服务](https://github.com/stevenli91748/Distributed-System)
      * [Microservice](https://github.com/stevenli91748/MicroService)
      * [Service Discovery]
-   * 分布式配置
+   * 配置中心
+   * 服务中心
+   
 ### 2.3.4 存储层架构
    * 分布式文件
    * [关系数据库](https://github.com/stevenli91748/Database/blob/master/README.md)
@@ -151,6 +152,12 @@
      * [Graph database]
    * 数据同步
 ### 2.3.5 网络层架构
+   * 负载均衡
+   * 多机房
+   * 多中心
+   * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
+      * [Push CDNs]
+      * [Pull CDNs]
    * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
 ### 2.3.6 后台架构
    * 搜索引擎
