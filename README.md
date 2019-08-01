@@ -141,6 +141,21 @@
    
 ### 2.3.4 存储层架构
    * 分布式文件
+      * 小文件存储
+        * HBase
+        * Hadoop
+        * Hypertable
+        * FastDFS
+        * TFS(taobao)
+        * JFS(JD)
+        * Haystack(facebook)
+      * 大文件存储
+        * Hadoop
+        * HBase
+        * Storm
+        * Hive
+
+      
    * [关系数据库](https://github.com/stevenli91748/Database/blob/master/README.md)
      * [Master slave replication]
      * [Master master replication]
