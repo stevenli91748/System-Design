@@ -112,7 +112,8 @@
    * 业务拆分
    * 虚拟化服务器
 #### 2.3. [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
-
+   * 配置中心
+   
    * 分布式消息
      * 消息队列
      * 任务队列
@@ -137,7 +138,7 @@
    * [分布式服务](https://github.com/stevenli91748/Distributed-System)
      * [Microservice](https://github.com/stevenli91748/MicroService)
      * [Service Discovery]
-   * 配置中心
+   
    * 服务中心
    
 ### 2.4. 存储层架构
