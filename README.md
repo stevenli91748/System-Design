@@ -73,6 +73,7 @@
     * 2.2.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
 
 ## [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/README.md)
+## [架构验证]()
 
 ## 互联网系统架构模板
 
@@ -90,7 +91,7 @@
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
-### 2.3.1 前端架构
+### 2.1. 前端架构
    * [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
    * 动静分离--静态资源独立部署
    * 图片服务
@@ -98,7 +99,7 @@
       * [Push CDNs]
       * [Pull CDNs]
    * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
-### 2.3.2 应用层架构
+### 2.2. 应用层架构
    * 开发框架
    * 页面渲染--API Gateway
        * [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
@@ -110,7 +111,7 @@
    * 动态页面静态化
    * 业务拆分
    * 虚拟化服务器
-#### 2.3.3 [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
+#### 2.3. [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
 
    * 分布式消息
      * 消息队列
@@ -139,7 +140,7 @@
    * 配置中心
    * 服务中心
    
-### 2.3.4 存储层架构
+### 2.4. 存储层架构
    * 分布式文件
       * 小文件存储
         * HBase
@@ -169,7 +170,7 @@
      * [Wide column store ]
      * [Graph database]
    * 数据同步
-### 2.3.5 网络层架构
+### 2.5. 网络层架构
    * 负载均衡
    * 多机房
    * 多中心
@@ -177,17 +178,17 @@
       * [Push CDNs]
       * [Pull CDNs]
    * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
-### 2.3.6 后台架构
+### 2.6 后台架构
    * 搜索引擎
    * 推荐系统
-### 2.3.7 数据采集与监控架构
+### 2.7 数据采集与监控架构
    * 浏览器数据采集
    * 服务器业务数据采集
    * 服务器性能数据采集
    * 系统监控
    * 系统报警
-### 2.3.8 数据中心架构
-### 2.3.9 安全架构
+### 2.8 数据中心架构
+### 2.9 安全架构
 
 # 3. 代码
 
