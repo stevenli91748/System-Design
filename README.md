@@ -113,9 +113,14 @@
    * 虚拟化服务器
 #### 2.3. [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
    * 配置中心
-   
+   * 服务中心   
+     * 服务名字系统
+     * 服务总线系统
    * 分布式消息
      * 消息队列
+       * RocketMQ
+       * Kafka
+       * ActiveMQ
      * 任务队列
      * 背压机制  
    * 分布式缓存
@@ -139,7 +144,7 @@
      * [Microservice](https://github.com/stevenli91748/MicroService)
      * [Service Discovery]
    
-   * 服务中心
+
    
 ### 2.4. 存储层架构
    * 分布式文件
@@ -186,6 +191,8 @@
      
 ### 2.6 网络层架构
    * 负载均衡
+     * DNS---用于实现地理级别的负载均衡
+     * Nginx & LVS & F5----用于同一地点内机器级别的负载均衡
    * 多机房
    * 多中心
    * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
