@@ -101,6 +101,21 @@
    * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
 ### 2.2. 应用层架构
    * 开发框架
+   * 用户层技术
+     * 用户管理
+       * SSO---单点登录
+         * cookie
+         * token
+         * CAS
+       * OAuth2.0---授登录  
+     * 消息推送
+       * 短信
+       * 邮件
+       * 站内信
+       * App 推送
+     * 图片云
+     * 存储云
+   * 业务层技术
    * 页面渲染--API Gateway
        * [API Gateway](https://github.com/stevenli91748/System-Design/blob/master/APIGateWay/README.md)
        * [Writing API]
@@ -191,15 +206,27 @@
      
 ### 2.6 网络层架构
    * 负载均衡
-     * DNS---用于实现地理级别的负载均衡
+     * [DNS (Domain Name System)---用于实现地理级别的负载均衡  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
      * Nginx & LVS & F5----用于同一地点内机器级别的负载均衡
-   * 多机房
-   * 多中心
-   * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
+     * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
       * [Push CDNs]
       * [Pull CDNs]
+      * 分布式存储
+      * 全局负载均衡
+      * 网络重定向
+      * 流量控制
    * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
+   * 多机房
+   * 多中心
+
 ### 2.7 后台架构
+   * 运维平台架构
+   * 测试平台架构
+   * 数据平台架构
+   * 管理平台架构
+   
+   
+ ---  
    * 搜索引擎
    * 推荐系统
 ### 2.8 数据采集与监控架构
@@ -210,6 +237,8 @@
    * 系统报警
 ### 2.9 数据中心架构
 ### 2.10 安全架构
+
+   * 
 
 # 3. 代码
 
