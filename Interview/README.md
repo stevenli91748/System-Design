@@ -22,6 +22,14 @@
   
 * [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
 
+<details>
+<summary>架构是什麽？架构设计目的是什麽？</summary>
+  
+
+
+</details> 
+
+
 </details>  
 
 <details>
