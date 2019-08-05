@@ -1,6 +1,26 @@
 # 存储高性能
-# 计算高性能
+  * 关系数据库
+    * 读写分离
+    * 分库分表
+  * NoSQL
+  * 缓存
+    * 缓存穿透
+    * 缓存雪崩
+    * 缓存热点
 
+# 计算高性能
+  * 单服务器性能
+    * PPC
+    * Prefork
+    * TPC
+    * Prethread
+    * Reactor
+    * Proactor
+  * 集群高性能
+    * 负载均衡分类
+    * 负载均衡架构
+    * 负载均衡的算法
+    
 * [高性能Web架构](https://blog.csdn.net/rdhj5566/article/details/54906005)
 
 * [高性能网络编程(一)：单台服务器并发TCP连接数到底可以有多少](http://www.52im.net/thread-561-1-1.html)
