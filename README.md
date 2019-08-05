@@ -59,13 +59,18 @@
  
 # 2. 设计
 
+## 架构设计三原则
+   * 合适原则
+   * 简单原则
+   * 演化原则
+
 ## [概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
 
   * 2.1 功能性设计
   
   * 2.2 非功能性设计
   
-    系统非功能性设计的6个方向
+    系统非功能性设计的6个复杂度
     
     * 2.2.1.  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
     * 2.2.2.  [高可用性架构](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)
@@ -203,6 +208,8 @@
        * SSH
        * SSM
        * SpringMVC
+       * SpringBoot
+       * SpringCloud
    * WEB服务器
      * Tomcat
      * Nginx
