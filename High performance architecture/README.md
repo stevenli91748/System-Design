@@ -52,7 +52,7 @@
 
       单个任务负载均衡分配器复杂度     
 
-      <a href="https://ibb.co/Rj0Vrws"><img src="https://i.ibb.co/BnZSWMQ/2018-09-01-2.png" alt="2018-09-01-2" border="0"></a>
+     <a href="https://ibb.co/F0cP8VQ"><img src="https://i.ibb.co/nn4WQCX/2018-09-01-3.png" alt="2018-09-01-3" border="0"></a>
 
 
       N个任务负载均衡分配器的复杂度
