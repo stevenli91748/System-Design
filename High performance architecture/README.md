@@ -57,6 +57,7 @@
 
       N个任务负载均衡分配器的复杂度
 
+      <a href="https://ibb.co/VSsDXpY"><img src="https://i.ibb.co/Z80Ky1z/1-2018-09-01-2.png" alt="1-2018-09-01-2" border="0"></a>
 
       * 任务分配
         * 任务负载均衡分配器（硬 软件负载均衡器集群）
