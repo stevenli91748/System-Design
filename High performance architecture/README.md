@@ -48,14 +48,18 @@
     * Reactor
     * Proactor
   * 集群高性能
+    * 集群的分类
+      * 运算系统集群
+      * 存储系统集群
+      * 缓存系统集群
     * 集群的复杂度
 
-      单个任务负载均衡分配器复杂度     
+      **单个任务负载均衡分配器复杂度     **
 
      <a href="https://ibb.co/F0cP8VQ"><img src="https://i.ibb.co/nn4WQCX/2018-09-01-3.png" alt="2018-09-01-3" border="0"></a>
 
 
-      N个任务负载均衡分配器的复杂度
+      **N个任务负载均衡分配器的复杂度**
 
       <a href="https://ibb.co/VSsDXpY"><img src="https://i.ibb.co/Z80Ky1z/1-2018-09-01-2.png" alt="1-2018-09-01-2" border="0"></a>
 
