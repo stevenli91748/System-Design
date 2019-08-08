@@ -226,12 +226,12 @@
      * [DNS (Domain Name System)---用于实现地理级别的负载均衡  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
      * Nginx & LVS & F5----用于同一地点内机器级别的负载均衡
      * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
-      * [Push CDNs]
-      * [Pull CDNs]
-      * 分布式存储
-      * 全局负载均衡
-      * 网络重定向
-      * 流量控制
+       * [Push CDNs]
+       * [Pull CDNs]
+     * 分布式存储
+     * 全局负载均衡
+     * 网络重定向
+     * 流量控制
    * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
    * 多机房
    * 多中心
