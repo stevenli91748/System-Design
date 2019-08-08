@@ -103,12 +103,15 @@
 
 ### 2.1. 前端架构
    * [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+     * DNS轮询
+     * 智能DNS
    * 动静分离--静态资源独立部署
    * 图片服务
    * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
       * [Push CDNs]
       * [Pull CDNs]
    * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
+   * GSLB全局负载均衡
 ### 2.2. 应用层架构
    * 开发框架
    * 用户层技术
