@@ -1,16 +1,18 @@
 # 软件系统中高性能带来的复杂度主要体现在两方面， 一方面是单台计算机内部为了高性能带来的复杂度：另一方面是多台计算机集群为了高性能带来的复杂度。
   * 单台计算机内部为了高性能带来的复杂度
     * 单机操作系统
-      * 进程
+      * [进程](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Mutilthreading)
         * 多进程通信
           * 管道
           * 消息队列
           * 信号量
           * 共享存储
-      * 线程
+      * [线程](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Mutilthreading)
         * 多线程并发
         * 多线程通信
-  * 多台计算机集群为了高性能带来的复杂度
+  * [多台计算机集群为了高性能带来的复杂度--让多台机器配合起来达到高性能的目的，是一个复杂的负载均衡任务](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
+    * 任务分配---如何把任务分发到多台计算机
+    * 任务分解---如何把大任务分解成小任务
     
 
 # 性能测试
@@ -63,7 +65,7 @@
     * Reactor
     * Proactor
     
-  * 集群高性能
+  * [集群高性能---负载均衡](https://github.com/stevenli91748/System-Design/blob/master/Load%20%20Balance/README.md)
   
     * 集群的分类
       * 运算系统集群
@@ -80,34 +82,8 @@
       **N个任务负载均衡分配器的复杂度**
 
       <a href="https://ibb.co/VSsDXpY"><img src="https://i.ibb.co/Z80Ky1z/1-2018-09-01-2.png" alt="1-2018-09-01-2" border="0"></a>
-
-      * 任务分配
-        * 任务负载均衡分配器（硬 软件负载均衡器集群）
-          * 任务负载均衡分配器分类
-            * 软件负载均衡
-              * HTTP重定向负载均衡
-              * DNS域名解析负载均衡
-              * 反向代理负载均衡
-              * LVS负载均衡
-              * IP负载均衡
-              * 数据链路层负载均衡
-            * 硬件负载均衡
-              * F5
-          * 任务负载均衡分配器架构
-          * 任务负载均衡分配器的算法
-            * 轮询算法
-            * 按权重分配
-            * 按照负载进行分配(如果按照服务器的负载进行分配，则业务服务器还要能够上报自己的状态给任务分配器)
-          * 任务分配器和真正的业务服务器之间连接和交互
-            * 连接建立
-            * 连接检测
-            * 连接中断后的处理
-             
-        * 真正的业务服务器
-        
-      * 任务分解
-      
-         
+   
+       
 
 # 性能优化
   * WEB前端性能优化方法
