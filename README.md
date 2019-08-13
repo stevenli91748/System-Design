@@ -208,11 +208,30 @@
 ### 2.5 开发层架构
    * 开发框架
      * JAVA
-       * SSH
-       * SSM
-       * SpringMVC
-       * SpringBoot
-       * SpringCloud
+       * 主流的java web框架
+         * 以servlet为标准的框架
+           * SSM
+           * Spring
+           * SpringMVC
+           * SpringBoot
+           * SpringCloud
+         * 无servlet的框架
+           * Netty
+           * Playframework
+           * Actframework
+       * PC客户端应用开发
+         * javaFX 
+       * Android应用开发
+       * 服务端程序开发
+         * RPC
+         * MQ
+       * 大数据技术开发
+         * HBase
+         * Accumulo
+         * ElasticSearchas
+     * 非Java
+       * Node.js
+       * 
    * WEB服务器
      * Tomcat
      * Nginx
