@@ -79,6 +79,7 @@
     * 2.2.5.  高安全性架构
     * 2.2.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
 
+
 ## [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/README.md)
 
 ## [架构验证]()
