@@ -50,8 +50,8 @@
   * [关系数据库集群](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/关系数据库集群.md)
     * 读写分离
     * 分库分表
-  * NoSQL数据库集群
-  * 缓存
+  * [NoSQL数据库集群](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/NoSQL数据库集群.md)
+  * [缓存]()
     * 缓存穿透
     * 缓存雪崩
     * 缓存热点
