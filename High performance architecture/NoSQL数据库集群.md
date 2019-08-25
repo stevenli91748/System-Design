@@ -27,6 +27,11 @@
 
 ## K-V存储解决关系数据库无法存储数据结构的问题
 
+     K-V 存储的全称是Key-Value 存储，其中Key 是数据的标识，和关系数据库中的主键含义一样， Value 就是具体的数据。
+
+     Red is 是K-V 存储的典型代表，它是一款开源（基于BSD 许可）的高性能K-V 缓存和存储系统。Redi s 的Value 是具体的数据结构，包括stri ng 、
+     hash 、li st 、set 、sorted set 、bitmap 和hyperloglog, 所以常常被称为数据结构服务器
+
 ## 文档数据库解决关系数据库强schema约束的问题
    
 
