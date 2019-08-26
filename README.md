@@ -282,7 +282,7 @@
 ### 2.4. 存储层架构
    * 分布式文件
       * 小文件存储
-        * HBase
+        * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
         * Hadoop
         * Hypertable
         * FastDFS
@@ -291,17 +291,17 @@
         * Haystack(facebook)
       * 大文件存储
         * Hadoop
-        * HBase
+        * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
         * Storm
         * Hive
-   * [关系数据库](https://github.com/stevenli91748/Database/blob/master/README.md)
+   * [关系数据库](https://github.com/stevenli91748/Database/blob/master/关系数据库/README.md)
      * [Master slave replication]
      * [Master master replication]
      * [Federation]
      * [Sharding]
      * [Denormalization]
      * [SQL tuning]
-   * 非关系数据库
+   * [非关系数据库NoSQL](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/NoSQL数据库集群.md)
      * [key-value store]
      * [Document store]
      * [Wide column store ]
