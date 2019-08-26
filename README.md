@@ -257,7 +257,7 @@
      * 任务队列
      * 背压机制  
    * 分布式缓存
-     * [缓存系统](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md)
+     * [缓存系统](https://github.com/stevenli91748/Database/blob/master/缓存系统/README.md)
        * [Client caching]
        * [HTTP  Caching]  
          * [HTTP----HTTP缓存机制](https://juejin.im/post/5a1d4e546fb9a0450f21af23)
