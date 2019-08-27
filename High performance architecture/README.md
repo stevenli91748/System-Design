@@ -70,7 +70,7 @@
         * 多进程
         * 单线程
         * 多线程
-    * PPC
+    * [PPC](#PPC)
     * Prefork
     * TPC
     * Prethread
@@ -113,7 +113,9 @@
   * 存储性能优化
     * B+树 vs LSM树
 
+## PPC
 
+   PPC 是Process per Connection 的缩写，其含义是指每次有新的连接就新建一个进程去专门处理这个连接的请求，这是传统的UNIX 网络服务器所采用的模型。
 
 
 ---
