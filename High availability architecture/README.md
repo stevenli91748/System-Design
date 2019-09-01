@@ -1,15 +1,19 @@
-# 高可用架构理论
-  * CAP---从理论上论证了存储高可用的复杂度。
-  * FMEA
+* [高可用架构理论](#高可用架构理论)
+  * [CAP定理](#CAP定理)---从理论上论证了存储高可用的复杂度。
+    * [Consistency](#Consistency)(一致性)
+    * Availability(可用性)
+    * Partition Tolerance(分区容错性)
+  * FMEA定理
   * 可用性的度量
-# 业务高可用
+* 高可用架构  
+* 业务高可用---高可用的应用
   * 异地多活
   * 接口级的故障应对方案
     * 降级
     * 熔断
     * 限流
     * 排队
-# 存储高可用
+* 存储高可用---高可用的数据
   * 主备复制
   * 主从复制
   * 主主复制
@@ -20,7 +24,7 @@
     * 分布式事务算法
     * 分布式一致性算法
   * 数据分区
-# 计算高可用
+* 计算高可用---高可用的服务
   * 计算高可用复杂度
   * 高可用双机调度算法
   * 主主  
@@ -31,7 +35,44 @@
   * 主从
   * 对称集群
   * 非对称集群
-  
+ 
+ --- 
+# 高可用架构理论
+
+## CAP定理
+      
+      对于设计分布式系统的架构师来说， CAP 是必须掌握的理论。
+      
+      前后有两版的CAP定理：
+      
+      第一版：
+      
+          any distibuted system cannot guaranty C, A, and P simu ltaneously 。
+          简单翻译为： 对于一个分布式计算系统，不可能同时满足一致性（ Consistence ）、可用性(Availability ）、分区容错性（ 
+          Partition Tolerance ）三个设计约束。
+          
+      第二版：
+     
+          in a distibuted system (a collection of inteconnected nodes that shae data.), you can only have
+          two out of the following thee guaantees acoss a wite/read pai： Co1sistency, Availability, and
+          Patition Toleance - one of them must be sacrificed 。
+
+          简单翻译为：在一个分布式系统（ 指互相连接并共享数据的节点的集合）中，当涉及读写操作时，只能保证一致性（ Consistence ）、可用性
+          （ Availability ）、分区容错性（ Partition Tolerance)三者中的两个，另外一个必须被牺牲。     
+          
+      前后有两版的差异点：
+      
+           (1）第二版定义了什么才是CAP 理论探讨的分布式系统，强调了两点： interconnected 和share data ，为何要强调这两点呢？ 因为分布式系统并
+               不一定会互联和共享数据。最简单的例如Memcache 的集群，相互之间就没有连接和共享数据，因此Memcache 集群这类分布式系统就不符合CAP 理
+               论探讨的对象；而MySQL 集群就是互联和进行数据复制的，因此是CAP 理论探讨的对象。
+               
+           (2）第二版强调了write / read pair ，这点其实和第1 条差异点是一脉相承的。也就是说，CAP 关注的是对数据的读写操作，而不是分布式系统的所
+               有功能。例如， ZooKeeper 的选举机制就不是CAP 探讨的对象。
+      
+       相比来说，第二版的定义更加精确。
+
+## Consistency
+## 
 
 # 有用的参考
 
