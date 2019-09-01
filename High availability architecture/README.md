@@ -1,8 +1,8 @@
 * [高可用架构理论](#高可用架构理论)
   * [CAP定理](#CAP定理)---从理论上论证了存储高可用的复杂度。
     * [Consistency](#Consistency)(一致性)
-    * Availability(可用性)
-    * Partition Tolerance(分区容错性)
+    * [Availability](#Availability)(可用性)
+    * [Partition Tolerance](#Partition-Tolerance)(分区容错性)
   * FMEA定理
   * 可用性的度量
 * 高可用架构  
@@ -72,7 +72,8 @@
        相比来说，第二版的定义更加精确。
 
 ## Consistency
-## 
+## Availability
+## Partition Tolerance
 
 # 有用的参考
 
