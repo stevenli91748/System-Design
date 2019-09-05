@@ -5,7 +5,7 @@
     * [Partition Tolerance](#Partition-Tolerance)(分区容错性)
   * [ACID定理](#ACID定理)---数据一致性相关的理论
   * [BASE定理](#BASE定理)---数据一致性相关的理论
-  * [FMEA分析方法](#FMEA分析方法)
+  * [FMEA分析方法](#FMEA分析方法)---高可用架构的分析
   * 可用性的度量
 * 高可用架构  
 * 业务高可用---高可用的应用
