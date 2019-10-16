@@ -426,6 +426,20 @@
  * 架构真经-互联网技术架构的设计原则.pdf
  
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
+ 
+# 架构视频
+
+  * [阿里P8推荐:进阶架构师课程全集](https://www.bilibili.com/video/av68678454/?spm_id_from=333.788.videocard.1)
+  * [阿里P8架构师细谈：最实用的系统架构技术，看架构设计的套路](https://www.bilibili.com/video/av54611735/?spm_id_from=333.788.videocard.3)
+  * [携程的架构师-杨波]()
+    * [第一章：课程介绍和案例需求 (5讲)](https://www.bilibili.com/video/av68179639)
+    * [第二章：系统架构设计和技术栈选型 (8讲)](https://www.bilibili.com/video/av68179794)
+    * [第三章：服务开发框架设计和实现 (10讲)](https://www.bilibili.com/video/av68184057)
+    * [第四章：可编程网关设计和实践 (9讲)](https://www.bilibili.com/video/av68184287)
+    * [第五章：安全框架设计和实践 (10讲)](https://www.bilibili.com/video/av69043943)
+    * [第六章：服务测试设计和实践 (7讲)](https://www.bilibili.com/video/av69044240)
+    * [第七章：可运维架构设计和实践 (8讲)](https://www.bilibili.com/video/av69044490)
+ 
 
 # 有用的参考
  * [从新手到架构师，一篇就够：从100到1000万高并发的架构演进之路](http://www.52im.net/thread-2665-1-1.html)
