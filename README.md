@@ -444,6 +444,7 @@
   * [美团架构师-高质量api网关接口设计（实战精品合集）](https://www.bilibili.com/video/av59601665/?spm_id_from=333.788.videocard.2)
   * [java架构知识——大型互联网公司必备之高质量API网关组件实现](https://www.bilibili.com/video/av53757089/?spm_id_from=333.788.videocard.7)
   * [Java高级架构师课程全套学习视频（2000分钟干货讲解](https://www.bilibili.com/video/av62954343/?spm_id_from=333.788.videocard.1)
+  * [尚学堂-分布式亿级高并发电商项目教程](https://www.bilibili.com/video/av47984582/?spm_id_from=333.788.videocard.1)
   
 # 有用的参考
  * [从新手到架构师，一篇就够：从100到1000万高并发的架构演进之路](http://www.52im.net/thread-2665-1-1.html)
