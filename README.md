@@ -445,6 +445,9 @@
   * [java架构知识——大型互联网公司必备之高质量API网关组件实现](https://www.bilibili.com/video/av53757089/?spm_id_from=333.788.videocard.7)
   * [Java高级架构师课程全套学习视频（2000分钟干货讲解](https://www.bilibili.com/video/av62954343/?spm_id_from=333.788.videocard.1)
   * [尚学堂-分布式亿级高并发电商项目教程](https://www.bilibili.com/video/av47984582/?spm_id_from=333.788.videocard.1)
+  * [千锋Linux：大型网站高并发之集群教程](https://www.bilibili.com/video/av46476180?from=search&seid=9370548204597669311)
+  
+  
   
 # 有用的参考
  
