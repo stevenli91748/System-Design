@@ -446,7 +446,7 @@
   * [Java高级架构师课程全套学习视频（2000分钟干货讲解](https://www.bilibili.com/video/av62954343/?spm_id_from=333.788.videocard.1)
   * [尚学堂-分布式亿级高并发电商项目教程](https://www.bilibili.com/video/av47984582/?spm_id_from=333.788.videocard.1)
   * [千锋Linux：大型网站高并发之集群教程](https://www.bilibili.com/video/av46476180?from=search&seid=9370548204597669311)
-  
+  * [Java分布式架构一线互联网公司分布式框架源码分析全集](https://www.bilibili.com/video/av64434093)
   
   
 # 有用的参考
