@@ -395,17 +395,22 @@
 
 # 3. 代码开发步骤
 
-  * [系统分析]()
-  * [数据库准备和逆向工程]()
-    * [直接运行SQL脚本]()
-    * [使用逆向工程生成 mapper 和 POJO]()
-  * [搭建maven环境--nexus私服]()
+  * [系统分析]
+  * [数据库准备和逆向工程]
+    * [直接运行SQL脚本]
+    * [使用逆向工程生成 mapper 和 POJO]
+  * [搭建maven环境--nexus私服]
   * []()  
 
 ---
 
 # 4. 部署
 
+ * [java项目部署服务器，云服务器部署的学习](https://www.bilibili.com/video/av66317648?from=search&seid=51472329364734361)
+ * [gitlab前后端项目部署集成](https://www.bilibili.com/video/av67379275?from=search&seid=51472329364734361)
+ * [腾讯云项目部署](https://www.bilibili.com/video/av66600923?from=search&seid=51472329364734361)
+ * [一个完整实操演示揭露Jenkins项目部署发布过程](https://www.bilibili.com/video/av49707383?from=search&seid=51472329364734361)
+ 
 ---
 
 # 5. 服务器
