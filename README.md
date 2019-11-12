@@ -164,27 +164,25 @@
      
      架构师在进行架构设计时需要牢记这个原则，时刻提醒自己不要贪大求全，或者盲目照搬大公司的做法，而是应该认真分析当前业务的特点，明确业务面临的主要问题，设计合理的架构，快速落地以满足业务需要，然后在运行过程中不断完善架构，不断随着业务演化架构。
 
-## [概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
+## [2.1  概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
 
-  * 2.1 功能性设计
+  * 2.1.1 功能性设计
   
        * 功能的复杂度--功能越来越多，导致系统复杂度指数级上升
         
-  * 2.2 非功能性设计
+  * 2.1.2 非功能性设计
   
     系统非功能性设计的6个复杂度
     
-    * 2.2.1.  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
-    * 2.2.2.  [高可用性架构](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)
-    * 2.2.3.  [高伸缩性架构](https://github.com/stevenli91748/System-Design/blob/master/Highly%20scalable%20architecture/README.md)
-    * 2.2.4.  [高櫎展性架构](https://github.com/stevenli91748/System-Design/blob/master/高櫎展性架构/README.md)
-    * 2.2.5.  [高安全性架构](https://github.com/stevenli91748/System-Design/blob/master/高安全性架构/README.md)
-    * 2.2.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
+    * 2.1.2.1.  [高性能架构](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/README.md)
+    * 2.1.2.2.  [高可用性架构](https://github.com/stevenli91748/System-Design/blob/master/High%20availability%20architecture/README.md)
+    * 2.1.2.3.  [高伸缩性架构](https://github.com/stevenli91748/System-Design/blob/master/Highly%20scalable%20architecture/README.md)
+    * 2.1.2.4.  [高櫎展性架构](https://github.com/stevenli91748/System-Design/blob/master/高櫎展性架构/README.md)
+    * 2.1.2.5.  [高安全性架构](https://github.com/stevenli91748/System-Design/blob/master/高安全性架构/README.md)
+    * 2.1.2.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
 
 
-## [细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/README.md)
-
-## [架构验证]()
+## [2.2  细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/README.md)
 
 ---
 
@@ -204,7 +202,7 @@
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
-### 2.1. 前端架构
+### 2.2.1. 前端架构
    * [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
      * DNS轮询
      * 智能DNS
@@ -215,7 +213,8 @@
       * [Pull CDNs]
    * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
    * GSLB全局负载均衡
-### 2.2. 应用层架构
+
+### 2.2.2. 应用层架构
    * 开发框架
    * 用户层技术
      * 用户管理
@@ -244,7 +243,8 @@
    * 动态页面静态化
    * 业务拆分
    * 虚拟化服务器
-#### 2.3. [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
+
+#### 2.2.3. [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
    * 配置中心
    * 服务中心   
      * 服务名字系统
@@ -279,7 +279,7 @@
    
 
    
-### 2.4. 存储层架构
+### 2.2.4. 存储层架构
    * 分布式文件
       * 小文件存储
         * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
@@ -308,7 +308,7 @@
      * [Graph database]
    * 数据同步
    
-### 2.5 开发层架构
+### 2.2.5 开发层架构
    * 开发框架
      * JAVA
        * 主流的java web框架
@@ -343,7 +343,7 @@
    * 容器
      * Docker
      
-### 2.6 网络层架构
+### 2.2.6 网络层架构
    * 负载均衡
      * [DNS (Domain Name System)---用于实现地理级别的负载均衡  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
      * Nginx & LVS & F5----用于同一地点内机器级别的负载均衡
@@ -358,7 +358,7 @@
    * 多机房
    * 多中心
 
-### 2.7 后台架构
+### 2.2.7 后台架构
    * 运维平台架构
      * 配置
      * 部署
