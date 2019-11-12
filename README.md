@@ -364,7 +364,7 @@
      * 部署
      * 监控
      * 应急
-   * 测试平台架构
+   * [测试平台架构](https://github.com/stevenli91748/Testing/blob/master/README.md)
      * 单元测试
      * 集成测试
      * 接口测试
