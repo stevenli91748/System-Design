@@ -12,6 +12,7 @@
 * [集中式架构与分布式架构比较](https://blog.csdn.net/qq_27384769/article/details/80223473) 
 * [单体式架构和分布式架构有什么区别？](https://github.com/stevenli91748/System-Design/blob/master/单体架构基础/README.md)
 * [服务器虚拟化技术简介](https://www.cnblogs.com/yogurtwu/p/9989200.html)
+* [SOA架构与微服务架构区别](https://www.bilibili.com/video/av37162103?from=search&seid=16399121196147863362)
 * [Docker容器化组件架构](https://www.jdon.com/artichect/docker-containerization.html)
 * [云原生技术和架构概述](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/86326182)
 
