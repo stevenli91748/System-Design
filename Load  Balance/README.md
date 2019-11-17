@@ -38,7 +38,7 @@
     * 连接建立
     * 连接检测
     * 连接中断后的处理
-    
+  * 负载均衡集群
 
 ## 负载均衡概述
 
@@ -213,7 +213,7 @@
 # 视频
 
 * [马哥Linux教程-2019全新LVS负载均衡实战](https://www.bilibili.com/video/av33613512?from=search&seid=13668291340428095101)
-
+* [Linux下nginx的安装使用+负载均衡+集群搭建](https://www.bilibili.com/video/av66388283?from=search&seid=3209376219057807635)
 # 有用的参考
    
    * 实用负载均衡技术网站性能优化攻略.pdf
