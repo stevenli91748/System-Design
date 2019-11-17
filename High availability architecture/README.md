@@ -458,7 +458,7 @@
   * [Tomcat+Memcached Redis集群构建高可用解决方案(上)](https://www.bilibili.com/video/av70448618?from=search&seid=87210491669533119)
   * [Tomcat+Memcached Redis集群构建高可用解决方案(下)](https://www.bilibili.com/video/av70430594/?spm_id_from=333.788.videocard.0)
   * [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838?from=search&seid=10562626782325115402)
-  
+  * [java 深入剖析Redis高可用集群构架原理及高并发锁实战](https://www.bilibili.com/video/av54159076?from=search&seid=1627730393722049451)
   
   
   
