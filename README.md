@@ -458,7 +458,7 @@
   * [尚学堂-分布式亿级高并发电商项目教程](https://www.bilibili.com/video/av47984582/?spm_id_from=333.788.videocard.1)
   * [千锋Linux：大型网站高并发之集群教程](https://www.bilibili.com/video/av46476180?from=search&seid=9370548204597669311)
   * [Java分布式架构一线互联网公司分布式框架源码分析全集 --分库分表, 分布式缓存Flasher, 线程安全， 数据库中间件Sphere ](https://www.bilibili.com/video/av64434093)
-  
+  * [一小时高效搭建大规模集群环境session共享](https://www.bilibili.com/video/av61321932?from=search&seid=6662233512601703949)
   
 # 有用的参考
  
