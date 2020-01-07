@@ -463,6 +463,7 @@
 # 有用的参考
  
  * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
+ * [学完这100多技术，能当架构师么？](http://www.imooc.com/article/details/id/291107)
  * [从新手到架构师，一篇就够：从100到1000万高并发的架构演进之路](http://www.52im.net/thread-2665-1-1.html)
  * [关于一个大型web系统架构设计和技术选型的讨论摘录](https://blog.csdn.net/zhang_yingliang/article/details/50585343)
  * [大型web系统架构详解](https://blog.csdn.net/zhulongxi/article/details/73549028)
