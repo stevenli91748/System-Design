@@ -441,6 +441,7 @@
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
  
 # 架构视频
+  * [千锋Java：容灾项目从入门到实战](https://www.bilibili.com/video/av45606377?from=search&seid=15013736168332447863)
   * [名师带你打造年薪千万Java架构师（完）](https://www.bilibili.com/video/av45612966?from=search&seid=12415339682838728596)
   * [阿里P8推荐:进阶架构师课程全集](https://www.bilibili.com/video/av68678454/?spm_id_from=333.788.videocard.1)
   * [阿里P8架构师细谈：最实用的系统架构技术，看架构设计的套路](https://www.bilibili.com/video/av54611735/?spm_id_from=333.788.videocard.3)
