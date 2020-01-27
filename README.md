@@ -461,7 +461,7 @@
   * [千锋Linux：大型网站高并发之集群教程](https://www.bilibili.com/video/av46476180?from=search&seid=9370548204597669311)
   * [Java分布式架构一线互联网公司分布式框架源码分析全集 --分库分表, 分布式缓存Flasher, 线程安全， 数据库中间件Sphere ](https://www.bilibili.com/video/av64434093)
   * [一小时高效搭建大规模集群环境session共享](https://www.bilibili.com/video/av61321932?from=search&seid=6662233512601703949)
-  
+  * [大并发服务器开发（实战）](https://www.bilibili.com/video/av45560719/?spm_id_from=333.788.videocard.0)
 # 有用的参考
  
  * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
