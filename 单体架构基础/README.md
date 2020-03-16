@@ -12,4 +12,4 @@
 
 # 有用的参考
 
-* [单体式架构和分布式架构有什么区别？](https://blog.csdn.net/weixin_43941991/article/details/86519491)
+* [单体式架构和分布式架构有什么区别？](https://blog.csdn.net/weixin_45393094/article/details/104632343?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
