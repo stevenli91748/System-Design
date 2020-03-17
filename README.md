@@ -466,7 +466,8 @@
   * [一小时高效搭建大规模集群环境session共享](https://www.bilibili.com/video/av61321932?from=search&seid=6662233512601703949)
   * [大并发服务器开发（实战）](https://www.bilibili.com/video/av45560719/?spm_id_from=333.788.videocard.0)
 # 有用的参考
-
+ * [高并发服务端分布式系统设计概要](https://blog.csdn.net/liu136313/article/details/50530289?depth_1-utm_source=distribute.pc_relevant_right.none-task&utm_source=distribute.pc_relevant_right.none-task)
+ * [如何设计一个高并发系统？](https://blog.csdn.net/A_BlackMoon/article/details/86286705?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
  * [MVC架构、RPC架构、SOA架构、微服务架构区别](https://blog.csdn.net/lmaosheng/article/details/88337678?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
  * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
  * [学完这100多技术，能当架构师么？](http://www.imooc.com/article/details/id/291107)
