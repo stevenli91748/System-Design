@@ -445,6 +445,7 @@
  
 # 架构视频
   * [ System Design](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+  * [Systems Design Interview Concepts (for software engineers / full-stack web)](https://www.youtube.com/watch?v=REB_eGHK_P4)
   * [2020年【千锋】JavaEE+微服务架构开发课程框架应用（强烈推荐）](https://www.bilibili.com/video/av83887117?from=search&seid=10204331567303013188)
   * [千锋Java：容灾项目从入门到实战](https://www.bilibili.com/video/av45606377?from=search&seid=15013736168332447863)
   * [名师带你打造年薪千万Java架构师（完）](https://www.bilibili.com/video/av45612966?from=search&seid=12415339682838728596)
