@@ -470,6 +470,7 @@
 # 有用的参考
  * [学完这100多技术，能当架构师么](http://www.imooc.com/article/details/id/291107)
  * [高并发服务端分布式系统设计概要](https://blog.csdn.net/liu136313/article/details/50530289?depth_1-utm_source=distribute.pc_relevant_right.none-task&utm_source=distribute.pc_relevant_right.none-task)
+ * [不用找了，大厂在用的分库分表方案，都在这里！](https://www.jianshu.com/p/5b2bb76d26d6)
  * [如何设计一个高并发系统？](https://blog.csdn.net/A_BlackMoon/article/details/86286705?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
  * [MVC架构、RPC架构、SOA架构、微服务架构区别](https://blog.csdn.net/lmaosheng/article/details/88337678?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
  * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
