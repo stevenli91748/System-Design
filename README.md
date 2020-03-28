@@ -225,6 +225,7 @@
 
 ### 2.2.2. 应用层架构
    * 开发框架
+     * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
    * 用户层技术
      * 用户管理
        * SSO---单点登录
