@@ -1,6 +1,8 @@
 
 # [系统设计面试](https://github.com/stevenli91748/System-Design/blob/master/Interview/README.md)
 
+# [服务器软件大盘点](https://mp.weixin.qq.com/s/J1XjIwtEKjaltqWH-0qmgw)
+
 # 目录
 
 #  System-Design
