@@ -472,6 +472,7 @@
   * [一小时高效搭建大规模集群环境session共享](https://www.bilibili.com/video/av61321932?from=search&seid=6662233512601703949)
   * [大并发服务器开发（实战）](https://www.bilibili.com/video/av45560719/?spm_id_from=333.788.videocard.0)
 # 有用的参考
+ * [烟囱式到SOA再到微服务](https://www.jianshu.com/p/a095c59baf31)
  * [分布式缓存架构设计](https://www.jianshu.com/p/39c9a48bd704)
  * [学完这100多技术，能当架构师么](http://www.imooc.com/article/details/id/291107)
  * [高并发服务端分布式系统设计概要](https://blog.csdn.net/liu136313/article/details/50530289?depth_1-utm_source=distribute.pc_relevant_right.none-task&utm_source=distribute.pc_relevant_right.none-task)
