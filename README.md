@@ -450,6 +450,9 @@
 # 架构视频
   * [系统设计系列讲解](https://www.youtube.com/watch?v=8F0ckuArL1w&list=PLbhaS_83B97vSWVslD63vjIi5OTYmSVrk&index=103)
   * [系统设计系列讲解 Design Twitter](https://1o24bbs.com/t/topic/19573)
+  * [【系统设计班】走进系统设计与新鲜事系统](https://www.youtube.com/watch?v=9dLMfcptD08)
+  * [如何设计一个推荐系统](https://www.youtube.com/watch?v=MZkxusQ6GNo&t=9s)
+  * [顶尖架构师：如何设计一个Uber](https://www.youtube.com/watch?v=oLmAEsMZZP0&t=2257s)
   * [ System Design](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   * [Systems Design Interview Concepts (for software engineers / full-stack web)](https://www.youtube.com/watch?v=REB_eGHK_P4)
   * [2020年【千锋】JavaEE+微服务架构开发课程框架应用（强烈推荐）](https://www.bilibili.com/video/av83887117?from=search&seid=10204331567303013188)
