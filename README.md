@@ -448,6 +448,7 @@
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
  
 # 架构视频
+  * [节日红包雨，高并发下的架构解决方案](https://www.bilibili.com/video/BV1Kt4y197G5?from=search&seid=3541957352485293330)
   * [容器化+分布式+实战](https://www.bilibili.com/video/BV1Dz411q7Xi/?spm_id_from=333.788.videocard.2)
   * [架构难？也许只是你的思路不对](https://www.bilibili.com/video/BV11g4y1i7RH?from=search&seid=3541957352485293330)
   * [【阿里P8推荐】进阶架构师课程全集](https://www.bilibili.com/video/BV16J411g7zH/?spm_id_from=333.788.videocard.1)
