@@ -1,4 +1,13 @@
 
+所谓的system design是要做一个能够在现实世界中运行的系统的设计，所以说system design可以cover任何topic，从建大桥到做手机到做网站，而局限到软件，尤其是面试的scenario，大体局限于以下几种：
+
+    1. Web application，典型例子：设计一个e-commerce商品的detail page(参考Amazon商品detail page)。设计一个online小游戏。设计一个论坛。
+    2. 简单的Web Service，典型例子：设计一个short url service。
+    3. 实时／半实时的消息update，典型例子：messenger，news feed。
+    4. 数据系统，典型例子：top url hits, unique url hits
+    5. 内容分发系统，典型例子：设计Netflix CDN
+    6. 专业知识，典型例子：推荐系统，分布式系统基础架构，搜索。。
+
 
 [系统设计学习资料](https://www.1point3acres.com/bbs/portal.php?mod=list&catid=8)|
 ---|
@@ -28,8 +37,6 @@
 
 <details>
 <summary>架构是什麽？架构设计目的是什麽？</summary>
-  
-
 
 </details> 
 
