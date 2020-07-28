@@ -8,6 +8,24 @@
     5. 内容分发系统，典型例子：设计Netflix CDN
     6. 专业知识，典型例子：推荐系统，分布式系统基础架构，搜索。。
 
+        基础知识的准备：
+        1. 数据库 —— 了解relational数据库(Oracle/postgres)的基本知识，了解数据库的partition，了解查询，了解数据库的replication；了解现在流行的NoSQL databases: key-value database (Riak/DynamoDB)，document based(mongodb)，graph based, big table(or column based - HBase)...这里DynamoDB有个paper，关于eventually consistence需要明白CAP定理。
+        2. 队列服务—— 了解Kafka或者Kinesis，明白队列服务的应用场景
+        3. Web层，了解MVC，具体技术可以了解Spring，Nodejs
+        4. 前端，了解Javascript，Html
+        5. 了解SOAP和RESTful
+        6. 理解cache——如何以及在何种情况下运用cache降低latency
+        7. 理解现代分布式系统需要大量monitor以及log analysis
+        8. 理解系统中不能有single point of failure，从failure的角度出发设计系统，运用Write Ahead Log进行故障恢复，充分replicate你的service所以任何一个机器、集群、机房的灾难都不会对你的整体服务造成不可挽回的影响
+        9. 处理高并发，明白资源共享是影响并发的主要原因之一（另一个原因是进程间通信）——如何decouple共享资源，提高并发效率
+        10. 明白基本的效率评定标准，如TPS。。。
+        11. 理解一些分布式系统的基本概念，如上面提到的CAP，以及Consistent Hashing，Vector Clock
+        12. 读一些paper，如Akamai的CDN，Amazon的Dynamo，Google的Map-reduce（很老嗯）等等
+        13. 亲手实现一个简单的网站，从前端到数据库都接触一些
+        14. 了解Hadoop的基本功能，如HDFS，Map-Reduce。
+        15. 了解Apache Storm的基本功能。
+        16. 结合所学的基础知识，考虑你所设计的系统的Availability，Scalability和Performance.
+
 
 [系统设计学习资料](https://www.1point3acres.com/bbs/portal.php?mod=list&catid=8)|
 ---|
