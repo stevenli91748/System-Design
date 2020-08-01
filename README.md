@@ -27,6 +27,15 @@
 * [云原生技术和架构概述](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/86326182)
 
 --- 
+
+API网关|Soul|Spring Cloud Gateway|Zuul|Apisix|Kong|Nginx|
+---|---|---|---|---|---|---|
+服务调用|||||||
+---|---|---|---|---|---|---|
+
+
+
+
  
 软件架构是软件系统的顶层结构，架构设计目的就是**解决软件系统复杂度（高性能 高可用 可扩展）**
  
