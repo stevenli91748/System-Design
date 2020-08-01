@@ -27,11 +27,13 @@
 * [云原生技术和架构概述](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/86326182)
 
 --- 
+类型|||||||项目中流行|
+---|---|---|---|---|---|---|---|
+API网关|Soul|Spring Cloud Gateway|Zuul|Apisix|Kong|Nginx||
+---|---|---|---|---|---|---|---|
+服务调用||||||||
+---|---|---|---|---|---|---|---|
 
-API网关|Soul|Spring Cloud Gateway|Zuul|Apisix|Kong|Nginx|
----|---|---|---|---|---|---|
-服务调用|||||||
----|---|---|---|---|---|---|
 
 
 
