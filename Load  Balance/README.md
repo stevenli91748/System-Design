@@ -1,7 +1,9 @@
 
 # 目录
-  
   * [负载均衡概述](#负载均衡概述)
+  * 负载均衡分类
+    * [GSLB全局负载均衡（Global Server Load Balance, GSLB）](https://blog.csdn.net/u010340143/article/details/9062213)
+    * [服务器负载均衡（Server Load Balance, SLB）](https://blog.csdn.net/u010340143/article/details/9062213)
   * [负载均衡集群的复杂度](#负载均衡集群的复杂度)
   * [负载均衡系统分类](#负载均衡系统分类)
     * DNS域名解析负载均衡---一般用来实现地理级别的均衡
