@@ -44,7 +44,8 @@
 ---|
 
 
-
+[蓝绿部署、红黑部署、AB测试、灰度发布、金丝雀发布、滚动发布的概念与区别](https://blog.csdn.net/wangyinghong_2013/article/details/78650290)|
+---|
 
 <details>
 <summary>模块与组件</summary>
