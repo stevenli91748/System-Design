@@ -36,52 +36,15 @@
 
 # 架构设计基础知识点
 
-<details>
-<summary>单体架构</summary>
-* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
-</details>|
+[单体架构，SOA架构，分布式架构，微服务架构](https://www.jianshu.com/p/92ca0bfbd52f)|
 ---|
 
-<details>
-<summary>SOA架构</summary>
-  
-* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
 
-</details>  
-
-<details>
-<summary>微服务架构</summary>
-  
-* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
-
-<details>
-<summary>架构是什麽？架构设计目的是什麽？</summary>
-
-</details> 
+[图解正向代理、反向代理、透明代理](https://blog.51cto.com/chenqiang78/1036316)|
+---|
 
 
-</details>  
 
-<details>
-<summary>分布式架构</summary>
-  
-* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
-
-</details>  
-
-<details>
-<summary>集群架构</summary>
-  
-* [单体架构,SOA架构,微服务架构,分布式架构,集群架构](https://www.jianshu.com/p/92ca0bfbd52f)
-
-</details>  
-
-<details>
-<summary>系统与子系统</summary>
-
-系统泛指由一群高关联的个体组成，根据某种规则运作，能完成个别元件不能单独完成的工作的群体。它的意思是“总体”“整体”或“联盟”。子系统的定义其实和系统的定义是一样的，只是观察的角度有差异，
-
-</details>  
 
 <details>
 <summary>模块与组件</summary>
@@ -114,9 +77,6 @@
 *  MVVM框架
 
 **软件架构指软件系统的顶层结构！**
-
-
-
 
 </details>  
 
