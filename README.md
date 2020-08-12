@@ -36,7 +36,7 @@
 
 类型|||||||项目中流行|
 ---|---|---|---|---|---|---|---|
-API网关|Soul|Spring Cloud Gateway|Zuul|Apisix|Kong|Nginx|Kong|
+[API网关](https://blog.csdn.net/pushiqiang/article/details/95726137?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param)|Soul|Spring Cloud Gateway|Zuul|Apisix|Kong|Nginx|Kong|
 服务调用|Dubbo|Ribbon+Feign|gRPC|SOFARPC|Motan|||
 消息队列|RocketMQ|Kafka|RabbitMQ|ActiveMQ||||
 作业调度|Elastic Job lite|Elastic job Cloud|Quartz|XXL-Job||||
