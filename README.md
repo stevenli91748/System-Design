@@ -513,6 +513,7 @@ ORM框架|MyBatis|Hibernate|Spring Data JPA|||||
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
  
 # 架构视频
+  * [架构师扬波的微课](https://space.bilibili.com/518029478?spm_id_from=333.788.b_765f7570696e666f.2)
   * [电商那些年，我摸爬打滚出的高并发架构实战精髓](https://blog.csdn.net/u010327957/article/details/52788068)
   * [节日红包雨，高并发下的架构解决方案](https://www.bilibili.com/video/BV1Kt4y197G5?from=search&seid=3541957352485293330)
   * [容器化+分布式+实战](https://www.bilibili.com/video/BV1Dz411q7Xi/?spm_id_from=333.788.videocard.2)
