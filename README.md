@@ -19,6 +19,8 @@
  
  * [网站架构演变过程之传统架构](https://www.bilibili.com/video/av37162103?p=2)
  * [网站架构演变过程之分布式架构模式](https://www.bilibili.com/video/av37162103?p=3)
+ * [大型分布式Web系统的架构演进](https://mp.weixin.qq.com/s?__biz=MzA3ODIxNjYxNQ==&mid=2247487243&amp;idx=1&amp;sn=106d94eeb483a75f8398ab5b82897b89&source=41#wechat_redirect)
+ * [大型分布式电商系统架构是如何从 0 开始演进的？](https://mp.weixin.qq.com/s?__biz=MzA3ODIxNjYxNQ==&mid=2247487334&amp;idx=1&amp;sn=5c56fe0c9b41942a1cd498ee2dcca3cd&source=41#wechat_redirect)
  * [网站架构演变过程之SOA架构模式](https://www.bilibili.com/video/av37162103?p=4)
  * [网站架构演变过程之微服务架构模式](https://www.bilibili.com/video/av37162103?p=5)
  
