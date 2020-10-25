@@ -1,4 +1,8 @@
 
+
+# [架构设计面试](https://thinkwon.blog.csdn.net/article/details/105870730)
+
+
 所谓的system design是要做一个能够在现实世界中运行的系统的设计，所以说system design可以cover任何topic，从建大桥到做手机到做网站，而局限到软件，尤其是面试的scenario，大体局限于以下几种：
 
     1. Web application，典型例子：设计一个e-commerce商品的detail page(参考Amazon商品detail page)。设计一个online小游戏。设计一个论坛。
@@ -25,6 +29,9 @@
         14. 了解Hadoop的基本功能，如HDFS，Map-Reduce。
         15. 了解Apache Storm的基本功能。
         16. 结合所学的基础知识，考虑你所设计的系统的Availability，Scalability和Performance.
+
+
+
 
 
 [系统设计学习资料](https://www.1point3acres.com/bbs/portal.php?mod=list&catid=8)|
