@@ -257,7 +257,7 @@ ORM框架|MyBatis|Hibernate|Spring Data JPA|||||
     * 2.1.2.3.  [高伸缩性架构](https://github.com/stevenli91748/System-Design/blob/master/Highly%20scalable%20architecture/README.md)
     * 2.1.2.4.  [高櫎展性架构](https://github.com/stevenli91748/System-Design/blob/master/高櫎展性架构/README.md)
     * 2.1.2.5.  [高安全性架构](https://github.com/stevenli91748/System-Design/blob/master/高安全性架构/README.md)
-    * 2.1.2.6.  [高并发架构](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/README.md)
+    * 2.1.2.6.  [高并发架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/README.md)
 
 
 ## [2.2  细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/README.md)
