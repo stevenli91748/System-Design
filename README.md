@@ -494,7 +494,7 @@ ORM框架|MyBatis|Hibernate|Spring Data JPA|||||
 ---
 
 # 6. 运维
-
+  * [各种集群搭建教程](https://www.shuzhiduo.com/R/Ae5RKvVYdQ/)
 ---
 
 # 7. 调优
