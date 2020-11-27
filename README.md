@@ -14,6 +14,9 @@
 [高并发都要学哪些技术](https://zhuanlan.zhihu.com/p/139509856?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|
 
+[如何设计与实现短URL服务？](https://zhuanlan.zhihu.com/p/306515366?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|
+
 #  System-Design
  * [如何画架构图](https://www.zhihu.com/question/27440059/answer/1381203176?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)
  * [重要  技术架构汇总---详细描述了系统架构的方方面面  非常好](https://zhuanlan.zhihu.com/p/114876283?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
