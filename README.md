@@ -8,8 +8,8 @@
 [耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[服务端高并发分布式架构 14 次演进](https://zhuanlan.zhihu.com/p/125092143?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[早期架构设计问题](https://zhuanlan.zhihu.com/p/141027477?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|
 
-[架构师杨波: 优秀架构师是如何学习开源项目的？](https://mp.weixin.qq.com/s/pG151VvpjE6GYeLA65C4IA)|
----|
+[架构师杨波: 优秀架构师是如何学习开源项目的？](https://mp.weixin.qq.com/s/pG151VvpjE6GYeLA65C4IA)|[应用架构之道：分离业务逻辑和技术细节](https://www.kubernetes.org.cn/8549.html)|
+---|---|
 
 [高并发都要学哪些技术](https://zhuanlan.zhihu.com/p/139509856?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|
