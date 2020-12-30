@@ -434,7 +434,7 @@ ORM框架|MyBatis|Hibernate|Spring Data JPA|||||
      * [Docker](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/README.md)
      
 ### 2.2.6 网络层架构
-   * 负载均衡
+   * [负载均衡](https://help.aliyun.com/document_detail/27544.html?spm=5176.7739444.6.540.BHXBo1)
      * [DNS (Domain Name System)---用于实现地理级别的负载均衡  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
      * Nginx & LVS & F5----用于同一地点内机器级别的负载均衡
      * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
