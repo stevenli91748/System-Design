@@ -14,8 +14,8 @@
 [一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|
 ---|
 
-[架构制图：工具与方法论](https://www.kubernetes.org.cn/8479.html)|
----|
+[架构制图：工具与方法论](https://www.kubernetes.org.cn/8479.html)|[如何画出一张合格的技术架构图？](https://my.oschina.net/yunqi/blog/3035875)|
+---|---|
 
 [高并发都要学哪些技术](https://zhuanlan.zhihu.com/p/139509856?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|
