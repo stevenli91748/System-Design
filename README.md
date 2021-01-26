@@ -300,7 +300,7 @@ ORM框架|MyBatis|Hibernate|Spring Data JPA|||||
       * [Pull CDNs]
    * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
    * 负载均衡
-     * 负载均衡分类
+     * [负载均衡分类](https://juejin.cn/post/6844903854958460942)
       * [GSLB全局负载均衡（Global Server Load Balance, GSLB）](https://blog.csdn.net/u010340143/article/details/9062213)
       * [服务器负载均衡（Server Load Balance, SLB）](https://blog.csdn.net/u010340143/article/details/9062213)
 ### 2.2.2. 应用层架构
