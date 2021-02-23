@@ -680,6 +680,13 @@ ORM框架|MyBatis|Hibernate|Spring Data JPA|||||
 * [项目实战18--Hadoop+Hbase分布式集群架构“完全篇”](https://www.cnblogs.com/along21/p/10496468.html)
 
 
+# 负载均衡层设计方案
+ * [架构设计：负载均衡层设计方案（1）——负载场景和解决方式](https://blog.csdn.net/yinwenjie/article/details/46605451)
+ * [架构设计：负载均衡层设计方案（2）——Nginx安装](https://blog.csdn.net/yinwenjie/article/details/46620711)
+ * [架构设计：负载均衡层设计方案（3）——Nginx进阶](https://blog.csdn.net/yinwenjie/article/details/46742661)
+ * [架构设计：负载均衡层设计方案（4）——LVS原理](https://blog.csdn.net/yinwenjie/article/details/46845997)
+ * [架构设计：负载均衡层设计方案（5）——LVS单节点安装](https://blog.csdn.net/yinwenjie/article/details/47010569)
+
 
 
 
