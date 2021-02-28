@@ -1,3 +1,7 @@
+
+<a href="https://ibb.co/7VhTp2H"><img src="https://i.ibb.co/K7nQsFY/lvs-keepalived-nginx.png" alt="lvs-keepalived-nginx" border="0"></a>
+
+
 # 例子
 
 * [LVS+Keepalived+Nginx负载均衡搭建测试](https://blog.51cto.com/3241766/2094750)
