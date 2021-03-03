@@ -50,60 +50,6 @@
 
 --- 
 
-# 系统设计中的组件
-
-类型|||||||项目中流行|
----|---|---|---|---|---|---|---|
-[API网关](https://blog.csdn.net/pushiqiang/article/details/95726137?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param)|Soul|Spring Cloud Gateway|Zuul|Apisix|Kong|Nginx|国外目前比较成型的是kong和tyk|
-服务调用|Dubbo|Ribbon+Feign|gRPC|SOFARPC|Motan|||
-消息队列|RocketMQ|Kafka|RabbitMQ|ActiveMQ||||
-作业调度|Elastic Job lite|Elastic job Cloud|Quartz|XXL-Job||||
-注册中心|Eureka|Nacos|Zookeeper|Consul|Etcd|||
----|---|---|---|---|---|---|---|
-配置中心|Apollo|Nacos|Spring Cloud Config|Disconf||||
----|---|---|---|---|---|---|---|
-链路追踪|SkyWalking|Zipkin|CAT|Pinpoint||||
----|---|---|---|---|---|---|---|
-服务器|Netty|Tomcat|Jetty|Nginx||||
----|---|---|---|---|---|---|---|
-JAVA|JDK源码|JAVA并发|JVM|||||
----|---|---|---|---|---|---|---|
-J2EE|Spring|Spring Boot|Spring Cloud|Spring Cloud Alibaba||||
----|---|---|---|---|---|---|---|
-Web框架|Spring MVC|Spring Webflux|WebSocket|Web Service||||
----|---|---|---|---|---|---|---|
-安全框架|Spring Security|Shiro|OAuth 2.0|||||
----|---|---|---|---|---|---|---|
-ORM框架|MyBatis|Hibernate|Spring Data JPA|||||
----|---|---|---|---|---|---|---|
-数据库连接池|HikariCP|Druid|多数据源|读写分离||||
----|---|---|---|---|---|---|---|
-数据库中间件|Sharding JDBC|Sharding Sphere|MyCAT|Canal||||
----|---|---|---|---|---|---|---|
-分布式事务|TCC Transaction|Seata|Fescar|Happylifeplat TCC||||
----|---|---|---|---|---|---|---|
-数据库|MySQL|Redis|MongoDB|TiDB||||
----|---|---|---|---|---|---|---|
-搜索引擎|Elasticsearch|Solr|Lucene|||||
----|---|---|---|---|---|---|---|
-容器服务|Linux|Docker|Kubernetes|Swarm||||
----|---|---|---|---|---|---|---|
-自我修养|设计模式|数据结构|算法|性能测试||||
----|---|---|---|---|---|---|---|
-开发工具|Github|Maven|Jenkis|Intellij IDEA||||
----|---|---|---|---|---|---|---|
-工具类|RXJava|Guava||||||
----|---|---|---|---|---|---|---|
-监控体系|ELK|Prometheus|Spring Boot Admin|CAT|Sentry|||
----|---|---|---|---|---|---|---|
-前端框架|React|Vue|Angular|||||
----|---|---|---|---|---|---|---|
-大数据|HBase|Hive|Spark|Flink||||
----|---|---|---|---|---|---|---|
-
-
-
-
 软件架构是软件系统的顶层结构，架构设计目的就是**解决软件系统复杂度（高性能 高可用 可扩展）**
  
  
@@ -300,9 +246,10 @@ ORM框架|MyBatis|Hibernate|Spring Data JPA|||||
       * [Pull CDNs]
    * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
    * 负载均衡
+     * [亿级PV请求的三种负载均衡技术](https://www.cnblogs.com/chanshuyi/p/how-loadbalance-works.html)
      * [负载均衡分类](https://juejin.cn/post/6844903854958460942)
-      * [GSLB全局负载均衡（Global Server Load Balance, GSLB）](https://blog.csdn.net/u010340143/article/details/9062213)
-      * [服务器负载均衡（Server Load Balance, SLB）](https://blog.csdn.net/u010340143/article/details/9062213)
+       * [GSLB全局负载均衡（Global Server Load Balance, GSLB）](https://blog.csdn.net/u010340143/article/details/9062213)
+       * [服务器负载均衡（Server Load Balance, SLB）](https://blog.csdn.net/u010340143/article/details/9062213)
 ### 2.2.2. 应用层架构
    * 开发框架
      * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
