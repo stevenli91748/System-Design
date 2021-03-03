@@ -1,7 +1,7 @@
 * [DNS负载均衡概述](#DNS负载均衡概述)
 * [DNS的分配算法](#DNS的分配算法)---将不同的任务分配到不同的负载均衡服务器上
 * [HTTP-DNS](#HTTP-DNS)
-
+* []()
 # 本机DNS文件的位置
 
   c:\windows\system32\driver\etc\host文件
@@ -31,3 +31,9 @@
 
 
 # HTTP-DNS
+
+
+
+# 有用的参考
+
+* [亿级PV请求的三种负载均衡技术](https://www.cnblogs.com/chanshuyi/p/how-loadbalance-works.html)
