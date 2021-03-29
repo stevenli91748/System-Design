@@ -11,8 +11,8 @@
 [架构师杨波: 优秀架构师是如何学习开源项目的？](https://mp.weixin.qq.com/s/pG151VvpjE6GYeLA65C4IA)|[应用架构之道：分离业务逻辑和技术细节](https://www.kubernetes.org.cn/8549.html)|
 ---|---|
 
-[一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|
----|
+[一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|[java web开发中的各种层](https://zhuanlan.zhihu.com/p/95059739)|
+---|---|
 
 [架构制图：工具与方法论](https://www.kubernetes.org.cn/8479.html)|[如何画出一张合格的技术架构图？](https://my.oschina.net/yunqi/blog/3035875)|
 ---|---|
