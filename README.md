@@ -24,6 +24,8 @@
 ---|
 
 #  System-Design
+
+ * [千万级并发下，淘宝服务端架构如何演进？](https://developer.51cto.com/art/201906/597895.htm)
  * [如何画架构图](https://www.zhihu.com/question/27440059/answer/1381203176?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)
  * [重要  技术架构汇总---详细描述了系统架构的方方面面  非常好](https://zhuanlan.zhihu.com/p/114876283?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
  * [烟囱式到SOA再到微服务](https://www.jianshu.com/p/a095c59baf31)
