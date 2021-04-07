@@ -482,7 +482,7 @@
  
 # 架构视频
   * [System Design Interview – Step By Step Guide](https://www.youtube.com/watch?v=bUHFg8CZFws)
-  * []()
+  * [系统设计系列讲解128讲](https://github.com/stevenli91748/System-Design/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E8%AE%B2%E8%A7%A3/README.md)
   * [架构师扬波的微课](https://space.bilibili.com/518029478?spm_id_from=333.788.b_765f7570696e666f.2)
   * [电商那些年，我摸爬打滚出的高并发架构实战精髓](https://blog.csdn.net/u010327957/article/details/52788068)
   * [节日红包雨，高并发下的架构解决方案](https://www.bilibili.com/video/BV1Kt4y197G5?from=search&seid=3541957352485293330)
