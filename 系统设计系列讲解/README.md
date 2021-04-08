@@ -7,6 +7,10 @@
 * [【系统设计班】走进系统设计与新鲜事系统](https://www.youtube.com/watch?v=9dLMfcptD08)
 * [系统设计面试准备指南！](https://www.youtube.com/watch?v=VjnXZpZ7wvs)
 * [系统设计专题讲座-从面试官和求职者角度剖析系统搞设计面试！](https://www.youtube.com/watch?v=mSVuU6bdFv4)
+* [资深面试官眼里的系统设计面试](https://www.youtube.com/watch?v=PnVQYaUw0Hk)
+
+
+
 ## 系统设计系列讲解
 
 * [系统设计系列讲解1 - Load Balancing](https://www.youtube.com/watch?v=8F0ckuArL1w&list=PLbhaS_83B97vSWVslD63vjIi5OTYmSVrk)
