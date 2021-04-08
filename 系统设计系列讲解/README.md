@@ -1,6 +1,25 @@
 
 # 视频
 
+
+
+
+
+
+* [系统设计系列讲解100 - GraphQL vs REST](https://www.youtube.com/watch?v=ZPVPa_w-B_Y)
+* [系统设计系列讲解101 - RPC vs REST](https://www.youtube.com/watch?v=wFpAq6QuRhI)
+* [系统设计系列讲解102 - Rate Limiting Algorithm](https://www.youtube.com/watch?v=qS-JhctYPyA)
+* [系统设计系列讲解103 - Rate Limiting Service](https://www.youtube.com/watch?v=a8A05_ZQ9-8)
+* [系统设计系列讲解104 - Elastic Search Introduction](https://www.youtube.com/watch?v=8ziThfRyTTA)
+* [系统设计系列讲解105 - Elastic Search Basic Concepts](https://www.youtube.com/watch?v=gJbM2dzyIYM&t=40s)
+* [系统设计系列讲解106 - Cassandra系列 - Consistent Hashing and Time Series Data](https://www.youtube.com/watch?v=aT3XDNKwC04)
+* [系统设计系列讲解107 - Cassandra系列 - Replication and Consistency](https://www.youtube.com/watch?v=lO1jrSu-qi8)
+* [系统设计系列讲解108 - Cassandra系列 - Repairing Data](https://www.youtube.com/watch?v=DD8WAy8Rvvc)
+* [系统设计系列讲解109 - Cassandra系列 - Log-Structured Storage](https://www.youtube.com/watch?v=upCV1mN4jGM)
+* [系统设计系列讲解110 - Cassandra系列 - Compaction](https://www.youtube.com/watch?v=Ylm83UhqnLc)
+* [系统设计系列讲解111 - Kafka系列 - Introduction](https://www.youtube.com/watch?v=_sPliecW0cU)
+* [系统设计系列讲解112 - Kafka系列 - Topic](https://www.youtube.com/watch?v=MD9uVrFd04I&t=234s)
+* [系统设计系列讲解113 - Kafka系列 - Partition](https://www.youtube.com/watch?v=zIKNq8bPPjM)
 * [系统设计系列讲解114 - Kafka系列 - Consumer Group](https://www.youtube.com/watch?v=pniJIodBxUk)
 * [系统设计系列讲解115 - Design Chat System - Problem Statement](https://www.youtube.com/watch?v=ClVhYwryWRQ)
 * [系统设计系列讲解116 - Design Chat System - High Level Design](https://www.youtube.com/watch?v=14tlp5Tw1wg)
