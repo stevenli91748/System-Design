@@ -2,7 +2,7 @@
 # 视频
 
 
-
+* [系统设计系列讲解1 - Load Balancing](https://www.youtube.com/watch?v=8F0ckuArL1w&list=PLbhaS_83B97vSWVslD63vjIi5OTYmSVrk)
 
 
 
@@ -35,6 +35,6 @@
 * [系统设计系列讲解126 - 基本套路3](https://www.youtube.com/watch?v=0NqhMADs2P4)
 * [系统设计系列讲解127 - 基本套路4](https://www.youtube.com/watch?v=NJ8kF0qAyhU)
 * [系统设计系列讲解128 - 基本套路5](https://www.youtube.com/watch?v=uNnTKMvB01A)
-
+* [系统设计系列讲解129 - 基本套路6](https://www.youtube.com/watch?v=vLTFnfPZK4I)
 
 
