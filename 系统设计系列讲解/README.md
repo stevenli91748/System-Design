@@ -1,5 +1,6 @@
 
 # 视频
+* [系统架构设计如何应对面试？九章金牌讲师谷歌面试官带你系统设计Google/Amazon/linkdln/ leetcode](https://www.youtube.com/watch?v=Mn66_TQrOp8)
 
 
 * [系统设计系列讲解1 - Load Balancing](https://www.youtube.com/watch?v=8F0ckuArL1w&list=PLbhaS_83B97vSWVslD63vjIi5OTYmSVrk)
