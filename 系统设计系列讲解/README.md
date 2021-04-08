@@ -1,9 +1,9 @@
 
 # 视频
 
-
-
-
+* [系统设计系列讲解114 - Kafka系列 - Consumer Group](https://www.youtube.com/watch?v=pniJIodBxUk)
+* [系统设计系列讲解115 - Design Chat System - Problem Statement](https://www.youtube.com/watch?v=ClVhYwryWRQ)
+* [系统设计系列讲解116 - Design Chat System - High Level Design](https://www.youtube.com/watch?v=14tlp5Tw1wg)
 * [系统设计系列讲解117 - Design Chat System - Web Socket](https://www.youtube.com/watch?v=h3Re696CRL0)
 * [系统设计系列讲解118 - Design Chat System - Architecture](https://www.youtube.com/watch?v=UHDQIjDztmA)
 * [系统设计系列讲解119 - Design Chat System - Storage](https://www.youtube.com/watch?v=brRTpp1e0P8)
