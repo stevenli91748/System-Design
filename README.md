@@ -513,6 +513,7 @@
     * [第五章：安全框架设计和实践 (10讲)](https://www.bilibili.com/video/av69043943)
     * [第六章：服务测试设计和实践 (7讲)](https://www.bilibili.com/video/av69044240)
     * [第七章：可运维架构设计和实践 (8讲)](https://www.bilibili.com/video/av69044490)
+  * [老板叫我设计一个亿级API网关](https://network.51cto.com/art/202104/656469.htm)
   * [美团架构师-高质量api网关接口设计（实战精品合集）](https://www.bilibili.com/video/av59601665/?spm_id_from=333.788.videocard.2)
   * [java架构知识——大型互联网公司必备之高质量API网关组件实现](https://www.bilibili.com/video/av53757089/?spm_id_from=333.788.videocard.7)
   * [Java高级架构师课程全套学习视频（2000分钟干货讲解](https://www.bilibili.com/video/av62954343/?spm_id_from=333.788.videocard.1)
