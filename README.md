@@ -9,6 +9,12 @@
 [九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|[爱思系统设计---硅谷多家顶尖大厂近十年工作经验资深 Tech Lead](https://acecodeinterview.com/author/logic/)|[X Code---系统设计 和 算法](https://www.youtube.com/channel/UCicSh3qMeTmYybY7wdiTjmg)|
 ---|---|---|
 
+[来Offer---LaiOffer](https://www.youtube.com/channel/UC12XyYzyyZwFiIgafl_Ga6w/videos)|
+---|
+
+
+---
+
 [耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[服务端高并发分布式架构 14 次演进](https://zhuanlan.zhihu.com/p/125092143?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[早期架构设计问题](https://zhuanlan.zhihu.com/p/141027477?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|
 
