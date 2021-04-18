@@ -491,6 +491,8 @@
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
  
 # 架构视频
+  * [架构设计面试](https://thinkwon.blog.csdn.net/article/details/105870730)
+  * [系统设计系列讲解128讲 + 九章算法之系统架构设计](https://github.com/stevenli91748/System-Design/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E8%AE%B2%E8%A7%A3/README.md)
   * [System Design Interview – Step By Step Guide](https://www.youtube.com/watch?v=bUHFg8CZFws)
   * [系统设计系列讲解128讲](https://github.com/stevenli91748/System-Design/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E8%AE%B2%E8%A7%A3/README.md)
   * [架构师扬波的微课](https://space.bilibili.com/518029478?spm_id_from=333.788.b_765f7570696e666f.2)
