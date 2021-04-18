@@ -5,7 +5,7 @@
 
 # 目录
 
-[面试官教你破解系统设计题---非常有体系的系统设计](https://www.1point3acres.com/bbs/thread-171320-1-1.html)|
+[面试官教你破解系统设计题---非常有体系的系统设计破解](https://www.1point3acres.com/bbs/thread-171320-1-1.html)|
 ---|
 
 
