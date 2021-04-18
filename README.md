@@ -9,8 +9,8 @@
 [九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|[爱思系统设计---硅谷多家顶尖大厂近十年工作经验资深 Tech Lead](https://acecodeinterview.com/author/logic/)|[X Code---系统设计 和 算法](https://www.youtube.com/channel/UCicSh3qMeTmYybY7wdiTjmg)|
 ---|---|---|
 
-[学习系统设计的网站](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)|[系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)|[来Offer---LaiOffer](https://www.youtube.com/channel/UC12XyYzyyZwFiIgafl_Ga6w/videos)|
----|---|---|
+[学习系统设计的网站](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)|[系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)|[来Offer---LaiOffer](https://www.youtube.com/channel/UC12XyYzyyZwFiIgafl_Ga6w/videos)|[system-design-interview](https://github.com/checkcheckzz/system-design-interview)|
+---|---|---|---|
 
 
 ---
