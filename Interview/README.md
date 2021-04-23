@@ -3,6 +3,9 @@
 [架构设计面试](https://thinkwon.blog.csdn.net/article/details/105870730)|[系统设计系列讲解128讲 + 九章算法之系统架构设计](https://github.com/stevenli91748/System-Design/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E8%AE%B2%E8%A7%A3/README.md)|
 ---|---|
 
+[系統設計面試6個技巧---我面Google前的準備方法](https://www.youtube.com/watch?v=zomYKjlvJGU)|[【科技公司Offer拿到手軟】軟體工程師在北美找工作/跳槽的終極武器 ｜刷題是什麼---我面Google前的準備方法](https://www.youtube.com/watch?v=sFWfC72WWQY)|
+---|---|
+
 
 所谓的system design是要做一个能够在现实世界中运行的系统的设计，所以说system design可以cover任何topic，从建大桥到做手机到做网站，而局限到软件，尤其是面试的scenario，大体局限于以下几种：
 
