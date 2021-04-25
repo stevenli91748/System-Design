@@ -258,6 +258,8 @@
 
 ![Imgur](http://i.imgur.com/jrUBAF7.png)
 
+
+
 ### 2.2.1. 前端架构
    * [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
      * DNS轮询
@@ -405,15 +407,21 @@
      
 ### 2.2.6 网络层架构
    * [负载均衡](https://help.aliyun.com/document_detail/27544.html?spm=5176.7739444.6.540.BHXBo1)
-     * [DNS (Domain Name System)---用于实现地理级别的负载均衡  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
-     * Nginx & LVS & F5----用于同一地点内机器级别的负载均衡
      * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
        * [Push CDNs]
        * [Pull CDNs]
-     * 分布式存储
-     * 全局负载均衡
+     * [DNS (Domain Name System)---用于实现地理级别的负载均衡  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+     * [负载均衡分类](https://juejin.cn/post/6844903854958460942)
+       * [GSLB全局负载均衡（Global Server Load Balance, GSLB）](https://blog.csdn.net/u010340143/article/details/9062213)
+         * 3层(L3)/4层(L4)负载均衡
+         * 7层(L7)负载均衡
+       * [服务器负载均衡（Server Load Balance, SLB）](https://blog.csdn.net/u010340143/article/details/9062213)
+         * 3层(L3)/4层(L4)负载均衡
+         * 7层(L7)负载均衡
+       * [亿级PV请求的三种负载均衡技术](https://www.cnblogs.com/chanshuyi/p/how-loadbalance-works.html)
      * 网络重定向
      * 流量控制
+   * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
    * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
    * 多机房
    * 多中心
