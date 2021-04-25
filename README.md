@@ -496,6 +496,9 @@
  * [大型网站架构系列：20本技术书籍推荐](https://blog.csdn.net/zdy0_2004/article/details/50513152)
  
 # 架构视频
+  * [system design---YouTube印度小哥系列](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+  * [system design----YouTube黑哥系列](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
+  * 
   * [system design interview---包含了几乎所有System Design需要注意的点 ](https://www.youtube.com/watch?v=UzLMhqg3_Wc)
   * [架构设计面试](https://thinkwon.blog.csdn.net/article/details/105870730)
   * [系统设计系列讲解128讲 + 九章算法之系统架构设计](https://github.com/stevenli91748/System-Design/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E7%B3%BB%E5%88%97%E8%AE%B2%E8%A7%A3/README.md)
