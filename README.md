@@ -8,6 +8,8 @@
 [面试官教你破解系统设计题---非常有体系的系统设计破解](https://www.1point3acres.com/bbs/thread-171320-1-1.html)|
 ---|
 
+[很多软件公司的softwear engineer blog地址---有非常重要的参考价值](https://github.com/kilimchoi/engineering-blogs)|
+---|
 
 [九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|[爱思系统设计---硅谷多家顶尖大厂近十年工作经验资深 Tech Lead](https://acecodeinterview.com/author/logic/)|[X Code---系统设计 和 算法](https://www.youtube.com/channel/UCicSh3qMeTmYybY7wdiTjmg)|
 ---|---|---|
