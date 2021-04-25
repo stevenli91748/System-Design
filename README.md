@@ -18,6 +18,9 @@
 [System Design for Tech Interviews 学习笔记](https://www.jianshu.com/p/2a3dd1cbe90a)|[系统设计面试指南](https://fastzhong.com/posts/interview-system/)|[系统设计面试 101](https://zhuanlan.zhihu.com/p/77857433)|
 ---|---|---|
 
+[【解构系统设计面试】什么是系统设计？以及如何设计一个新鲜事系统？](http://blog.luoyuanhang.com/2020/05/24/system-design-0/)|
+---|
+
 ---
 
 [耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[服务端高并发分布式架构 14 次演进](https://zhuanlan.zhihu.com/p/125092143?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[早期架构设计问题](https://zhuanlan.zhihu.com/p/141027477?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
