@@ -15,8 +15,8 @@
 [学习系统设计的网站](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)|[系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)|[来Offer---LaiOffer](https://www.youtube.com/channel/UC12XyYzyyZwFiIgafl_Ga6w/videos)|[System design interview for IT companies IT 公司系统设计面试](https://github.com/checkcheckzz/system-design-interview)|
 ---|---|---|---|
 
-[System Design for Tech Interviews 学习笔记](https://www.jianshu.com/p/2a3dd1cbe90a)|[系统设计面试指南](https://fastzhong.com/posts/interview-system/)|
----|---|
+[System Design for Tech Interviews 学习笔记](https://www.jianshu.com/p/2a3dd1cbe90a)|[系统设计面试指南](https://fastzhong.com/posts/interview-system/)|[系统设计面试 101](https://zhuanlan.zhihu.com/p/77857433)|
+---|---|---|
 
 ---
 
