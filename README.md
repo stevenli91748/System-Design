@@ -266,9 +266,11 @@
    * 图片服务
 
 
-### 2.2.2. 应用层架构
+### 2.2.2. 应用层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性
    * 开发框架
-     * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
+     * [MVC框架]()
+       * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
+     * [MVVC框架]()
    * 用户层技术
      * 用户管理
        * SSO---单点登录
@@ -297,7 +299,7 @@
    * 业务拆分
    * 虚拟化服务器
 
-#### 2.2.3. [服务层架构](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
+#### 2.2.3. [服务层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
    * 配置中心
    * 服务中心   
      * 服务名字系统
@@ -355,10 +357,10 @@
      * [Denormalization]
      * [SQL tuning]
    * [非关系数据库NoSQL](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/NoSQL数据库集群.md)
-     * [key-value store]
-     * [Document store]
-     * [Wide column store ]
-     * [Graph database]
+     * [key-value store---键值存储](DLDL "我们使用键值缓存的主要原因是为了减少访问活动数据的延迟。在快速而昂贵的媒体(如内存或 SSD)上实现 o (1)读/写性能，而不是在缓慢而廉价的媒体(通常是硬盘驱动器)上实现传统的 o (logn)读/写")
+     * [Document store---文档存储]
+     * [Wide column store---面向列的存储 ]
+     * [Graph database---图形数据库]
    * 数据同步
    
 ### 2.2.5 开发层架构
