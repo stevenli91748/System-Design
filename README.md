@@ -261,20 +261,11 @@
 
 
 ### 2.2.1. 前端架构
-   * [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
-     * DNS轮询
-     * 智能DNS
+
    * 动静分离--静态资源独立部署
    * 图片服务
-   * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
-      * [Push CDNs]
-      * [Pull CDNs]
-   * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
-   * 负载均衡
-     * [亿级PV请求的三种负载均衡技术](https://www.cnblogs.com/chanshuyi/p/how-loadbalance-works.html)
-     * [负载均衡分类](https://juejin.cn/post/6844903854958460942)
-       * [GSLB全局负载均衡（Global Server Load Balance, GSLB）](https://blog.csdn.net/u010340143/article/details/9062213)
-       * [服务器负载均衡（Server Load Balance, SLB）](https://blog.csdn.net/u010340143/article/details/9062213)
+
+
 ### 2.2.2. 应用层架构
    * 开发框架
      * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
@@ -406,6 +397,9 @@
      * [Docker](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/README.md)
      
 ### 2.2.6 网络层架构
+   * [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
+     * DNS轮询
+     * 智能DNS
    * [负载均衡](https://help.aliyun.com/document_detail/27544.html?spm=5176.7739444.6.540.BHXBo1)
      * [CDN (Content Delivery Network)](https://github.com/stevenli91748/System-Design/blob/master/CDN/README.md)
        * [Push CDNs]
@@ -423,6 +417,10 @@
      * 流量控制
    * [反向代理](https://github.com/stevenli91748/System-Design/blob/master/Reverse%20Proxy/README.md)
    * [网络通信](https://github.com/stevenli91748/Network/blob/master/README.md)
+     * [通信协议]()
+       * [UDP/TCP]()
+       * [HTTP]()
+       * [RPC---进程间通讯协议]()
    * 多机房
    * 多中心
 
