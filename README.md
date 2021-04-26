@@ -271,6 +271,8 @@
      * [MVC框架]()
        * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
      * [MVVC框架]()
+   * Stateless---无状态
+   * Async non-blocking---异步非阻塞
    * 用户层技术
      * 用户管理
        * SSO---单点登录
@@ -329,8 +331,10 @@
          * [Refresh ahead]
    * [分布式session](https://github.com/stevenli91748/System-Design/blob/master/Session/README.md)
    * [分布式服务](https://github.com/stevenli91748/Distributed-System)
-     * [Microservice](https://github.com/stevenli91748/MicroService)
-     * [Service Discovery]
+     * [Microservice---微服务](https://github.com/stevenli91748/MicroService)
+     * [Service Discovery---服务发现]
+       * 分布式CAP定理
+       * Zookeeper
    
 
    
@@ -422,7 +426,7 @@
      * [通信协议]()
        * [UDP/TCP]()
        * [HTTP]()
-       * [RPC---进程间通讯协议]()
+       * [RPC---进程间通讯协议](www "一般来说，RPC 被许多科技公司内部用于性能问题，但是它很难调试且不灵活。因此，对于公共 api，我们倾向于使用 HTTP api，并且通常遵循 RESTful 风格")
          * [gRPC--- Google 的RPC协议]()
          * [Thrift--- Facebook 的RPC协议]()
          * [Apache Avro--- ]()
