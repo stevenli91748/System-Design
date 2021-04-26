@@ -356,7 +356,7 @@
      * [Sharding]
      * [Denormalization]
      * [SQL tuning]
-   * [非关系数据库NoSQL](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/NoSQL数据库集群.md)
+   * [非关系数据库NoSQL](https://github.com/stevenli91748/Database/blob/master/NoSQL/README.md)
      * [key-value store---键值存储](WWW "我们使用键值缓存的主要原因是为了减少访问活动数据的延迟。在快速而昂贵的媒体(如内存或 SSD)上实现 o (1)读/写性能，而不是在缓慢而廉价的媒体(通常是硬盘驱动器)上实现传统的 o (logn)读/写")
      * [Document store---文档存储](WWW "")
      * [Wide column store---面向列的存储 ]
