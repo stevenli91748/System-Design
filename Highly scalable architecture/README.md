@@ -13,5 +13,6 @@
 
 
 ---
-
+# 有用的参考
+* 互联网创业核心技术--创建可伸缩的WEB应用.PDF
 * [说说大型网站可伸缩性架构的设计原理设计伸缩性架构](https://blog.csdn.net/deniro_li/article/details/78415186)
