@@ -226,6 +226,7 @@
 
 ## [2.1  概念架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/概念架构设计/README.md)
 
+  * 2.1.0 [软件架构模式种类](https://www.infoq.cn/article/6rx047oohjlrdipd1bc2)
   * 2.1.1 功能性设计
   
        * 功能的复杂度--功能越来越多，导致系统复杂度指数级上升
