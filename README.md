@@ -25,8 +25,8 @@
 
 ---
 
-[程序员必知的几种软件架构模式](https://www.infoq.cn/article/6rx047oohjlrdipd1bc2)|
----|
+[程序员必知的几种软件架构模式](https://www.infoq.cn/article/6rx047oohjlrdipd1bc2)|[如何设计一个优秀的分布式系统？重要因素、工具、策略都在这里](https://www.infoq.cn/article/f7GdiJOO89SaIdv656J4?utm_source=related_read_bottom&utm_medium=article)|
+---|---|
 
 
 [耦合到底意味着什么呢](https://zhuanlan.zhihu.com/p/105463736?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[服务端高并发分布式架构 14 次演进](https://zhuanlan.zhihu.com/p/125092143?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[早期架构设计问题](https://zhuanlan.zhihu.com/p/141027477?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
