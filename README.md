@@ -247,6 +247,8 @@
 
 ---
 
+# 架构
+
 ## 互联网系统架构模板
 
 <a href="https://ibb.co/RCmqnhQ"><img src="https://i.ibb.co/XzgqByF/1-2.png" alt="1-2" border="0"></a>
@@ -496,6 +498,10 @@
 
 # 6. 运维
   * [各种集群搭建教程](https://www.shuzhiduo.com/R/Ae5RKvVYdQ/)
+  * 运维平台
+  * 测试平台
+  * 数据平台
+  * 管理平台
 ---
 
 # 7. 调优
