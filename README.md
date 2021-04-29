@@ -267,13 +267,19 @@
 
 
 
-### 2.2.1. 前端架构
+### 2.2.0. 前端架构
 
    * 动静分离--静态资源独立部署
    * 图片服务
 
+### 2.2.1 后端显示层架构
+   * 前端控制器模式的原理
+   * MVC模式的原理
+   * MVP模式的原理
+   * MVVM模式的原理
+   * PM模式的原理
 
-### 2.2.2. 应用层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性
+### 2.2.2. 后端业务层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性
    * 开发框架
      * [MVC框架]()
        * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
@@ -308,7 +314,7 @@
    * 业务拆分
    * 虚拟化服务器
 
-#### 2.2.3. [服务层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
+#### 2.2.3. [后端服务层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
    * 配置中心
    * 服务中心   
      * 服务名字系统
@@ -346,7 +352,22 @@
    
 
    
-### 2.2.4. 存储层架构
+### 2.2.4. 后端数据訪问层设计
+   * 数据訪问层的设计策略
+     * 倉储模式
+     * 数据訪问对象模式
+   * ORM对象关系映射
+### 2.2.5. 后端数据存储层设计
+   * 数据存储的三种方式
+   * 数据库架构设计
+     * 分布数据
+     * 数据拆分
+     * 读写分离
+     * 数据缓存
+   * 数据库设计
+     * 数据库计划
+     * 逻辑数据库设计
+     * 物理数据库设计
    * 分布式文件
       * 小文件存储
         * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
@@ -375,7 +396,7 @@
      * [Graph database---图形数据库]
    * 数据同步
    
-### 2.2.5 开发层架构
+### 2.2.6 开发层架构
    * 开发框架
      * JAVA
        * 主流的java web框架
@@ -410,7 +431,7 @@
    * 容器
      * [Docker](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/README.md)
      
-### 2.2.6 网络层架构
+### 2.2.7 网络层架构
    * [DNS (Domain Name System)  ](https://github.com/stevenli91748/System-Design/blob/master/DNS/README.md)
      * DNS轮询
      * 智能DNS
@@ -442,7 +463,7 @@
    * 多机房
    * 多中心
 
-### 2.2.7 后台架构
+### 2.2.8 后台架构
    * 运维平台架构
      * 配置
      * 部署
