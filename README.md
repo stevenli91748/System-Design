@@ -636,7 +636,14 @@
   * [技术方案设计](https://blog.csdn.net/my201110lc/article/details/82229611#_Toc512435238)
   * [架构师之路-创业互联网公司如何搭建自己的技术架构](https://blog.csdn.net/zhaorui2017/article/details/78133686)
   * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)  
-  
+
+## 数据訪问DAO层
+
+* [java web开发中的各种层之数据层](https://zhuanlan.zhihu.com/p/95059739)
+
+
+
+
  ### 大型网站架构 
   * [深入解析java应用程序的一般架构（好文）](https://blog.csdn.net/hliq5399/article/details/51584622)
   * [LMAX架构](http://ifeve.com/lmax/)
