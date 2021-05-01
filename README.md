@@ -55,7 +55,7 @@
  * [重要  技术架构汇总---详细描述了系统架构的方方面面  非常好](https://zhuanlan.zhihu.com/p/114876283?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
  * [烟囱式到SOA再到微服务](https://www.jianshu.com/p/a095c59baf31)
  * [近二十年技术发展：从集中式架构到云原生架构](https://blog.csdn.net/weixin_44326589/article/details/93894615)
- 
+ * []()
  <a href="https://ibb.co/M53YF64"><img src="https://i.ibb.co/DgSx0py/6ee62597-6d98-4af5-93b4-bc54f97c7936.png" alt="6ee62597-6d98-4af5-93b4-bc54f97c7936" border="0"></a>
  
  * [网站架构演变过程之传统架构](https://www.bilibili.com/video/av37162103?p=2)
