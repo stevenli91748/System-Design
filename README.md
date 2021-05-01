@@ -5,8 +5,8 @@
 
 # 目录
 
-[面试官教你破解系统设计题---非常有体系的系统设计破解](https://www.1point3acres.com/bbs/thread-171320-1-1.html)|
----|
+[面试官教你破解系统设计题---非常有体系的系统设计破解](https://www.1point3acres.com/bbs/thread-171320-1-1.html)|[怎样努力才能才为一个优秀的架构师？](https://zhuanlan.zhihu.com/p/27979747)|
+---|---|
 
 [很多软件公司的softwear engineer blog地址---有非常重要的参考价值](https://github.com/kilimchoi/engineering-blogs)|
 ---|
