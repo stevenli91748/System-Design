@@ -5,8 +5,8 @@
 
 # 目录
 
-[阿里P8离职带出内网专属“高并发系统设计学习笔记](http://events.jianshu.io/p/d5fcc32e99ee)|
----|
+[阿里P8离职带出内网专属“高并发系统设计学习笔记](http://events.jianshu.io/p/d5fcc32e99ee)|[架构建模 - 云时代的架构实践---软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)|
+---|---|
 
 [面试官教你破解系统设计题---非常有体系的系统设计破解](https://www.1point3acres.com/bbs/thread-171320-1-1.html)|[怎样努力才能才为一个优秀的架构师？](https://zhuanlan.zhihu.com/p/27979747)|[架构设计学习资源汇总](https://zhuanlan.zhihu.com/p/47614401)|[优秀架构师必须掌握的架构思维](https://zhuanlan.zhihu.com/p/66414770)|
 ---|---|---|---|
@@ -80,7 +80,7 @@
 * [SOA架构与微服务架构区别](https://www.bilibili.com/video/av37162103?from=search&seid=16399121196147863362)
 * [Docker容器化组件架构](https://www.jdon.com/artichect/docker-containerization.html)
 * [云原生技术和架构概述](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/86326182)
-* [软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)
+* [架构建模 - 云时代的架构实践---软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)
 --- 
 
 软件架构是软件系统的顶层结构，架构设计目的就是**解决软件系统复杂度（高性能 高可用 可扩展）**
@@ -210,7 +210,7 @@
      * 5 针对持久化层（Persistent Layer）的架构模式 
      * 6 针对数据访问层（Data Access Layer/DAO）的架构模式  
          * 6.1 关系数据库访问层 ORM 架构模式
-     * 7 针对消息服务相关的架构模式
+     * 7 针对消息服务层相关的架构模式
          * 7.1 消息过滤---典型产品 web 框架
          * 7.2 数据黑板---典型产品 Redis
          * 7.3 消息路由---[6 种基本模式](https://www.rabbitmq.com/getstarted.html)， 典型产品 AMQP 产品系列，例如 RabbitMQ
