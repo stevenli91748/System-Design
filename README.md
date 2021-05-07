@@ -201,13 +201,19 @@
          * 1.9 点对点模式（Peer-to-peer pattern）
          * 1.10 黑板模式（Blackboard pattern）
          * 1.11 解释器模式（Interpreter pattern）
-     * 2 针对表现层的架构模式
+     * 2 针对表现层（Presentation Layer）的架构模式
          * 2.1 MVC
          * 2.2 MVP
          * 2.3 MVVM
-      * 3 针对业务逻辑层的架构模式
-      * 4 针对服务层的架构模式
-      * 5 针对网络相关的架构模式
+     * 3 针对业务逻辑层Business Layer）的架构模式
+     * 4 针对服务层（Service Layer）的架构模式
+     * 5 针对持久化层（Persistent Layer）的架构模式 
+     * 6 针对数据访问层（Data Access Layer/DAO）的架构模式  
+         * 6.1 关系数据库访问层 ORM 架构模式
+     * 7 针对消息服务相关的架构模式
+         * 7.1 消息过滤---典型产品 web 框架
+         * 7.2 数据黑板---典型产品 Redis
+         * 7.3 消息路由---[6 种基本模式](https://www.rabbitmq.com/getstarted.html)， 典型产品 AMQP 产品系列，例如 RabbitMQ
               
 
 **架构设计6个原则：**
