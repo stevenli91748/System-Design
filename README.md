@@ -205,6 +205,7 @@
          * 1.9 点对点模式（Peer-to-peer pattern）
          * 1.10 黑板模式（Blackboard pattern）
          * 1.11 解释器模式（Interpreter pattern）
+         * 1.12 基于云的架构(Cloud-Based Ar)
      * 2 针对表现层（Presentation Layer）的架构模式
          * 2.1 [MVC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md)
            * [浅析MVC模式与三层架构的区别](https://www.cnblogs.com/rainbow70626/p/4967478.html)
