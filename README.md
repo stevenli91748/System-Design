@@ -8,6 +8,10 @@
 [阿里P8离职带出内网专属“高并发系统设计学习笔记](http://events.jianshu.io/p/d5fcc32e99ee)|[架构建模 - 云时代的架构实践---软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)|
 ---|---|
 
+[系统分析与设计实验项目---多个项目](https://sysu-swsad.github.io/swad-guide/00-project-intro)|
+----|
+
+
 [面试官教你破解系统设计题---非常有体系的系统设计破解](https://www.1point3acres.com/bbs/thread-171320-1-1.html)|[怎样努力才能才为一个优秀的架构师？](https://zhuanlan.zhihu.com/p/27979747)|[架构设计学习资源汇总](https://zhuanlan.zhihu.com/p/47614401)|[优秀架构师必须掌握的架构思维](https://zhuanlan.zhihu.com/p/66414770)|
 ---|---|---|---|
 
