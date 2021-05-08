@@ -207,6 +207,7 @@
          * 1.11 解释器模式（Interpreter pattern）
      * 2 针对表现层（Presentation Layer）的架构模式
          * 2.1 MVC
+           * [浅析MVC模式与三层架构的区别](https://www.cnblogs.com/rainbow70626/p/4967478.html)
          * 2.2 MVP
          * 2.3 MVVM
      * 3 针对业务逻辑层Business Layer）的架构模式
@@ -643,6 +644,7 @@
   * [一小时高效搭建大规模集群环境session共享](https://www.bilibili.com/video/av61321932?from=search&seid=6662233512601703949)
   * [大并发服务器开发（实战）](https://www.bilibili.com/video/av45560719/?spm_id_from=333.788.videocard.0)
 # 有用的参考
+  
  * [海外兔  2021 年程序员求职课程---一线互联网面试官提供海内外公司一对一入职套餐，**入职不成功不收费**](https://osjobs.net/co/)
  * [架构师一定要掌握技术细节吗？](https://news.51cto.com/art/202103/650296.htm)
  * [什么是真正的架构设计？十年Java经验让我总结出了这些](https://my.oschina.net/u/4501306/blog/4332579)
