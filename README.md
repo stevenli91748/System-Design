@@ -194,7 +194,7 @@
       
    * 架构模式--架构模式将在设计的早期就被选择并确定下来，它会在很大程度上影响系统的质量特性，例如 性能 安全性，可微护性，可展性, 常见的架构模式有：
      * [1 针对应用程序建模的架构模式](https://zhuanlan.zhihu.com/p/212370991)
-         * 1.1 分层架构(Layered pattern）
+         * 1.1 分层架构(Layered pattern）---区分层次的目的即为了“高内聚，低耦合”的思想
          * 1.2 主从模式（Master-slave pattern）
          * 1.3 管道 - 过滤器架构（Pipe-filter pattern）
          * 1.4 客户端 - 服务器架构（Client-server pattern）
