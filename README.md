@@ -319,8 +319,10 @@
    * 动静分离--静态资源独立部署
    * 图片服务
 
-### 2.2.1 后端显示层架构
-   
+### [2.2.1 后端显示层架构](https://github.com/stevenli91748/System-Design/blob/master/%E5%90%8E%E7%AB%AF%E6%98%BE%E7%A4%BA%E5%B1%82%E6%9E%B6%E6%9E%84/README.md)
+   * 显示层的两个主要组件
+     * 用户界面
+     * 显示层逻辑
 
    * 前端控制器模式的原理
    * MVC模式的原理
