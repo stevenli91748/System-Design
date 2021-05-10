@@ -7,7 +7,7 @@
    * [用户界面组件](#用户界面组件)
    * [显示层逻辑组件](#显示层逻辑组件)
  * [3 显示层模式种类](#3-显示层模式种类)
-   * [MVC模式](#MVC模式)
+   * [MVC模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md)
    * [MVP模式](#MVP模式)
    * [MVVM模式](#MVVM模式)
    * [PM模式](#PM模式)  
