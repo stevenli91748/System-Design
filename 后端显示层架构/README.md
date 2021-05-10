@@ -8,9 +8,9 @@
    * [显示层逻辑组件](#显示层逻辑组件)
  * [3 显示层模式种类](#3-显示层模式种类)
    * [MVC模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md)
-   * [MVP模式](#MVP模式)
-   * [MVVM模式](#MVVM模式)
-   * [PM模式](#PM模式)  
+   * [MVP模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVP%E6%A8%A1%E5%BC%8F.md)
+   * [MVVM模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVVM%E6%A8%A1%E5%BC%8F.md)
+   * [PM模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/PM%E6%A8%A1%E5%BC%8F.md)  
 
 # 1 显示层的职责
    
@@ -46,9 +46,5 @@
    的数据可以正确地流入/流出。在确认了每个视图的公开接口之后，两个团队（开发团队和设计团队）即可**同时进行开发**，开发团队可实现并测试表现层逻辑和中间层，设计团队可以为每个用户界面提供一个或多
    个设计布局，而最终的UI和显示层逻辑可以在任何时间集成起来。显示层逻辑的内部组织依赖于所选用的UI模式
 
-# 3 显示层模式种类
 
-## MVC模式
-## MVP模式
-## MVVM模式
-## PM模式
+
