@@ -206,9 +206,8 @@
          * 1.10 黑板模式（Blackboard pattern）
          * 1.11 解释器模式（Interpreter pattern）
          * 1.12 基于云的架构(Cloud-Based Ar)
-     * 2 针对表现层（Presentation Layer）的架构模式
+     * 2 [针对表现层（Presentation Layer）的架构模式](https://github.com/stevenli91748/System-Design/blob/master/%E5%90%8E%E7%AB%AF%E6%98%BE%E7%A4%BA%E5%B1%82%E6%9E%B6%E6%9E%84/README.md)
          * 2.1 [MVC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md)
-           * [浅析MVC模式与三层架构的区别](https://www.cnblogs.com/rainbow70626/p/4967478.html)
          * 2.2 MVP
          * 2.3 MVVM
      * 3 针对业务逻辑层Business Layer）的架构模式
