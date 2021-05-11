@@ -55,6 +55,13 @@ MVC、MVP、MVVM这些名词不了解也应该大致听过，都是为了解决�
 有了View和Model的分层，那么问题就来了：**View如何同步Model的变更，View和Model之间如何粘合在一起。带着这个问题开始探索MV模式，会发现这些模式之间的差异可以归纳为对这个问题处理的方式的不同。而几
 乎所有的MV模式都是经典的Smalltalk-80 MVC的修改版**
 
+   * [1 MVC模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md)
+   * [2 MVP模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVP%E6%A8%A1%E5%BC%8F.md)
+   * [3 MVVM模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVVM%E6%A8%A1%E5%BC%8F.md)
+   * [4 PM模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/PM%E6%A8%A1%E5%BC%8F.md)  
+
+
+
 可以看到，从MVC->MVP->MVVM，就像一个打怪升级的过程。后者解决了前者遗留的问题，把前者的缺点优化成了优点。同样的Demo功能，代码从最开始的一堆文件，优化成了最后只需要20几行代码就完成。MV*模式之
 间的区分还是蛮清晰的
 
