@@ -401,7 +401,7 @@
    
 
    
-### 2.2.4. 后端数据訪问层设计
+### [2.2.4. 后端数据訪问层设计](https://github.com/stevenli91748/System-Design/blob/master/%E5%90%8E%E7%AB%AF%E6%95%B0%E6%8D%AE%E8%A8%AA%E9%97%AE%E5%B1%82%E8%AE%BE%E8%AE%A1/README.md)
    * 数据訪问层的设计策略
      * 倉储模式
      * 数据訪问对象模式
