@@ -5,6 +5,8 @@
 
 # 目录
 
+[Grokking the System Design Interview---educative  收费 网上最好的系统设计面试题 反复看5次](https://www.educative.io/courses/grokking-the-system-design-interview)
+
 [阿里P8离职带出内网专属“高并发系统设计学习笔记](http://events.jianshu.io/p/d5fcc32e99ee)|[架构建模 - 云时代的架构实践---软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)|
 ---|---|
 
