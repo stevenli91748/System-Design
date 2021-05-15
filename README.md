@@ -366,7 +366,7 @@
    * 业务拆分
    * 虚拟化服务器
 
-#### 2.2.3. [后端服务层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性](https://github.com/stevenli91748/System-Design/blob/master/Cache/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
+#### 2.2.3. [后端服务层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性](https://github.com/stevenli91748/System-Design/blob/master/%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%B1%82%E6%9E%B6%E6%9E%84/README.md "时髦一点，选择dubbo，微服务让团队开发耦合度没有那么高，各自关心各自的模块，都以服务方式发布出去。传统一点用springmvc+restful，在我看来，对于并发不高的系统，没有必要用dubbo。缓存的选择，涉及到文件缓存、数据库缓存，可以用memcached、ehcache、redis")
    * 配置中心
    * 服务中心   
      * 服务名字系统
