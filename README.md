@@ -331,7 +331,7 @@
    * PM模式的原理
 
 
-### 2.2.2. 后端业务层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性
+### [2.2.2. 后端业务层架构---前端 web 层和服务层必须是无状态的，以便方便地添加或删除主机，从而实现横向可扩展性](https://github.com/stevenli91748/System-Design/blob/master/%E5%90%8E%E7%AB%AF%E4%B8%9A%E5%8A%A1%E5%B1%82%E6%9E%B6%E6%9E%84/README.md)
    * 开发框架
      * [MVC框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md)
        * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
