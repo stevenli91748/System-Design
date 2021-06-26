@@ -57,8 +57,8 @@
 [高并发都要学哪些技术](https://zhuanlan.zhihu.com/p/139509856?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[系统间通信技术](https://yinwj.blog.csdn.net/category_9264552_2.html)|
 ---|---|
 
-[如何设计与实现短URL服务？](https://zhuanlan.zhihu.com/p/306515366?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
----|
+[如何设计与实现短URL服务？](https://zhuanlan.zhihu.com/p/306515366?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[异地多活的架构设计](https://www.coollf.com/archives/%E5%BC%82%E5%9C%B0%E5%A4%9A%E6%B4%BB%E7%9A%84%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)|
+---|---|
 
 #  System-Design
 
