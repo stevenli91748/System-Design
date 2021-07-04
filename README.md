@@ -549,7 +549,7 @@
 ---
 
 # 4. 部署
-
+ * [蓝绿部署、金丝雀部署的含义和区别](https://ixyzero.com/blog/archives/4722.html)
  * [java项目部署服务器，云服务器部署的学习](https://www.bilibili.com/video/av66317648?from=search&seid=51472329364734361)
  * [gitlab前后端项目部署集成](https://www.bilibili.com/video/av67379275?from=search&seid=51472329364734361)
  * [腾讯云项目部署](https://www.bilibili.com/video/av66600923?from=search&seid=51472329364734361)
