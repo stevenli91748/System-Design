@@ -67,33 +67,9 @@
 
 #  System-Design
 
- * [千万级并发下，淘宝服务端架构如何演进？](https://developer.51cto.com/art/201906/597895.htm)
- * [一步一图，带你了解分布式架构的前世今生](https://developer.51cto.com/art/201906/597667.htm)
- * [如何画架构图](https://www.zhihu.com/question/27440059/answer/1381203176?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)
- * [重要  技术架构汇总---详细描述了系统架构的方方面面  非常好](https://zhuanlan.zhihu.com/p/114876283?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
- * [烟囱式到SOA再到微服务](https://www.jianshu.com/p/a095c59baf31)
- * [近二十年技术发展：从集中式架构到云原生架构](https://blog.csdn.net/weixin_44326589/article/details/93894615)
- * [架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://zhuanlan.zhihu.com/p/336838942)
- <a href="https://ibb.co/M53YF64"><img src="https://i.ibb.co/DgSx0py/6ee62597-6d98-4af5-93b4-bc54f97c7936.png" alt="6ee62597-6d98-4af5-93b4-bc54f97c7936" border="0"></a>
+# 架构的演进
+
  
- * [网站架构演变过程之传统架构](https://www.bilibili.com/video/av37162103?p=2)
- * [网站架构演变过程之分布式架构模式](https://www.bilibili.com/video/av37162103?p=3)
- * [大型分布式Web系统的架构演进](https://mp.weixin.qq.com/s?__biz=MzA3ODIxNjYxNQ==&mid=2247487243&amp;idx=1&amp;sn=106d94eeb483a75f8398ab5b82897b89&source=41#wechat_redirect)
- * [大型分布式电商系统架构是如何从 0 开始演进的？](https://mp.weixin.qq.com/s?__biz=MzA3ODIxNjYxNQ==&mid=2247487334&amp;idx=1&amp;sn=5c56fe0c9b41942a1cd498ee2dcca3cd&source=41#wechat_redirect)
- * [网站架构演变过程之SOA架构模式](https://www.bilibili.com/video/av37162103?p=4)
- * [网站架构演变过程之微服务架构模式](https://www.bilibili.com/video/av37162103?p=5)
- 
-* [集中式架构与分布式架构比较](https://blog.csdn.net/qq_27384769/article/details/80223473) 
-* [单体式架构和分布式架构有什么区别？](https://github.com/stevenli91748/System-Design/blob/master/单体架构基础/README.md)
-* [服务器虚拟化技术简介](https://www.cnblogs.com/yogurtwu/p/9989200.html)
-* [软件架构的演进 单体应用架构 VS 垂直应用架构 VS SOA架构 VS 微服务架构](https://blog.csdn.net/weixin_33446857/article/details/104170471?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
-* [Restful架构和RPC架构浅析](https://blog.csdn.net/AlbenXie/article/details/104736868)
-* [SOA架构是什么？](https://blog.csdn.net/u013343616/article/details/79460398)
-* [SOA架构与微服务架构区别](https://www.bilibili.com/video/av37162103?from=search&seid=16399121196147863362)
-* [Docker容器化组件架构](https://www.jdon.com/artichect/docker-containerization.html)
-* [云原生技术和架构概述](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/86326182)
-* [架构建模 - 云时代的架构实践---软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)
---- 
 
 软件架构是软件系统的顶层结构，架构设计目的就是**解决软件系统复杂度（高性能 高可用 可扩展）**
  
