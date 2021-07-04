@@ -69,13 +69,13 @@
 
 # [软件架构风格的演进](https://github.com/stevenli91748/System-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%BC%94%E8%BF%9B.md)
 
-* 大型机（Mainframe）
-* 到原始分布式（Distributed）
-* 大型单体（Monolithic）---Spring Boot
-* 面向服务（Service-Oriented）--- Spring Cloud
-* 微服务（Microservices）---Kubernetes
-* 服务网格（Service Mesh）---Istio
-* 无服务（Serverless）---AWS lambda
+* 大型机架构风格（Mainframe）
+* 原始分布式架构风格（Distributed）
+* 大型单体架构风格（Monolithic）---Spring Boot
+* 面向服务架构风格（Service-Oriented）--- Spring Cloud
+* 微服务架构风格（Microservices）---Kubernetes
+* 服务网格架构风格（Service Mesh）---Istio
+* 无服务架构风格（Serverless）---AWS lambda
  
 
 软件架构是软件系统的顶层结构，架构设计目的就是**解决软件系统复杂度（高性能 高可用 可扩展）**
