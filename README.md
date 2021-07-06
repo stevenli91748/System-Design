@@ -72,7 +72,10 @@
 * 大型机架构风格（Mainframe）
 * 原始分布式架构风格（Distributed）
 * 大型单体架构风格（Monolithic）---Spring Boot
-* 面向服务架构风格（Service-Oriented）--- Spring Cloud
+* SOA 时代: 面向服务架构风格（Service-Oriented）--- Spring Cloud
+  * 烟囱式架构（Information Silo Architecture）
+  * 微内核架构（Microkernel Architecture）
+  * 事件驱动架构（Event-Driven Architecture）
 * 微服务架构风格（Microservices）---Kubernetes
 * 服务网格架构风格（Service Mesh）---Istio
 * 无服务架构风格（Serverless）---AWS lambda
