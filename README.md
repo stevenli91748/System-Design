@@ -328,7 +328,7 @@
      * [MVC框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md)
        * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
      * [MVVC框架]()
-   * Stateless---无状态
+   * [Stateless---无状态](https://icyfenix.cn/architect-perspective/general-architecture/api-style/rest.html)
    * Async non-blocking---异步非阻塞
    * 用户层技术
      * 用户管理
