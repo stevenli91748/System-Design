@@ -183,10 +183,6 @@
 ## 设计模式 vs 架构设计
    
    * 设计模式：
-          
-          
-      
-      
    * 架构模式--架构模式将在设计的早期就被选择并确定下来，它会在很大程度上影响系统的质量特性，例如 性能 安全性，可微护性，可展性, 常见的架构模式有：
      * [1 针对应用程序建模的架构模式](https://zhuanlan.zhihu.com/p/212370991)
          * 1.1 分层架构(Layered pattern）---区分层次的目的即为了“高内聚，低耦合”的思想
@@ -282,6 +278,7 @@
     * 2.1.2.4.  [高櫎展性架构](https://github.com/stevenli91748/System-Design/blob/master/高櫎展性架构/README.md)
     * 2.1.2.5.  [高安全性架构](https://github.com/stevenli91748/System-Design/blob/master/高安全性架构/README.md)
     * 2.1.2.6.  [高并发架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/README.md)
+    * 2.1.2.7   [事务处理](https://icyfenix.cn/architect-perspective/general-architecture/transaction/)
 
 
 ## [2.2  细化架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/细化架构设计/README.md)
