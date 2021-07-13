@@ -8,8 +8,8 @@
 [Grokking the System Design Interview---educative  收费 网上最好的系统设计面试题 反复看5次](https://www.educative.io/courses/grokking-the-system-design-interview)|
 ---|
 
-[凤凰架构---构建可靠的大型分布式系统 周志明](https://icyfenix.cn/)|[周志明的软件架构课](https://time.geekbang.org/column/article/317164)|
----|---|
+[凤凰架构---构建可靠的大型分布式系统 周志明](https://icyfenix.cn/)|[周志明的软件架构课](https://time.geekbang.org/column/article/317164)|[为什么这么设计](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
+---|---|---|
 
 
 [阿里P8离职带出内网专属“高并发系统设计学习笔记](http://events.jianshu.io/p/d5fcc32e99ee)|[架构建模 - 云时代的架构实践---软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)|
