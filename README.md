@@ -182,7 +182,7 @@
 
 ## 设计模式 vs 架构设计
    
-   * 设计模式：
+   * [设计模式](https://github.com/stevenli91748/Design-Patterns)：
    * 架构模式--架构模式将在设计的早期就被选择并确定下来，它会在很大程度上影响系统的质量特性，例如 性能 安全性，可微护性，可展性, 常见的架构模式有：
      * [1 针对应用程序建模的架构模式](https://zhuanlan.zhihu.com/p/212370991)
          * 1.1 分层架构(Layered pattern）---区分层次的目的即为了“高内聚，低耦合”的思想
@@ -192,11 +192,12 @@
          * 1.5 模型 - 视图 - 控制器架构（Model-view-controller pattern）
          * 1.6 事件驱动架构(Event-bus pattern）
          * 1.7 [微服务架构](https://github.com/stevenli91748/MicroService)
-         * 1.8 代理模式（Broker pattern）
-         * 1.9 点对点模式（Peer-to-peer pattern）
-         * 1.10 黑板模式（Blackboard pattern）
-         * 1.11 解释器模式（Interpreter pattern）
-         * 1.12 基于云的架构(Cloud-Based Ar)
+         * 1.8 [领域驱动设计架构DDD]()
+         * 1.9 代理模式（Broker pattern）
+         * 1.10 点对点模式（Peer-to-peer pattern）
+         * 1.11 黑板模式（Blackboard pattern）
+         * 1.12 解释器模式（Interpreter pattern）
+         * 1.13 基于云的架构(Cloud-Based Ar)
      * 2 [针对表现层（Presentation Layer）的架构模式](https://github.com/stevenli91748/System-Design/blob/master/%E5%90%8E%E7%AB%AF%E6%98%BE%E7%A4%BA%E5%B1%82%E6%9E%B6%E6%9E%84/README.md)
          * 2.1 [MVC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md)
          * 2.2 MVP
