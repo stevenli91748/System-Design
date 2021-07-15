@@ -59,8 +59,8 @@
 [一文教会你如何写复杂业务代码](https://www.kubernetes.org.cn/8577.html)|[java web开发中的各种层](https://zhuanlan.zhihu.com/p/95059739)|
 ---|---|
 
-[架构制图：工具与方法论](https://www.kubernetes.org.cn/8479.html)|[如何画出一张合格的技术架构图？](https://my.oschina.net/yunqi/blog/3035875)|
----|---|
+[架构制图：工具与方法论](https://www.kubernetes.org.cn/8479.html)|[如何画出一张合格的技术架构图？](https://my.oschina.net/yunqi/blog/3035875)|[整不明白架构图都画啥](https://bugstack.cn/framework/2021/02/28/%E5%B7%A5%E4%BD%9C%E4%B8%A4%E4%B8%89%E5%B9%B4-%E6%95%B4%E4%B8%8D%E6%98%8E%E7%99%BD%E6%9E%B6%E6%9E%84%E5%9B%BE%E9%83%BD%E7%94%BB%E5%95%A5.html)|
+---|---|---|
 
 [高并发都要学哪些技术](https://zhuanlan.zhihu.com/p/139509856?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[系统间通信技术](https://yinwj.blog.csdn.net/category_9264552_2.html)|
 ---|---|
