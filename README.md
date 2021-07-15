@@ -11,6 +11,9 @@
 [凤凰架构---构建可靠的大型分布式系统 周志明](https://icyfenix.cn/)|[周志明的软件架构课](https://time.geekbang.org/column/article/317164)|[为什么这么设计](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
 ---|---|---|
 
+[项目上线的开发流程](https://bugstack.cn/itstack-code-life/2021/01/03/%E8%B0%81%E8%AF%B4%E6%98%8E%E5%A4%A9%E4%B8%8A%E7%BA%BF-%E8%BF%99%E8%B4%A7%E5%8E%8B%E6%A0%B9%E4%B8%8D%E7%9F%A5%E9%81%93%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B.html)|
+---|
+
 
 [阿里P8离职带出内网专属“高并发系统设计学习笔记](http://events.jianshu.io/p/d5fcc32e99ee)|[架构建模 - 云时代的架构实践---软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)|
 ---|---|
