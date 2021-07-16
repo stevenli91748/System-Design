@@ -195,7 +195,7 @@
          * 1.5 模型 - 视图 - 控制器架构（Model-view-controller pattern）
          * 1.6 事件驱动架构(Event-bus pattern）
          * 1.7 [微服务架构](https://github.com/stevenli91748/MicroService)
-         * 1.8 [领域驱动设计架构DDD]()
+         * 1.8 [领域驱动设计架构DDD](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)
          * 1.9 代理模式（Broker pattern）
          * 1.10 点对点模式（Peer-to-peer pattern）
          * 1.11 黑板模式（Blackboard pattern）
