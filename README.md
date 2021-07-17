@@ -73,16 +73,13 @@
 # [软件架构风格的演进](https://github.com/stevenli91748/System-Design/blob/master/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%BC%94%E8%BF%9B.md)
 
 * 大型机架构风格（Mainframe）
-* 原始分布式架构风格（Distributed）
-* 大型单体架构风格（Monolithic）---Spring Boot
-* SOA 时代: 面向服务架构风格（Service-Oriented）--- Spring Cloud
-  * 烟囱式架构（Information Silo Architecture）
-  * 微内核架构（Microkernel Architecture）
-  * 事件驱动架构（Event-Driven Architecture）
-* 微服务架构风格（Microservices）---Kubernetes
+* [原始分布式架构风格（Distributed）](https://icyfenix.cn/architecture/architect-history/primitive-distribution.html)
+* [Spring Boot 实现单体架构（Monolithic）](https://icyfenix.cn/architecture/architect-history/monolithic.html)
+* [Spring Cloud 实现微服务架构](https://icyfenix.cn/architecture/architect-history/soa.html)
+* [Kubernetes 为基础设施的微服务架构](https://icyfenix.cn/architecture/architect-history/microservices.html)
 * 后微服务架构风格：云原生时代（Cloud Native）
-  * 服务网格架构风格（Service Mesh）---Istio
-* 无服务架构风格（Serverless）---AWS lambda
+  * [后微服务时代: Istio 为基础设施的服务网格架构（Service Mesh）](https://icyfenix.cn/architecture/architect-history/post-microservices.html)
+* [AWS Lambda 为基础的无服务架构（Serverless）](https://icyfenix.cn/architecture/architect-history/serverless.html)
  
 
 软件架构是软件系统的顶层结构，架构设计目的就是**解决软件系统复杂度（高性能 高可用 可扩展）**
