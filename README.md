@@ -439,6 +439,7 @@
    * 数据同步
    
 ### 2.2.6 开发层架构
+   * [架结构分层：三层结构，DDD，MVC，MVVM，MVP](http://www.360doc.com/content/20/1114/16/37113458_945826321.shtml)
    * 开发框架
      * JAVA
        * 主流的java web框架
