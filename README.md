@@ -15,8 +15,8 @@
 ---|---|
 
 
-[阿里P8离职带出内网专属“高并发系统设计学习笔记](http://events.jianshu.io/p/d5fcc32e99ee)|[架构建模 - 云时代的架构实践---软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)|
----|---|
+|[架构建模 - 云时代的架构实践---软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods.html)|
+---|
 
 [系统分析与设计实验项目---多个项目](https://sysu-swsad.github.io/swad-guide/00-project-intro)|[系统设计面试题精选](https://soulmachine.gitbooks.io/system-design/content/cn/)|[领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)|
 ----|---|---|
