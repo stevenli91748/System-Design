@@ -9,8 +9,8 @@
 [Grokking the System Design Interview---educative  收费 网上最好的系统设计面试题 反复看5次](https://www.educative.io/courses/grokking-the-system-design-interview)|
 ---|
 
-[从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)|
----|
+[从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)|[阿里内部的互联网三高架构是真的牛批！腾讯百度根本模仿不来](https://www.jianshu.com/p/ce2c5a4dd24e)|
+---|---|
 
 [凤凰架构---构建可靠的大型分布式系统 周志明](https://icyfenix.cn/)|[周志明的软件架构课](https://time.geekbang.org/column/article/317164)|[为什么这么设计---程序设计决策](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
 ---|---|---|
