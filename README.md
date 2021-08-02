@@ -3,7 +3,7 @@
 
 # [服务器软件大盘点](https://mp.weixin.qq.com/s/J1XjIwtEKjaltqWH-0qmgw)
 
-# 后台技术栈包括 4 个层面的内容
+# 大后台技术栈包括 4 个层面的内容
 
 <a href="https://ibb.co/swdQjZT"><img src="https://i.ibb.co/LtX6S3T/image.webp" alt="image" border="0"></a>
 
@@ -83,6 +83,47 @@
 
 [如何设计与实现短URL服务？](https://zhuanlan.zhihu.com/p/306515366?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[异地多活的架构设计](https://www.coollf.com/archives/%E5%BC%82%E5%9C%B0%E5%A4%9A%E6%B4%BB%E7%9A%84%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)|
 ---|---|
+
+# 大后台技术栈包括 4 个层面的内容目录
+* [1  接入层](#接入层)
+  * DNS
+  * CDN
+  * 负载均衡 
+* [2  逻辑层](#逻辑层)
+  * 业务服务
+  * 业务框架
+  * 通用服务 
+* [3  存储层](#存储层)
+  * 存储服务
+  * 数据服务 
+* [4  基础设施层](#基础设施层)
+  * 开发层
+    * 代码管理
+    * 持续集成
+    * 项目管理
+    * 问题定位  
+  * 组件层
+    * RPC框架
+    * 消息队列
+    * 配置系统
+    * 日志系统
+    * 名字服务
+    * 数据平台 
+  * 运维层
+    * 发布系统
+    * 监控系统
+    * 设备管理
+    * 跳板机 
+
+
+
+-----
+
+## 接入层
+## 逻辑层
+## 存储层
+## 基础设施层
+
 
 #  System-Design
 
