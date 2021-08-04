@@ -369,6 +369,12 @@
    * 图片服务
 
 ## 微服务网关实战
+* 流量网关
+  * kong
+  * OpenResty 
+* 业务网关
+  * Spring Cloud Gateway
+  * Vert.x 
 * [谈 API 网关的背景、架构以及落地方案](https://www.infoq.cn/article/2016/07/api-background-architecture-floo)
 * [百亿流量微服务网关的设计与实现](http://blog.itpub.net/31562044/viewspace-2651041/)
 * [微服务网关实战01-网关介绍](https://www.toutiao.com/a6808446597215552003/?log_from=f53faf1695dc8_1627707593158)
