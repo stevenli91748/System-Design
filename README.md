@@ -370,6 +370,7 @@
 
 ## 微服务网关实战
 * [谈 API 网关的背景、架构以及落地方案](https://www.infoq.cn/article/2016/07/api-background-architecture-floo)
+* [百亿流量微服务网关的设计与实现](http://blog.itpub.net/31562044/viewspace-2651041/)
 * [微服务网关实战01-网关介绍](https://www.toutiao.com/a6808446597215552003/?log_from=f53faf1695dc8_1627707593158)
 * [微服务网关实战02-网关搭建](https://www.toutiao.com/a6808731146826809870/?log_from=e9c137766c14b_1627708717793)
 * [微服务网关实战03-网关请求日志及全局异常](https://www.toutiao.com/a6808833585475224076/?log_from=513da4df59178_1627708740697)
