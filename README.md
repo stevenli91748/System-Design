@@ -142,7 +142,9 @@
       *  
     * 配置系统
     * 日志系统
-      * [ELK](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/ELK%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E6%9C%8D%E5%8A%A1/README.md)
+      * 常规日志系统
+        * [ELK](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/ELK%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E6%9C%8D%E5%8A%A1/README.md)
+      * 实时计算日志系统
     * 名字服务
       * 业界常用的服务注册表
         * etcd---一个高可用、分布式、一致性、key-value 方式的存储，被用在分享配置和服务发现中
@@ -181,6 +183,20 @@
   * 运维层
     * 发布系统
     * 监控系统
+      * 业界成熟的方案
+        * 创业公司选择 Prometheus + Grafana 的方案，再加上统一的服务框架（如 gRPC），可以满足大部分中小团队的监控需求  
+      * 操作系统层的监控
+        * 机器负载监控指标
+        * IO监控指标
+        * 网络流量监控指标
+        * CPU监控指标
+        * 内存监控指标 
+      * 服务质量和业务质量的监控
+        * 服务的可用性监控指标
+        * 成功率监控指标
+        * 失败率监控指标
+        * 容量监控指标
+        * QPS监控指标   
     * 设备管理
     * 跳板机 
 
