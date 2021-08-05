@@ -185,7 +185,9 @@
         * XML数据库
   * 运维层
     * 发布系统/部署系统
-<a href="https://ibb.co/yX470hd"><img src="https://i.ibb.co/G0HN7sn/image.webp" alt="image" border="0"></a>    
+
+    <a href="https://ibb.co/yX470hd"><img src="https://i.ibb.co/G0HN7sn/image.webp" alt="image" border="0"></a>    
+
     * 监控系统
       * 业界成熟的方案
         * 创业公司选择 Prometheus + Grafana 的方案，再加上统一的服务框架（如 gRPC），可以满足大部分中小团队的监控需求  
