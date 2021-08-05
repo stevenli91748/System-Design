@@ -137,6 +137,9 @@
 * 后微服务架构风格：云原生时代（Cloud Native）
   * [后微服务时代: Istio 为基础设施的服务网格架构（Service Mesh）](https://icyfenix.cn/architecture/architect-history/post-microservices.html)
 * [AWS Lambda 为基础的无服务架构（Serverless）](https://icyfenix.cn/architecture/architect-history/serverless.html)
+* CQRS模式架构
+  * [SpringBoot+CQRS微服务设计模式教程](https://www.jdon.com/55380) 
+ 
  
 
 软件架构是软件系统的顶层结构，架构设计目的就是**解决软件系统复杂度（高性能 高可用 可扩展）**
