@@ -116,8 +116,15 @@
 * [4  基础设施层](#基础设施层)
   * 开发层
     * 代码管理/Bug管理/问题管理
-      * phabricator--- facebook的内部工具 
+      * phabricator--- facebook的内部工具,集成了代码托管， Code Review，任务管理，文档管理，问题跟踪等功能，强烈推荐较敏捷的团队使用 
+      * GIT
+      * GITLAB
+      * Gerrit---Gerrit 做 Code review, Gerrit 比 GitLab 提供了更好的代码检查界面与主线管理体验，更适合在对代码质量有高要求的文化下使用
     * 持续集成
+      * Jenkins
+      * TeamCity---收费 
+      * GitLab CI
+      * Travis
     * 项目管理
     * 问题定位  
   * 组件层
@@ -135,6 +142,7 @@
       *  
     * 配置系统
     * 日志系统
+      * [ELK](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/ELK%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E6%9C%8D%E5%8A%A1/README.md)
     * 名字服务
       * 业界常用的服务注册表
         * etcd---一个高可用、分布式、一致性、key-value 方式的存储，被用在分享配置和服务发现中
