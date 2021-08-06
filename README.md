@@ -117,7 +117,7 @@
     * 自建机房负载均衡
       * LVS + Nginx 
 * 2 逻辑层
-    * [业务服务](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/README.md)
+    * [业务服务软件架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/README.md)
     * 业务框架
     * 通用服务 
 * 3 存储层
