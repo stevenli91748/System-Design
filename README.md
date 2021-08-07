@@ -20,7 +20,7 @@
 [从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)|[阿里内部的互联网三高架构是真的牛批！腾讯百度根本模仿不来](https://www.jianshu.com/p/ce2c5a4dd24e)|
 ---|---|
 
-[凤凰架构---构建可靠的大型分布式系统 周志明]https://github.com/stevenli91748/System-Design/blob/master/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84---%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%E5%91%A8%E5%BF%97%E6%98%8E.md)|[周志明的软件架构课](https://time.geekbang.org/column/article/317164)|[为什么这么设计---程序设计决策](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
+[凤凰架构---构建可靠的大型分布式系统 周志明](https://github.com/stevenli91748/System-Design/blob/master/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84---%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%E5%91%A8%E5%BF%97%E6%98%8E.md)|[周志明的软件架构课](https://time.geekbang.org/column/article/317164)|[为什么这么设计---程序设计决策](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
 ---|---|---|
 
 [如何设计能扩展到1亿用户的系统](https://www.jianshu.com/p/555335a749dd)|[架构设计系列](https://www.jianshu.com/search?q=%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1&page=2&type=note)|
