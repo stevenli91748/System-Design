@@ -387,7 +387,7 @@
      * 搜索引擎
      * 推荐系统
    * 页面渲染--API Gateway
-       * [API Gateway](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)
+       * [API Gateway](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
        * [Writing API]
        * [Reading API]
        * [Searching API]
