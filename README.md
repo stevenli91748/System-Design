@@ -330,8 +330,8 @@
 
 ## 微服务网关实战
 * 流量网关
-  * kong
-  * OpenResty 
+  * [kong](https://github.com/cloudframeworks-apigateway/user-guide-apigateway)
+  * [OpenResty ](https://www.kancloud.cn/kancloud/openresty-best-practices/50428)
 * 业务网关
   * Spring Cloud Gateway
   * Vert.x 
