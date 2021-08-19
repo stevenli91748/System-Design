@@ -154,6 +154,7 @@
     * 日志系统
       * 常规日志系统
         * [ELK](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/ELK%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E6%9C%8D%E5%8A%A1/README.md)
+        * [日志：每个软件工程师都应该知道的有关实时数据的统一抽象](https://www.kancloud.cn/kancloud/log-real-time-datas-unifying/58708)
       * 实时计算日志系统
     * 名字服务
       * 业界常用的服务注册表
