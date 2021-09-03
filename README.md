@@ -23,8 +23,8 @@
 [凤凰架构---构建可靠的大型分布式系统 周志明](https://github.com/stevenli91748/System-Design/blob/master/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84---%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%E5%91%A8%E5%BF%97%E6%98%8E.md)|[周志明的软件架构课](https://time.geekbang.org/column/article/317164)|[为什么这么设计---程序设计决策](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
 ---|---|---|
 
-[如何设计能扩展到1亿用户的系统](https://www.jianshu.com/p/555335a749dd)|[架构设计系列](https://www.jianshu.com/search?q=%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1&page=2&type=note)|
----|---|
+[如何设计能扩展到1亿用户的系统](https://www.jianshu.com/p/555335a749dd)|[架构设计系列](https://www.jianshu.com/search?q=%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1&page=2&type=note)|[移动端工程架构与后端工程架构的思想摩擦之旅](https://sq.sf.163.com/blog/article/229010351962374144)|
+---|---|---|
 
 
 [项目上线的开发流程](https://bugstack.cn/itstack-code-life/2021/01/03/%E8%B0%81%E8%AF%B4%E6%98%8E%E5%A4%A9%E4%B8%8A%E7%BA%BF-%E8%BF%99%E8%B4%A7%E5%8E%8B%E6%A0%B9%E4%B8%8D%E7%9F%A5%E9%81%93%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B.html)|[softwear archietcure good](http://wenku.uml.com.cn/index.asp)|
