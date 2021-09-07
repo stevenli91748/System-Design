@@ -691,6 +691,7 @@
 
  * [Cookie、Session、Token与JWT解析](https://www.jianshu.com/p/cab856c32222)
  * [Token 原理解读](https://www.jianshu.com/p/3b5e7293bf95)
+ * [浅谈浏览器存储](https://www.jianshu.com/p/5fc3494e7142)
  * [聊聊已落地的中台有哪些](https://www.toutiao.com/a6812091691256775171/?log_from=3b49c04230194_1630186408153)
  * [国内主流在用的10大后台UI框架，私活必备](https://www.toutiao.com/a6822120255800738318/?log_from=1d7c99a84127f_1630175917915)|
  * [软件架构模式](https://segmentfault.com/a/1190000009652120) 
