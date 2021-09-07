@@ -688,6 +688,9 @@
   * [一小时高效搭建大规模集群环境session共享](https://www.bilibili.com/video/av61321932?from=search&seid=6662233512601703949)
   * [大并发服务器开发（实战）](https://www.bilibili.com/video/av45560719/?spm_id_from=333.788.videocard.0)
 # 有用的参考
+
+* [Cookie、Session、Token与JWT解析](https://www.jianshu.com/p/cab856c32222)
+
  * [聊聊已落地的中台有哪些](https://www.toutiao.com/a6812091691256775171/?log_from=3b49c04230194_1630186408153)
  * [国内主流在用的10大后台UI框架，私活必备](https://www.toutiao.com/a6822120255800738318/?log_from=1d7c99a84127f_1630175917915)|
  * [软件架构模式](https://segmentfault.com/a/1190000009652120) 
