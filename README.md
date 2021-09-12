@@ -6,6 +6,8 @@
 # 大后台技术栈包括 4 个层面的内容
 
 <a href="https://ibb.co/swdQjZT"><img src="https://i.ibb.co/LtX6S3T/image.webp" alt="image" border="0"></a>
+
+# 服务端开发涉及的技术栈汇总出的一张技术架构图
 <a href="https://ibb.co/gZc4rJ3"><img src="https://i.ibb.co/YBV0Nh3/interview-1-01.png" alt="interview-1-01" border="0"></a>
 
 # 基于云的创业公司后台技术架构方案
