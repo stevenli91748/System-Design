@@ -14,7 +14,8 @@
 <a href="https://ibb.co/2MMLTx2"><img src="https://i.ibb.co/rppLVYP/image.webp" alt="image" border="0"></a>
 
 # 在线书籍
-
+* [前端架构： 从入门到微前端 ---2019](https://weread.qq.com/web/reader/b9e32d007192169bb9e012d)
+* [消息设计与开发](https://weread.qq.com/web/reader/86332d005a067e8633a5fa1)
 * [企业互联网架构原理与实践---2021](https://weread.qq.com/web/reader/95c324307264001095c6f30)
 * [架构真意：企业级应用架构设计方法论与实践---2021 ](https://weread.qq.com/web/reader/1c8329d072599d741c81d96kc81322c012c81e728d9d180)
 
