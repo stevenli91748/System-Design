@@ -26,7 +26,7 @@
 * [架构整洁之道---2018](https://weread.qq.com/web/reader/480322f072021a3248038c8)
 * [系统架构设计---2017](https://weread.qq.com/web/reader/86832620717d308a868f221)
 * [分布式系统常用技术及案例分析（第2版）---2018](https://weread.qq.com/web/reader/1e032080718487041e02def)
-
+* [深入分布式缓存： 从原理到实践](https://weread.qq.com/web/reader/98a323b05e0b5e98afa107c)
 
 # 目录
 
