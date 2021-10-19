@@ -29,7 +29,7 @@
 * [深入分布式缓存： 从原理到实践](https://weread.qq.com/web/reader/98a323b05e0b5e98afa107c)
 * [支付平台架构： 业务，规划，设计与实现---2020](https://weread.qq.com/web/reader/4be32c0072096b054be8ae7)
 * [在线广告： 互联网广告系统的架构和算法](https://weread.qq.com/web/reader/d5932c60719db13bd5970b2)
-
+* [分布式微服务架构： 原理与实战---2019](https://weread.qq.com/web/reader/01b3264071a4952901b85ab)
 
 
 # 目录
