@@ -18,8 +18,9 @@
 * [消息设计与开发](https://weread.qq.com/web/reader/86332d005a067e8633a5fa1)
 * [企业互联网架构原理与实践---2021](https://weread.qq.com/web/reader/95c324307264001095c6f30)
 * [架构真意：企业级应用架构设计方法论与实践---2021 ](https://weread.qq.com/web/reader/1c8329d072599d741c81d96kc81322c012c81e728d9d180)
-
-
+* [可伸缩架构（第2版）：云环境下的高可用与风险管理](https://weread.qq.com/web/reader/cca3268071fd5a81ccac95b)
+* [大型网站架构---李智慧](https://weread.qq.com/web/reader/cc1326e05bcc52cc1669fc0)
+* [大型企业微服务架构实践与运营---2019](https://weread.qq.com/web/reader/49b325d0717d34aa49b0645)
 
 
 # 目录
