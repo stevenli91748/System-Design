@@ -25,7 +25,7 @@
 * [超大流量分布式系统架构解决方案： 人人都是架构师2.0---2020](https://weread.qq.com/web/reader/068328c071e072b10685247)
 * [架构整洁之道---2018](https://weread.qq.com/web/reader/480322f072021a3248038c8)
 * [系统架构设计---2017](https://weread.qq.com/web/reader/86832620717d308a868f221)
-
+* [分布式系统常用技术及案例分析（第2版）---2018](https://weread.qq.com/web/reader/1e032080718487041e02def)
 
 
 # 目录
