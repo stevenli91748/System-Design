@@ -32,6 +32,10 @@
 * [分布式微服务架构： 原理与实战---2019](https://weread.qq.com/web/reader/01b3264071a4952901b85ab)
 * [微服务分布式架构开发实战](https://weread.qq.com/web/reader/d19329f0715a41a7d19438bkc81322c012c81e728d9d180)
 
+# 设计实例
+* [面试官问：淘宝七天自动确认收货，让你设计，可以怎么实现？](https://mp.weixin.qq.com/s/LJZ9Ldsj-mQiEsRKY64vDA)
+
+
 # 目录
 
 [技术架构涵盖内容和演变过程总结](https://bugstack.cn/framework/2021/03/04/%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86-%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%E6%B6%B5%E7%9B%96%E5%86%85%E5%AE%B9%E5%92%8C%E6%BC%94%E5%8F%98%E8%BF%87%E7%A8%8B%E6%80%BB%E7%BB%93.html)|
