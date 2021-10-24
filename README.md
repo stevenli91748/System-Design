@@ -136,6 +136,7 @@
     * 国外
       * amason
   * CDN
+    * [全局负载均衡与CDN内容分发](https://www.cnblogs.com/Courage129/p/14363627.html) 
     * 国内
       * 腾讯云
       * 阿里云 
@@ -147,8 +148,10 @@
       * 阿里云的 SLB
       * 腾讯云的 CLB
       * 亚马逊的 ELB 
+    * [全局负载均衡与CDN内容分发](https://www.cnblogs.com/Courage129/p/14363627.html) 
     * 自建机房负载均衡
       * LVS + Nginx 
+        * [负载均衡之LVS与Nginx对比](https://www.cnblogs.com/Courage129/p/14383897.html) 
 * 2 逻辑层
     * [业务服务软件架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/README.md)
     * 业务框架
