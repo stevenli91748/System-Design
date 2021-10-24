@@ -152,6 +152,10 @@
     * 自建机房负载均衡
       * LVS + Nginx 
         * [负载均衡之LVS与Nginx对比](https://www.cnblogs.com/Courage129/p/14383897.html) 
+        * [LVS负载均衡理论以及算法概要](https://www.cnblogs.com/Courage129/p/14334400.html)
+        * [LVS负载均衡IP隧道模式原理介绍以及配置实战](https://www.cnblogs.com/Courage129/p/14334382.html)
+        * [LVS负载均衡NAT模式原理介绍以及配置实战](https://www.cnblogs.com/Courage129/p/14333019.html)
+        * [LVS负载均衡之DR模式原理介绍](https://www.cnblogs.com/Courage129/p/14332902.html)
 * 2 逻辑层
     * [业务服务软件架构设计](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/README.md)
     * 业务框架
