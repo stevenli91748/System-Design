@@ -792,7 +792,20 @@
   * [线上服务宕机时，如何保证数据100%不丢失](https://juejin.im/post/5c190f02518825046c2f6a5c)
   * [阿里 P9 级面试官是如何 360° 无死角考察候选人的？](https://blog.csdn.net/csdnnews/article/details/89702195)
   * [设计扛住千万级流量架构](https://blog.csdn.net/qq_35394891/article/details/80992999)
-  
+
+
+### 亿级流量研究处理
+  * [亿级流量架构实战之秒杀设计](https://www.cnblogs.com/Courage129/p/14493931.html)
+  * [亿级流量架构之网关设计思路、常见网关对比](https://www.cnblogs.com/Courage129/p/14446586.html)
+  * [亿级流量架构之分布式事务解决方案对比](https://www.cnblogs.com/Courage129/p/14443653.html)
+  * [亿级流量架构之分布式事务思路及方法](https://www.cnblogs.com/Courage129/p/14433462.html)
+  * [亿级流量架构之服务降级思路与方法](https://www.cnblogs.com/Courage129/p/14427020.html)
+  * [亿级流量架构之服务器扩容思路及问题分析](https://www.cnblogs.com/Courage129/p/14425669.html)
+  * [亿级流量架构之服务限流思路与方法](https://www.cnblogs.com/Courage129/p/14423707.html)
+  * [亿级流量架构之资源隔离思路与方法](https://www.cnblogs.com/Courage129/p/14421585.html)
+  * [亿级流量客户端缓存之Http缓存与本地缓存对比](https://www.cnblogs.com/Courage129/p/14419192.html)
+
+
 ### 亿级流量系统架构
 
 * [亿级流量系统架构之如何支撑百亿级数据的存储与计算](https://juejin.im/post/5bfab59fe51d4551584c7bcf)
