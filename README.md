@@ -47,6 +47,9 @@
 [从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)|[架构设计：企业总体架构要如何做？小白也能快速领悟的设计思想](https://www.jianshu.com/p/12770c880775)|
 ---|---|
 
+[系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)|
+---|
+
 [凤凰架构---构建可靠的大型分布式系统 周志明](https://github.com/stevenli91748/System-Design/blob/master/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84---%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%E5%91%A8%E5%BF%97%E6%98%8E.md)|[周志明的软件架构课](https://time.geekbang.org/column/article/317164)|[为什么这么设计---程序设计决策](https://draveness.me/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1)|
 ---|---|---|
 
@@ -63,7 +66,6 @@
 
 [系统分析与设计实验项目---多个项目](https://sysu-swsad.github.io/swad-guide/00-project-intro)|[系统设计面试题精选](https://soulmachine.gitbooks.io/system-design/content/cn/)|[领域驱动设计架构DDD落地案例](https://github.com/stevenli91748/Design-Patterns/blob/master/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84DDD/README.md)|
 ----|---|---|
-
 
 
 [面试官教你破解系统设计题---非常有体系的系统设计破解](https://www.1point3acres.com/bbs/thread-171320-1-1.html)|[怎样努力才能才为一个优秀的架构师？](https://zhuanlan.zhihu.com/p/27979747)|[架构设计学习资源汇总](https://zhuanlan.zhihu.com/p/47614401)|[优秀架构师必须掌握的架构思维](https://zhuanlan.zhihu.com/p/66414770)|
