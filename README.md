@@ -34,7 +34,7 @@
 
 # 设计实例
 * [面试官问：淘宝七天自动确认收货，让你设计，可以怎么实现？](https://mp.weixin.qq.com/s/LJZ9Ldsj-mQiEsRKY64vDA)
-
+* [冰河：系统从初期到支撑亿级流量，都经历了哪些架构的变迁](https://binghe.blog.csdn.net/article/details/109322172)
 
 # 目录
 
