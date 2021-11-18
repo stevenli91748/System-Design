@@ -41,14 +41,14 @@
     * 爬虫隔离
     * 热点隔离
     * 资源隔离
-    * 使用Hystrix实现隔离
+    * [使用Hystrix实现隔离](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakc1632f5021fc16a5320f3dc)
     * 基于Servlet3实现请求隔离
       * 请求解析和业务处理线程池分离
       * 业务线程池隔离
       * 业务线程池监控/运维/降级
       * 使用Servlet3异步化
       * Servlet3异步化压测数据
-  * 限流
+  * [限流](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakc1632f5021fc16a5320f3dc)
     * 限流算法
       * 令牌桶算法
       * 漏桶算法
@@ -83,7 +83,7 @@
     * 多级降级
     * 使用Hystrix实现降级
     * 使用Hystrix实现熔断
-  * 超时与重试机制
+  * [超时与重试机制](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakc1632f5021fc16a5320f3dc)
     * 代理层超时与重试
       * Nginx
     * Web容器超时
