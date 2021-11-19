@@ -31,6 +31,9 @@
 * [在线广告： 互联网广告系统的架构和算法](https://weread.qq.com/web/reader/d5932c60719db13bd5970b2)
 * [分布式微服务架构： 原理与实战---2019](https://weread.qq.com/web/reader/01b3264071a4952901b85ab)
 * [微服务分布式架构开发实战](https://weread.qq.com/web/reader/d19329f0715a41a7d19438bkc81322c012c81e728d9d180)
+* [万亿级流量转发： BFE核心技术与实现](https://weread.qq.com/web/reader/a8c323e0726e7bb8a8cedf4)
+
+
 
 # 设计实例
 * [面试官问：淘宝七天自动确认收货，让你设计，可以怎么实现？](https://mp.weixin.qq.com/s/LJZ9Ldsj-mQiEsRKY64vDA)
