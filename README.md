@@ -16,6 +16,7 @@
 <a href="https://ibb.co/2MMLTx2"><img src="https://i.ibb.co/rppLVYP/image.webp" alt="image" border="0"></a>
 
 # 在线书籍
+* [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
 * [前端架构： 从入门到微前端 ---2019](https://weread.qq.com/web/reader/b9e32d007192169bb9e012d)
 * [消息设计与开发](https://weread.qq.com/web/reader/86332d005a067e8633a5fa1)
 * [企业互联网架构原理与实践---2021](https://weread.qq.com/web/reader/95c324307264001095c6f30)
