@@ -159,6 +159,7 @@
     * [全局负载均衡与CDN内容分发](https://www.cnblogs.com/Courage129/p/14363627.html) 
     * 自建机房负载均衡
       * LVS + Nginx 
+        * [对比 LVM，Nginx，Haprox 和 Keepalive](https://www.jianshu.com/p/ab4d66514a88) 
         * [负载均衡之LVS与Nginx对比](https://www.cnblogs.com/Courage129/p/14383897.html) 
         * [LVS负载均衡理论以及算法概要](https://www.cnblogs.com/Courage129/p/14334400.html)
         * [LVS负载均衡IP隧道模式原理介绍以及配置实战](https://www.cnblogs.com/Courage129/p/14334382.html)
