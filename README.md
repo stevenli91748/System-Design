@@ -84,8 +84,8 @@
 [儒猿学院---中华石杉架构课](https://apppukyptrl1086.pc.xiaoe-tech.com/index)|[亿级流量架构系列专栏总结【石杉的架构笔记】](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484026&idx=1&sn=32ebf21e0285d3947192d89fbe6a8cb7&chksm=fba6ea79ccd1636f8f9088f448b4a3942de57bf97f582de2feb93da06e4ddfca68a5a88befe0)|[石杉的架构笔记](https://juejin.cn/user/2084329777035246/posts)|
 ---|---|---|
 
-[架构必看：12306抢票亿级流量架构演进（图解+秒懂+史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/15058702.html)|
----|
+[架构必看：12306抢票亿级流量架构演进（图解+秒懂+史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/15058702.html)|[阿里毕玄：我在系统设计上犯过的14个错](https://developer.aliyun.com/article/33077)|
+---|---|
 
 
 [九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|[爱思系统设计---硅谷多家顶尖大厂近十年工作经验资深 Tech Lead](https://acecodeinterview.com/author/logic/)|[X Code---系统设计 和 算法](https://www.youtube.com/channel/UCicSh3qMeTmYybY7wdiTjmg)|
