@@ -43,6 +43,13 @@
 * [面试官问：淘宝七天自动确认收货，让你设计，可以怎么实现？](https://mp.weixin.qq.com/s/LJZ9Ldsj-mQiEsRKY64vDA)
 * [冰河：系统从初期到支撑亿级流量，都经历了哪些架构的变迁](https://binghe.blog.csdn.net/article/details/109322172)
 
+# 系统设计视频
+* [系统设计案例](https://www.youtube.com/watch?v=HOpYJyC-0VE&list=PLbaIOC0vpjNUM49bXSCbN-ap7UrfhZgCO)
+* []()
+* []()
+
+
+
 # 目录
 
 [从软件的历史看架构的未来](https://icyfenix.cn/tricks/2021/arch/)|
