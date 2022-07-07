@@ -38,6 +38,8 @@
 * [Google系统架构解密： 构建安全可靠的系统](https://weread.qq.com/web/reader/eea327d072702b74eea9ad7)
 * [高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
 * [程序员的三门课： 技术精进，架构修练，管理](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2)
+* [云原生架构进阶实战](https://weread.qq.com/web/reader/6e432e1072015c906e4fe51)
+* [云原生应用架构：微服务开发最佳实战](https://weread.qq.com/web/reader/d0032f10813ab6d7dg015756)
 
 # 设计实例
 * [面试官问：淘宝七天自动确认收货，让你设计，可以怎么实现？](https://mp.weixin.qq.com/s/LJZ9Ldsj-mQiEsRKY64vDA)
