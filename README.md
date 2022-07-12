@@ -51,7 +51,7 @@
 # 系统设计面试速成大纲
 * [两周系统设计面试速成大纲](https://acecodeinterview.com/2_week_prep/)
 * [资深面试官眼中的系统设计---系统设计面试考查的知识点](https://acecodeinterview.com/intro/)
-
+* [架构设计面试精讲系列](https://www.youtube.com/playlist?list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
 
 
 # 目录
