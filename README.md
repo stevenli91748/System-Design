@@ -40,6 +40,7 @@
 * [程序员的三门课： 技术精进，架构修练，管理](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2)
 * [云原生架构进阶实战](https://weread.qq.com/web/reader/6e432e1072015c906e4fe51)
 * [云原生应用架构：微服务开发最佳实战](https://weread.qq.com/web/reader/d0032f10813ab6d7dg015756)
+* [发布！设计与部署稳定的分布式系统（第2版）](https://weread.qq.com/web/reader/7cd326b071c9560a7cd7aeb)
 
 # 设计实例
 * [面试官问：淘宝七天自动确认收货，让你设计，可以怎么实现？](https://mp.weixin.qq.com/s/LJZ9Ldsj-mQiEsRKY64vDA)
