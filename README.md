@@ -48,6 +48,7 @@
 
 # 系统设计视频
 * [系统设计案例](https://www.youtube.com/watch?v=HOpYJyC-0VE&list=PLbaIOC0vpjNUM49bXSCbN-ap7UrfhZgCO)
+* [架构设计面试精讲---架构设计工程经验](https://www.youtube.com/playlist?list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
 
 # 系统设计面试速成大纲
 * [两周系统设计面试速成大纲](https://acecodeinterview.com/2_week_prep/)
