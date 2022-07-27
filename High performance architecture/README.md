@@ -6,6 +6,9 @@
 
 ----
 
+[互联网“三高”架构实践：高可用 , 高性能 , 高并发](https://www.youtube.com/watch?v=IYsyRtHv_Is&t=4597s)|
+---|
+
 
 [系统接口 QPS 能达到多少? 轻量级性能测试工具 wrk](https://www.cnblogs.com/quanxiaoha/p/10661650.html)|
 ---|
