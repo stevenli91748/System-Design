@@ -1,5 +1,5 @@
 # 在线书籍
-* [构建高可用Linux服务器](https://weread.qq.com/web/reader/62632430593161626d69d52)
+* [构建高可用Linux服务器（第4版）](https://weread.qq.com/web/reader/a27329505e0a4ca27f9ba01)
 * [高可用可伸缩微服务架构：基于Dubbo、Spring Cloud和Service Mesh](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7da)
 * [MySQL高可用实践](https://weread.qq.com/web/reader/3f8327d0723278d83f89596)
 
