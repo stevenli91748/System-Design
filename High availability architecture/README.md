@@ -1,6 +1,6 @@
 
 
-[互联网“三高”架构实践：高可用 | 高性能 | 高并发](https://www.youtube.com/watch?v=IYsyRtHv_Is&t=4597s)|
+[互联网“三高”架构实践：高可用 , 高性能 , 高并发](https://www.youtube.com/watch?v=IYsyRtHv_Is&t=4597s)|
 ---|
 
 [高可用架构设计之无状态服务](https://developer.51cto.com/art/202103/649115.htm)|
