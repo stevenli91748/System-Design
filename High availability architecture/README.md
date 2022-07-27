@@ -1,3 +1,9 @@
+# 在线书籍
+* [高可用可伸缩微服务架构：基于Dubbo、Spring Cloud和Service Mesh](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7da)
+
+
+
+---
 
 
 [互联网“三高”架构实践：高可用 , 高性能 , 高并发](https://www.youtube.com/watch?v=IYsyRtHv_Is&t=4597s)|
