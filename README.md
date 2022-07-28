@@ -42,12 +42,17 @@
 * [云原生应用架构：微服务开发最佳实战](https://weread.qq.com/web/reader/d0032f10813ab6d7dg015756)
 * [发布！设计与部署稳定的分布式系统（第2版）](https://weread.qq.com/web/reader/7cd326b071c9560a7cd7aeb)
 
+
+# 高可用架构在线书籍
+# 高性能架构在线书籍
+# 高并发架构在线书籍
+
 # 设计实例
 * [面试官问：淘宝七天自动确认收货，让你设计，可以怎么实现？](https://mp.weixin.qq.com/s/LJZ9Ldsj-mQiEsRKY64vDA)
 * [冰河：系统从初期到支撑亿级流量，都经历了哪些架构的变迁](https://binghe.blog.csdn.net/article/details/109322172)
 
 # 系统设计视频
-* [京东架构师：架构设计面试精讲](https://www.youtube.com/watch?v=MVG6KBQHjJY&list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
+* [京东架构师：架构设计面试精讲---架构设计知识点目录](https://www.youtube.com/watch?v=MVG6KBQHjJY&list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
 * [系统设计案例](https://www.youtube.com/watch?v=HOpYJyC-0VE&list=PLbaIOC0vpjNUM49bXSCbN-ap7UrfhZgCO)
 * [架构设计面试精讲---架构设计工程经验](https://www.youtube.com/playlist?list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
 * [系统设计205课](https://www.youtube.com/playlist?list=PLbhaS_83B97vSWVslD63vjIi5OTYmSVrk)
