@@ -41,7 +41,7 @@
 * [云原生架构进阶实战](https://weread.qq.com/web/reader/6e432e1072015c906e4fe51)
 * [云原生应用架构：微服务开发最佳实战](https://weread.qq.com/web/reader/d0032f10813ab6d7dg015756)
 * [发布！设计与部署稳定的分布式系统（第2版）](https://weread.qq.com/web/reader/7cd326b071c9560a7cd7aeb)
-* [大型网站架构实战](https://weread.qq.com/web/reader/c9c32b7072908c90c9cc39fkc81322c012c81e728d9d180)
+* [大型网站架构实战---2022](https://weread.qq.com/web/reader/c9c32b7072908c90c9cc39fkc81322c012c81e728d9d180)
 
 # 高可用架构在线书籍
 # 高性能架构在线书籍
