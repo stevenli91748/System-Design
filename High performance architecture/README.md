@@ -4,6 +4,7 @@
 * []()
 * [高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
 * [MySQL管理之道：性能调优、高可用与监控（第2版）](https://weread.qq.com/web/reader/f5f329a05cd1a9f5f081b67)
+* [千金良方：MySQL性能优化金字塔法则](https://weread.qq.com/web/reader/4aa3250071a74c1d4aacade)
 ----
 
 [互联网“三高”架构实践：高可用 , 高性能 , 高并发](https://www.youtube.com/watch?v=IYsyRtHv_Is&t=4597s)|
