@@ -63,11 +63,12 @@
 * [资深面试官眼中的系统设计---系统设计面试考查的知识点](https://acecodeinterview.com/intro/)
 * [架构设计面试精讲系列](https://www.youtube.com/playlist?list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
 
+（架构师必看）
 
 # 目录
 
-[从软件的历史看架构的未来](https://icyfenix.cn/tricks/2021/arch/)|
----|
+[从软件的历史看架构的未来](https://icyfenix.cn/tricks/2021/arch/)|[大规模业务技术架构设计与战术（架构师必看）](https://mp.weixin.qq.com/s/Bea8dHDj51n_5Bu7_tSvug)|
+---|---|
 
 
 [技术架构涵盖内容和演变过程总结](https://bugstack.cn/framework/2021/03/04/%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86-%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%E6%B6%B5%E7%9B%96%E5%86%85%E5%AE%B9%E5%92%8C%E6%BC%94%E5%8F%98%E8%BF%87%E7%A8%8B%E6%80%BB%E7%BB%93.html)|[互联网架构师之路](https://www.zhihu.com/column/c_1154338539314573312)|
@@ -764,6 +765,8 @@
   * [Java分布式架构一线互联网公司分布式框架源码分析全集 --分库分表, 分布式缓存Flasher, 线程安全， 数据库中间件Sphere ](https://www.bilibili.com/video/av64434093)
   * [一小时高效搭建大规模集群环境session共享](https://www.bilibili.com/video/av61321932?from=search&seid=6662233512601703949)
   * [大并发服务器开发（实战）](https://www.bilibili.com/video/av45560719/?spm_id_from=333.788.videocard.0)
+
+
 # 有用的参考
 
  * [Cookie、Session、Token与JWT解析](https://www.jianshu.com/p/cab856c32222)
