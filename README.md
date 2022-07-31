@@ -56,6 +56,7 @@
 * [系统设计案例](https://www.youtube.com/watch?v=HOpYJyC-0VE&list=PLbaIOC0vpjNUM49bXSCbN-ap7UrfhZgCO)
 * [架构设计面试精讲---架构设计工程经验](https://www.youtube.com/playlist?list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
 * [系统设计205课](https://www.youtube.com/playlist?list=PLbhaS_83B97vSWVslD63vjIi5OTYmSVrk)
+* [【柳天平】亿万级高并发分布式系统架构 76集](https://www.youtube.com/watch?v=TTrIM9R5-5w)
 * [软考高级系统架构设计师培训教程---希赛IT教育](https://www.youtube.com/watch?v=2hn0f2M0dpA&list=PLFIi2dCjPZkRof0QG1hjocK1d8sg2llKo&index=1)
 
 # 系统设计面试速成大纲
