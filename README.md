@@ -78,6 +78,9 @@
 [Grokking the System Design Interview---educative  收费 网上最好的系统设计面试题 反复看5次](https://www.educative.io/courses/grokking-the-system-design-interview)|
 ---|
 
+[System Design in Practice + System Design Theories](https://tianpan.co/notes/145-introduction-to-architecture)|
+---|
+
 [从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)|[架构设计：企业总体架构要如何做？小白也能快速领悟的设计思想](https://www.jianshu.com/p/12770c880775)|
 ---|---|
 
