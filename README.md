@@ -159,6 +159,9 @@
 * [2020 软件测试教程](https://www.kancloud.cn/apachecn/guru99-zh/1953496)
 
 
+
+# [IT设备科普](https://www.youtube.com/playlist?list=PLPhB4N_3DyzuW4xFuUFjWqJKSJJHJbaDE)
+
 # 大后台技术栈包括 4 个层面的内容目录
 * [0. 流程和规范](#流程和规范)
   * 制定开发的规范---代码及代码分支管理规范，关键性代码仅少数人有权限
