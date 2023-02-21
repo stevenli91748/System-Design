@@ -16,4 +16,4 @@
 * [图灵--提升百倍吞吐量的多线程性能优化实战---一步一步教你怎样用多线程模式代码来开发高并发WEB程序](https://www.youtube.com/watch?v=_QQ3sxftM7A&t=509s)
 * [2小时教你处理网站高并发问题](https://www.youtube.com/watch?v=hXlYe3yPo5g)
 * [互联网“三高”架构实践：高可用 , 高性能 , 高并发](https://www.youtube.com/watch?v=IYsyRtHv_Is&t=4597s)
-
+* [亿万级高并发分布式系统架构](https://www.youtube.com/@user-px5ls5xo6p/videos)
