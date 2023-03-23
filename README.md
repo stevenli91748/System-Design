@@ -59,7 +59,7 @@
 * [系统设计205课](https://www.youtube.com/playlist?list=PLbhaS_83B97vSWVslD63vjIi5OTYmSVrk)
 * [【柳天平】亿万级高并发分布式系统架构 76集](https://www.youtube.com/watch?v=TTrIM9R5-5w)
 * [软考高级系统架构设计师培训教程---希赛IT教育](https://www.youtube.com/watch?v=2hn0f2M0dpA&list=PLFIi2dCjPZkRof0QG1hjocK1d8sg2llKo&index=1)
-
+* [架构设计面试精讲---京东高级架构师](https://www.youtube.com/watch?v=MVG6KBQHjJY&list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
 # 系统设计面试速成大纲
 * [两周系统设计面试速成大纲](https://acecodeinterview.com/2_week_prep/)
 * [资深面试官眼中的系统设计---系统设计面试考查的知识点](https://acecodeinterview.com/intro/)
