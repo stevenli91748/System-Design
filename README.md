@@ -336,6 +336,9 @@
 
 # 1. 需求
 
+
+**在项目的前期，我们需要思考的是：容量规划，架构设计，数据库设计，缓存设计，框架选型，数据迁移方案，性能压测，监控报警，领域模型，回滚方案，高并发，分库分表 **
+
 ### [1.1 软件需求规划](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/软件需求规划/README.md)
   
 ### [1.2 软件需求开发](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/软件需求开发/README.md)
