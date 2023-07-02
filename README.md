@@ -502,6 +502,11 @@
      * 服务名字系统
      * 服务总线系统
    * 分布式消息
+     * 消息中间件也存在一些问题
+       * 消息重复问题
+       * 消息丢失问题
+       * 消息积压问题
+       * 幂等性问题 
      * 消息队列设计
      * 消息队列种类
        * RocketMQ
@@ -528,6 +533,7 @@
    * [分布式session](https://github.com/stevenli91748/System-Design/blob/master/Session/README.md)
    * 分布式事务
      * 分布式事务方案---分布式事务对资源的消耗是巨大的，影响系统的吞吐量性能，一般是采用“ 最终一置性” ，采用“异步调用，消息中间件”的方案替代
+                       但消息中间件也存在一些问题：消息重复，消息丢失，消息积压，幂等性等问题 
    * [分布式服务](https://github.com/stevenli91748/Distributed-System)
      * [Microservice---微服务](https://github.com/stevenli91748/MicroService)
      * [Service Discovery---服务发现]
