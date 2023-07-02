@@ -553,6 +553,8 @@
           * proxy代理层分片： mycat, mysql-proxy，实现分库分表的功能是必须要调用第三方的mycat,会有网络延时，性能差
      * 读分离
      * 数据缓存
+       * redis
+       * ES(elatisearch) 
    * 数据库设计
      * 数据库计划
      * 逻辑数据库设计
@@ -584,6 +586,10 @@
      * [Wide column store---面向列的存储 ]
      * [Graph database---图形数据库]
    * 数据同步
+   * 数据库优化
+     * 换数据库： mysql->redis->oracle->tddl
+       *读多写少场景的解决方案：把数据从SQL数据库中转移到内存数据库（redis, es），以供多个客户端读操作或查询操作
+     * 读写分离、分库分表 
    
 ### 2.2.6 开发层(代码)架构
    * [代码架构结构分层：三层结构，DDD，MVC，MVVM，MVP](http://www.360doc.com/content/20/1114/16/37113458_945826321.shtml)
