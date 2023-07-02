@@ -526,6 +526,8 @@
          * [Write behind]
          * [Refresh ahead]
    * [分布式session](https://github.com/stevenli91748/System-Design/blob/master/Session/README.md)
+   * 分布式事务
+     * 分布式事务方案---分布式事务对资源的消耗是巨大的，影响系统的吞吐量性能，一般是采用“ 最终一置性” ，采用“异步调用，消息中间件”的方案替代
    * [分布式服务](https://github.com/stevenli91748/Distributed-System)
      * [Microservice---微服务](https://github.com/stevenli91748/MicroService)
      * [Service Discovery---服务发现]
