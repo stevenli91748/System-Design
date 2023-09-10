@@ -27,6 +27,11 @@
 * [实战Alibaba Sentinel：深度解析微服务高并发流量治理](https://weread.qq.com/web/reader/19132860813ab6d85g019c35)
 
 
+# 博客
+
+[字母哥---并发编程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0NDU5MTk1MQ==&action=getalbum&album_id=1576334194996232194#wechat_redirect)|
+---|
+
 ---
 # 视频
 * [图灵--提升百倍吞吐量的多线程性能优化实战---一步一步教你怎样用多线程模式代码来开发高并发WEB程序](https://www.youtube.com/watch?v=_QQ3sxftM7A&t=509s)
