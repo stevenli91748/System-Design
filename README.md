@@ -6,6 +6,9 @@
 
 # [服务器软件大盘点](https://mp.weixin.qq.com/s/J1XjIwtEKjaltqWH-0qmgw)
 
+# 搜索技术
+  * [搜索技术，普通人变强的唯一外挂。全套详细宝藏教程](https://www.youtube.com/watch?v=tiN6T1LewmQ)
+
 # 大后台技术栈包括 4 个层面的内容
 
 <a href="https://ibb.co/swdQjZT"><img src="https://i.ibb.co/LtX6S3T/image.webp" alt="image" border="0"></a>
