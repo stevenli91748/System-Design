@@ -56,6 +56,7 @@
 * [冰河：系统从初期到支撑亿级流量，都经历了哪些架构的变迁](https://binghe.blog.csdn.net/article/details/109322172)
 
 # 系统设计视频
+* [System Design Interview: A Step-By-Step Guide](https://www.youtube.com/@ByteByteGo/videos)
 * [京东架构师：架构设计面试精讲---架构设计知识点目录](https://www.youtube.com/watch?v=MVG6KBQHjJY&list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
 * [系统设计案例](https://www.youtube.com/watch?v=HOpYJyC-0VE&list=PLbaIOC0vpjNUM49bXSCbN-ap7UrfhZgCO)
 * [架构设计面试精讲---架构设计工程经验](https://www.youtube.com/playlist?list=PL5d0qARooeQizrhA4vJP5pJjAVwD90wo1)
