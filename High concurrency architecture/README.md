@@ -41,3 +41,10 @@
 * [2小时教你处理网站高并发问题](https://www.youtube.com/watch?v=hXlYe3yPo5g)
 * [互联网“三高”架构实践：高可用 , 高性能 , 高并发](https://www.youtube.com/watch?v=IYsyRtHv_Is&t=4597s)
 * [亿万级高并发分布式系统架构](https://www.youtube.com/@user-px5ls5xo6p/videos)
+
+
+# 高并发目录
+[【高并发】学好并发编程的步骤，需要掌握这些核心知识体系。 重要！！ 重要！！ 重要！！  ](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489161&idx=1&sn=4e5cb69ffd54e4bc083191dc44313d95&chksm=cf55a188f822289e0e2184932c3244bd3016c0011ce6b3865e219bdf372149cfc8d9a9653854&token=776659970&lang=zh_CN#rd)
+  * 1
+  * 2
+  * 3 
