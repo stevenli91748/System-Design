@@ -31,7 +31,11 @@
 * [基于Docker的Redis入门与实战](https://weread.qq.com/web/reader/f2932520725d0bbff2948bc)
 * [Java高并发编程详解：深入理解并发核心库](https://weread.qq.com/web/reader/30b3225071eeefb430bb397)
 * [实战Alibaba Sentinel：深度解析微服务高并发流量治理](https://weread.qq.com/web/reader/19132860813ab6d85g019c35)
-
+* 深入理解高并发编程  核心原理与案例实战---冰河
+* 深入理解高并发编程  JDK核心技术---冰河
+* 深入理解高并发编程（第2版）---冰河
+* 实战高并发设计模式---冰河
+* 
 
 # 博客
 
