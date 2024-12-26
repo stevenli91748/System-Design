@@ -62,6 +62,9 @@
 
 # 博客
 
+[如何设计一个支撑高并发大流量系统的思路](https://articles.zsxq.com/id_nwldv7ahcltr.html)|
+---|
+
 [字母哥---并发编程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0NDU5MTk1MQ==&action=getalbum&album_id=1576334194996232194#wechat_redirect)|
 ---|
 
