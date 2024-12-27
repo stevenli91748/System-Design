@@ -57,7 +57,7 @@
 
 <a href="https://ibb.co/mh53RtF"><img src="https://i.ibb.co/6D0kybJ/java-concurrent-overview-1.png" alt="java-concurrent-overview-1" border="0"></a>
 
-[[<img src="https://i.ibb.co/Csj0RyM/567.jpg" alt="567" border="0">](https://ibb.co/Nn0Ycqm)](https://ibb.co/Nn0Ycqm)
+<img src="https://i.ibb.co/Csj0RyM/567.jpg" alt="567" border="0">
 
 # 博客
 
