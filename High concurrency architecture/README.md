@@ -88,15 +88,16 @@
     * [1 【高并发】解密导致诡异并发问题的第一个幕后黑手——可见性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489365&idx=1&sn=f6b7b9f70b8653e7156fdf7c34c4a74d&source=41#wechat_redirect)
     * [2 【高并发】解密导致并发问题的第二个幕后黑手——原子性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489364&idx=1&sn=fdeca5407f03b9283bf7699b7882517b&source=41#wechat_redirect) 
     * [3 【高并发】解密导致并发问题的第三个幕后黑手——有序性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489363&idx=1&sn=247470d979a1180503a082e53259c5f5&source=41#wechat_redirect)
-* 并发基础
-* java并发集合
-* 并发工具类
-* java内存模型
-* 线程池
-* 阻塞对列
-* 锁
-* Atomic
-* 
+* 并发学习路径
+  * 1. 并发基础
+  * 2. java并发集合
+  * 3. 并发工具类
+  * 4. java内存模型
+  * 5. 线程池
+  * 6. 阻塞对列
+  * 7. 锁
+  * 8. Atomic
+
 
 # 目录
 * [并发学习路线](#并发学习路线)
