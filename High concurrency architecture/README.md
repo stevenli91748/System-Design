@@ -84,10 +84,19 @@
 ---
 
 # 高并发目录
-[【高并发】学好并发编程的步骤，需要掌握这些核心知识体系。 重要！！ 重要！！ 重要！！  ](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489161&idx=1&sn=4e5cb69ffd54e4bc083191dc44313d95&chksm=cf55a188f822289e0e2184932c3244bd3016c0011ce6b3865e219bdf372149cfc8d9a9653854&token=776659970&lang=zh_CN#rd)
-  * [1 【高并发】解密导致诡异并发问题的第一个幕后黑手——可见性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489365&idx=1&sn=f6b7b9f70b8653e7156fdf7c34c4a74d&source=41#wechat_redirect)
-  * [2 【高并发】解密导致并发问题的第二个幕后黑手——原子性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489364&idx=1&sn=fdeca5407f03b9283bf7699b7882517b&source=41#wechat_redirect) 
-  * [3 【高并发】解密导致并发问题的第三个幕后黑手——有序性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489363&idx=1&sn=247470d979a1180503a082e53259c5f5&source=41#wechat_redirect)
+* [【高并发】学好并发编程的步骤，需要掌握这些核心知识体系。 重要！！ 重要！！ 重要！！  ](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489161&idx=1&sn=4e5cb69ffd54e4bc083191dc44313d95&chksm=cf55a188f822289e0e2184932c3244bd3016c0011ce6b3865e219bdf372149cfc8d9a9653854&token=776659970&lang=zh_CN#rd)
+    * [1 【高并发】解密导致诡异并发问题的第一个幕后黑手——可见性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489365&idx=1&sn=f6b7b9f70b8653e7156fdf7c34c4a74d&source=41#wechat_redirect)
+    * [2 【高并发】解密导致并发问题的第二个幕后黑手——原子性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489364&idx=1&sn=fdeca5407f03b9283bf7699b7882517b&source=41#wechat_redirect) 
+    * [3 【高并发】解密导致并发问题的第三个幕后黑手——有序性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489363&idx=1&sn=247470d979a1180503a082e53259c5f5&source=41#wechat_redirect)
+* 并发基础
+* java并发集合
+* 并发工具类
+* java内存模型
+* 线程池
+* 阻塞对列
+* 锁
+* Atomic
+* 
 
 # 目录
 * [并发学习路线](#并发学习路线)
