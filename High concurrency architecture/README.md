@@ -90,7 +90,7 @@
     * [3 【高并发】解密导致并发问题的第三个幕后黑手——有序性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489363&idx=1&sn=247470d979a1180503a082e53259c5f5&source=41#wechat_redirect)
 * 并发学习路径
   * [1 并发基础](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80.md)
-  * 2 java并发集合
+  * [2 java并发集合](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/java%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88.MD)
   * 3 并发工具类
   * 4 java内存模型
   * 5 线程池
