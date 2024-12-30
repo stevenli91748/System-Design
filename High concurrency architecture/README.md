@@ -89,7 +89,16 @@
     * [1 【高并发】解密导致诡异并发问题的第一个幕后黑手——可见性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489365&idx=1&sn=f6b7b9f70b8653e7156fdf7c34c4a74d&source=41#wechat_redirect)
     * [2 【高并发】解密导致并发问题的第二个幕后黑手——原子性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489364&idx=1&sn=fdeca5407f03b9283bf7699b7882517b&source=41#wechat_redirect) 
     * [3 【高并发】解密导致并发问题的第三个幕后黑手——有序性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489363&idx=1&sn=247470d979a1180503a082e53259c5f5&source=41#wechat_redirect)
-* 并发学习路径
+* 七大并发模型
+  * 基于内存共享模型的线程与锁--线程与锁模型有很多众所周知的不足，但仍是其他模型的技术基础，也是很多并发软件开发的首选
+  * 函数式编程---函数式编程日渐重要的原因之一，是其对并发编程和并行编程提供了良好的支持。函数式编程消除了可变状态，所以从根本上是线程安全的，而且易于并行执行
+  * Clojure之道---编程语言Clojure是一种指令式编程和函数式编程的混搭方案，在两种编程方式上取得了微妙的平衡来发挥两者的优势
+  * actor---actor模型是一种适用性很广的并发编程模型，适用于共享内存模型和分布式内存模型，也适合解决地理分布型问题，能提供强大的容错性
+  * 通信顺序进程（Communicating Sequential Processes，CSP）---表面上看，CSP模型与actor模型很相似，两者都基于消息传递。不过CSP模型侧重于传递信息的通道，而actor模型侧重于通道两端的实体，使用CSP模型的代码会带有明显不同的风格。
+  * 数据级并行---每个笔记本电脑里都藏着一台超级计算机——GPU。GPU利用了数据级并行，不仅可以快速进行图像处理，也可以用于更广阔的领域。如果要进行有限元分析、流体力学计算或其他的大量数字计算，GPU的性能将是不二选择
+  * Lambda架构---大数据时代的到来离不开并行——现在我们只需要增加计算资源，就能具有处理TB级数据的能力。Lambda架构综合了MapReduce和流式处理的特点，是一种可以处理多种大数据问题的架构 
+  
+* 基于内存共享模型的并发学习路径
   * [1 并发基础](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80%E7%9B%AE%E5%BD%95.md)
   * [2 java并发集合](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/java%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88/java%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88%E7%9B%AE%E5%BD%95.md)
   * [3 并发工具类](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%B9%B6%E5%8F%91%E5%B7%A5%E5%85%B7%E7%B1%BB/%E5%B9%B6%E5%8F%91%E5%B7%A5%E5%85%B7%E7%B1%BB%E7%9B%AE%E5%BD%95.md)
