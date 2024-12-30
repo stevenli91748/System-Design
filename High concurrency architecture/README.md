@@ -92,7 +92,7 @@
   * [1 并发基础](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80.md)
   * [2 java并发集合](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/java%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88.MD)
   * [3 并发工具类](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%B9%B6%E5%8F%91%E5%B7%A5%E5%85%B7%E7%B1%BB.md)
-  * 4 java内存模型
+  * [4 java内存模型](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)
   * 5 线程池
   * 6 阻塞对列
   * 7 锁
