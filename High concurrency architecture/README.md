@@ -99,7 +99,7 @@
   * Lambda架构---大数据时代的到来离不开并行——现在我们只需要增加计算资源，就能具有处理TB级数据的能力。Lambda架构综合了MapReduce和流式处理的特点，是一种可以处理多种大数据问题的架构 
   
 * 基于内存共享模型的并发学习路径
-  * [1 并发基础](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80%E7%9B%AE%E5%BD%95.md)
+  * [1 内存共享模型的并发原理](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80%E7%9B%AE%E5%BD%95.md)
   * [2 java并发集合](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/java%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88/java%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88%E7%9B%AE%E5%BD%95.md)
   * [3 并发工具类](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%B9%B6%E5%8F%91%E5%B7%A5%E5%85%B7%E7%B1%BB/%E5%B9%B6%E5%8F%91%E5%B7%A5%E5%85%B7%E7%B1%BB%E7%9B%AE%E5%BD%95.md)
   * [4 java内存模型](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E7%9B%AE%E5%BD%95.md)
