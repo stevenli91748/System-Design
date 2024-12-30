@@ -97,7 +97,7 @@
   * [5 线程池](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E7%BA%BF%E7%A8%8B%E6%B1%A0/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9B%AE%E5%BD%95.md)
   * [6 阻塞对列](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E9%98%BB%E5%A1%9E%E5%AF%B9%E5%88%97/%E9%98%BB%E5%A1%9E%E5%AF%B9%E5%88%97%E7%9B%AE%E5%BD%95.md)
   * [7 锁](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E9%94%81/%E9%94%81%E7%9B%AE%E5%BD%95.md)
-  * [8 Atomic]([https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/Atomic.md](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/Atomic/Atomic%E7%9B%AE%E5%BD%95.md))
+  * [8 Atomic](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/Atomic/Atomic%E7%9B%AE%E5%BD%95.md)
 
 
 # 目录
