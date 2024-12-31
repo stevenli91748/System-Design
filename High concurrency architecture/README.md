@@ -97,7 +97,7 @@
   * 通信顺序进程（Communicating Sequential Processes，CSP）---表面上看，CSP模型与actor模型很相似，两者都基于消息传递。不过CSP模型侧重于传递信息的通道，而actor模型侧重于通道两端的实体，使用CSP模型的代码会带有明显不同的风格。
   * 数据级并行---每个笔记本电脑里都藏着一台超级计算机——GPU。GPU利用了数据级并行，不仅可以快速进行图像处理，也可以用于更广阔的领域。如果要进行有限元分析、流体力学计算或其他的大量数字计算，GPU的性能将是不二选择
   * Lambda架构---大数据时代的到来离不开并行——现在我们只需要增加计算资源，就能具有处理TB级数据的能力。Lambda架构综合了MapReduce和流式处理的特点，是一种可以处理多种大数据问题的架构 
-* 高并发设计模式  
+* [高并发设计模式  ](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E9%AB%98%E5%B9%B6%E5%8F%91%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E9%AB%98%E5%B9%B6%E5%8F%91%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9B%AE%E5%BD%95.md)
 * 基于内存共享模型的并发学习路径
   * [1 内存共享模型的并发原理](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80%E7%9B%AE%E5%BD%95.md)
   * [2 java并发集合](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/java%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88/java%E5%B9%B6%E5%8F%91%E9%9B%86%E5%90%88%E7%9B%AE%E5%BD%95.md)
