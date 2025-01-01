@@ -85,6 +85,16 @@
 
 # 高并发目录
 * [【高并发】要想学好并发编程，关键是要理解这三个核心问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489368&idx=1&sn=e856feb5e9c582e865fddbc91b91a636&source=41#wechat_redirect)
+  * 核心问题一：分工机制
+  * 核心问题二：同步机制
+  * 核心问题三：互斥机制
+    * 互斥机制的实现方法
+      * Synchronized锁
+      * ThreadLocal
+      * CAS
+      * 原子类
+      * CopyOnWrite开头的并发容器类
+      * Lock锁及读/写锁   
 * [【高并发】学好并发编程的步骤，需要掌握这些核心知识体系。 重要！！ 重要！！ 重要！！  ](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489161&idx=1&sn=4e5cb69ffd54e4bc083191dc44313d95&chksm=cf55a188f822289e0e2184932c3244bd3016c0011ce6b3865e219bdf372149cfc8d9a9653854&token=776659970&lang=zh_CN#rd)
     * [1 【高并发】解密导致诡异并发问题的第一个幕后黑手——可见性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489365&idx=1&sn=f6b7b9f70b8653e7156fdf7c34c4a74d&source=41#wechat_redirect)
     * [2 【高并发】解密导致并发问题的第二个幕后黑手——原子性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489364&idx=1&sn=fdeca5407f03b9283bf7699b7882517b&source=41#wechat_redirect) 
