@@ -86,7 +86,25 @@
 # 高并发目录
 * [【高并发】要想学好并发编程，关键是要理解这三个核心问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489368&idx=1&sn=e856feb5e9c582e865fddbc91b91a636&source=41#wechat_redirect)
   * 核心问题一：分工机制
+    * 分工机制的实现方法
+      * 线程池
+      * Fork/Join
+      * Future
+      * Guarded Suspension设计模式
+      * Thread-Per-Message设计模式
+      * 生产者-消费者设计模式
+      * 两阶段终止设计模式
+      * Worker-Thread设计模式
+      * Balking设计模式 
   * 核心问题二：同步机制
+    * 同步机制的实现方法
+      * Semaphore
+      * Lock
+      * Synchronized
+      * CountDownLatch
+      * CyclicBarrier
+      * Exchanger
+      * Phaser 
   * 核心问题三：互斥机制
     * 互斥机制的实现方法
       * Synchronized锁
