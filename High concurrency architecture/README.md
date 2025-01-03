@@ -121,13 +121,16 @@
         * final
         * 内存模型的Happens-Before 原则
     * [2 【高并发】解密导致并发问题的第二个幕后黑手——原子性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489364&idx=1&sn=fdeca5407f03b9283bf7699b7882517b&source=41#wechat_redirect)
-      *  解决原子性问题的方案
+      *  [解决原子性问题的方案](https://github.com/stevenli91748/System-Design/blob/master/High%20concurrency%20architecture/%E5%AF%BC%E8%87%B4%E5%B9%B6%E5%8F%91%E9%97%AE%E9%A2%98%E7%9A%84%E4%B8%89%E4%B8%AA%E5%B9%95%E5%90%8E%E9%BB%91%E6%89%8B/%E5%8E%9F%E5%AD%90%E6%80%A7%E9%97%AE%E9%A2%98/%E5%8E%9F%E5%AD%90%E6%80%A7%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
          * Synchronized
          * Lock锁
          * ReentrantLock
          * ReadWriteLock
          * CAS
-         * 原子类   
+         * 原子类
+         * 在JAVA中如何解决跨总线访问数据的原字性问题
+         * 在JAVA中如何解决跨多个缓存行访问数据的原字性问题
+         * 在JAVA中如何解决跨页表访问数据的原字性问题    
     * [3 【高并发】解密导致并发问题的第三个幕后黑手——有序性问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489363&idx=1&sn=247470d979a1180503a082e53259c5f5&source=41#wechat_redirect)
       * 解决有序性问题的方案
         * Volatile
