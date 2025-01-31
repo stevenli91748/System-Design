@@ -86,6 +86,7 @@
 # 高并发目录
 * [【高并发】要想学好并发编程，关键是要理解这三个核心问题](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489368&idx=1&sn=e856feb5e9c582e865fddbc91b91a636&source=41#wechat_redirect)
 * 分布式锁---
+  * [分布式锁介绍](https://javaguide.cn/distributed-system/distributed-lock.html)
 * JVM锁---只能在单机环境下（同一个JVM进程内）实现线程的互斥功能，无法解决分布式环境下（不同的JVM进程）的线程安全问题
   * 核心问题一：分工机制
     * 分工机制的实现方法
