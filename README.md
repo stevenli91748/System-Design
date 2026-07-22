@@ -49,6 +49,7 @@
 
 # 高可用架构在线书籍
 # 高性能架构在线书籍
+  * [高性能交易系统设计原理](https://liaoxuefeng.com/blogs/all/2020-04-07-high-performance-exchange/index.html)
 # 高并发架构在线书籍
 
 # 设计实例
